@@ -11,7 +11,7 @@ const https = require("https");
 const BASE_URL = "https://api.breezy.hr/v3";
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-function request(method, p, body, token) {
+function requestOnce(method, p, body, token) {
   return new Promise((resolve, reject) => {
     const url = new URL(BASE_URL + p);
     const data = body ? JSON.stringify(body) : null;
@@ -23,19 +23,36 @@ function request(method, p, body, token) {
       (res) => {
         let raw = "";
         res.on("data", (c) => (raw += c));
-        res.on("end", () => {
-          try {
-            const parsed = raw ? JSON.parse(raw) : {};
-            if (res.statusCode >= 400) { console.error("DEBUG failed request:", method, url.pathname + url.search); reject(new Error(`API ${res.statusCode}: ${raw.slice(0, 300)}`)); }
-            else resolve(parsed);
-          } catch { reject(new Error(`parse fail: ${raw.slice(0, 300)}`)); }
-        });
+        res.on("end", () => resolve({ statusCode: res.statusCode, raw }));
       }
     );
     req.on("error", reject);
     if (data) req.write(data);
     req.end();
   });
+}
+
+// Retries automatically on 429 (rate limit) with exponential backoff, so
+// scheduled/unattended runs (daily check, outreach send) self-recover
+// instead of just failing when Breezy throttles us.
+async function request(method, p, body, token, retries = 4) {
+  for (let attempt = 0; attempt <= retries; attempt++) {
+    const { statusCode, raw } = await requestOnce(method, p, body, token);
+    if (statusCode === 429 && attempt < retries) {
+      const waitMs = 2000 * Math.pow(2, attempt); // 2s, 4s, 8s, 16s
+      console.error(`DEBUG rate limited (429) on ${method} ${p}, retrying in ${waitMs}ms (attempt ${attempt + 1}/${retries})`);
+      await sleep(waitMs);
+      continue;
+    }
+    try {
+      const parsed = raw ? JSON.parse(raw) : {};
+      if (statusCode >= 400) { console.error("DEBUG failed request:", method, p); throw new Error(`API ${statusCode}: ${raw.slice(0, 300)}`); }
+      return parsed;
+    } catch (e) {
+      if (e.message && e.message.startsWith("API ")) throw e;
+      throw new Error(`parse fail: ${raw.slice(0, 300)}`);
+    }
+  }
 }
 
 class BreezyClient {
