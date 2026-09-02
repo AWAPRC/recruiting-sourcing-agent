@@ -26,7 +26,7 @@ function request(method, p, body, token) {
         res.on("end", () => {
           try {
             const parsed = raw ? JSON.parse(raw) : {};
-            if (res.statusCode >= 400) reject(new Error(`API ${res.statusCode}: ${raw.slice(0, 300)}`));
+            if (res.statusCode >= 400) { console.error("DEBUG failed request:", method, url.pathname + url.search); reject(new Error(`API ${res.statusCode}: ${raw.slice(0, 300)}`)); }
             else resolve(parsed);
           } catch { reject(new Error(`parse fail: ${raw.slice(0, 300)}`)); }
         });
@@ -55,7 +55,9 @@ class BreezyClient {
   async getCompanyId() {
     if (this.company) return this.company;
     const cs = await this.api("GET", "/companies");
+    console.error("DEBUG /companies raw response:", JSON.stringify(cs));
     this.company = cs[0]._id;
+    console.error("DEBUG resolved companyId:", JSON.stringify(this.company));
     return this.company;
   }
   async api(method, p, body, retries = 5) {
