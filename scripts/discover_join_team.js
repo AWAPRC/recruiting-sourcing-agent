@@ -23,7 +23,12 @@ const PASSWORD = process.env.BREEZY_PASSWORD;
     const posRes = await fetch(`https://api.breezy.hr/v3/company/${company._id}/positions`, {
       headers: { Authorization: token },
     });
-    const positions = await posRes.json();
+    const positionsRaw = await posRes.json();
+    if (!Array.isArray(positionsRaw)) {
+      console.log('  Non-array positions response, status', posRes.status, ':', JSON.stringify(positionsRaw));
+      continue;
+    }
+    const positions = positionsRaw;
     for (const p of positions) {
       const flag = /join.*team|talent.*network|talent.*pool/i.test(p.name) ? '  <-- MATCH' : '';
       console.log(`${p._id} | ${p.state} | ${p.name}${flag}`);
@@ -36,13 +41,13 @@ const PASSWORD = process.env.BREEZY_PASSWORD;
           headers: { Authorization: token },
         });
         const detail = await detailRes.json();
-        console.log(`\n  Pipeline for "${p.name}":`);
-        if (detail.pipeline) {
-          for (const stage of detail.pipeline) {
-            console.log(`    stage_id=${stage.id || stage._id} name="${stage.name}" type=${stage.type && stage.type.name}`);
-          }
-        } else {
-          console.log('    (no pipeline field found - full detail keys:', Object.keys(detail), ')');
+        console.log(`\n  Position "${p.name}" pipeline_id: ${detail.pipeline_id}`);
+        if (detail.pipeline_id) {
+          const pipeRes = await fetch(`https://api.breezy.hr/v3/company/${company._id}/pipeline/${detail.pipeline_id}`, {
+            headers: { Authorization: token },
+          });
+          const pipeline = await pipeRes.json();
+          console.log('  Pipeline detail:', JSON.stringify(pipeline, null, 2));
         }
       }
     }
