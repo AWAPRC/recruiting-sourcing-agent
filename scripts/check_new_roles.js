@@ -31,6 +31,8 @@ const TALENT_POOL_POSITION_ID = '2ffecbf54808';
   console.log(`Found ${newOnes.length} new role(s):`, newOnes.map((p) => p.name).join(', '));
 
   // Pull talent pool candidates so a human (or a later Claude pass) can match them.
+  const NEGATIVE_NOTE_PATTERNS = /\b(not good|not a fit|do not recommend|don'?t recommend|red flag|reject|poor fit|bad fit|do not (re-?)?contact|no rehire)\b/i;
+
   const poolRes = await fetch(`https://api.breezy.hr/v3/company/${company}/position/${TALENT_POOL_POSITION_ID}/candidates`, {
     headers: { Authorization: token },
   });
@@ -40,7 +42,26 @@ const TALENT_POOL_POSITION_ID = '2ffecbf54808';
     const dRes = await fetch(`https://api.breezy.hr/v3/company/${company}/position/${TALENT_POOL_POSITION_ID}/candidate/${c._id}`, {
       headers: { Authorization: token },
     });
-    poolDetail.push(await dRes.json());
+    const detail = await dRes.json();
+
+    // Condition 1: low scorecard rating (any "poor"/"very_poor" ratings, or a low average)
+    const score = detail.overall_score || {};
+    const hasLowScore = (score.poor && score.poor.length > 0) || (score.very_poor && score.very_poor.length > 0) ||
+      (typeof score.average_score === 'number' && score.average_score < 2.5);
+
+    // Condition 2: negative note on the Discussion/Stream feed
+    const streamRes = await fetch(`https://api.breezy.hr/v3/company/${company}/position/${TALENT_POOL_POSITION_ID}/candidate/${c._id}/stream`, {
+      headers: { Authorization: token },
+    });
+    const stream = await streamRes.json();
+    const hasNegativeNote = Array.isArray(stream) && stream.some((m) => {
+      const text = (m.object && m.object.body) || '';
+      return NEGATIVE_NOTE_PATTERNS.test(text);
+    });
+
+    detail._eligible_for_outreach = !hasLowScore && !hasNegativeNote;
+    detail._exclusion_reason = hasLowScore ? 'low scorecard rating' : hasNegativeNote ? 'negative discussion note' : null;
+    poolDetail.push(detail);
   }
 
   const today = new Date().toISOString().slice(0, 10);
