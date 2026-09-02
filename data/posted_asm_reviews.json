@@ -1,0 +1,67 @@
+{
+  "posted": [
+    {
+      "candidate": "Sharon Hughes",
+      "candidate_id": "543bcfea8815",
+      "status": 200,
+      "ok": true,
+      "posted_date": "2026-09-02T17:06:58.161Z"
+    },
+    {
+      "candidate": "Yoline Lormeus",
+      "candidate_id": "ae9badb6a73e",
+      "status": 200,
+      "ok": true,
+      "posted_date": "2026-09-02T17:06:58.228Z"
+    },
+    {
+      "candidate": "Laurielen Cardoso da Silva",
+      "candidate_id": "2acdf59b3bb1",
+      "status": 200,
+      "ok": true,
+      "posted_date": "2026-09-02T17:06:58.291Z"
+    },
+    {
+      "candidate": "Melissa Khan",
+      "candidate_id": "2618356b8e74",
+      "status": 200,
+      "ok": true,
+      "posted_date": "2026-09-02T17:06:58.351Z"
+    },
+    {
+      "candidate": "Leyla Eskinova",
+      "candidate_id": "8be56c05c91e",
+      "status": 200,
+      "ok": true,
+      "posted_date": "2026-09-02T17:06:58.426Z"
+    },
+    {
+      "candidate": "Tracy Howze",
+      "candidate_id": "2b221d1f800e",
+      "status": 200,
+      "ok": true,
+      "posted_date": "2026-09-02T17:06:58.554Z"
+    },
+    {
+      "candidate": "Brianna Vella",
+      "candidate_id": "8e446d41003d",
+      "status": 200,
+      "ok": true,
+      "posted_date": "2026-09-02T17:06:58.652Z"
+    },
+    {
+      "candidate": "Laura Colucci",
+      "candidate_id": "c4b9b9000141",
+      "status": 200,
+      "ok": true,
+      "posted_date": "2026-09-02T17:06:58.719Z"
+    },
+    {
+      "candidate": "Tamara Riley",
+      "candidate_id": "2f8cf9cfd23e",
+      "status": 200,
+      "ok": true,
+      "posted_date": "2026-09-02T17:06:58.791Z"
+    }
+  ]
+}
