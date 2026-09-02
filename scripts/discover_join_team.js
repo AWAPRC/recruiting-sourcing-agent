@@ -8,10 +8,14 @@ const PASSWORD = process.env.BREEZY_PASSWORD;
 (async () => {
   const client = new BreezyClient(EMAIL, PASSWORD);
   const token = await client.getToken();
+  console.log('Token acquired:', token ? token.slice(0, 12) + '...' : '(none)');
   const companiesRes = await fetch('https://api.breezy.hr/v3/companies', {
     headers: { Authorization: `Bearer ${token}` },
   });
-  const companies = await companiesRes.json();
+  const companiesRaw = await companiesRes.json();
+  console.log('Raw /companies status:', companiesRes.status);
+  console.log('Raw /companies body:', JSON.stringify(companiesRaw));
+  const companies = Array.isArray(companiesRaw) ? companiesRaw : (companiesRaw.companies || companiesRaw.data || []);
   console.log('COMPANIES:', JSON.stringify(companies.map(c => ({ id: c._id, name: c.name })), null, 2));
 
   for (const company of companies) {
