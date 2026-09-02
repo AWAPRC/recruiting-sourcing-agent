@@ -1,10 +1,4 @@
 #!/usr/bin/env node
-/**
- * get_role.js — pulls a single Breezy position (by name match) plus all its candidates
- * and their resume/profile data. Writes data/role_<slug>_<date>.json.
- *
- * Run: BREEZY_EMAIL=... BREEZY_PASSWORD=... node scripts/get_role.js "Business Development" [YYYY-MM-DD]
- */
 const fs = require("fs");
 const path = require("path");
 const { BreezyClient } = require("./breezy_client");
@@ -31,7 +25,6 @@ if (!ROLE_NAME) {
   if (matches.length > 1) {
     console.error(`Multiple positions match "${ROLE_NAME}":`);
     matches.forEach(p => console.error(`  - ${p.name}  id=${p._id}  state=${p.state}`));
-    console.error("Refine the search string.");
     process.exit(1);
   }
 

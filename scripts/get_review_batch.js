@@ -14,7 +14,6 @@ const { BreezyClient } = require("./breezy_client");
 const DATE = process.argv[2] || new Date().toISOString().slice(0, 10);
 const OUT_DIR = path.join(__dirname, "..", "data");
 
-// Substring match (case-insensitive) against the candidate's current stage name.
 const TARGET_STAGE_PATTERNS = [
   /applied/i,
   /phone\s*screen/i,
@@ -30,16 +29,11 @@ function stageMatches(stageName) {
 
 (async () => {
   const client = new BreezyClient(process.env.BREEZY_EMAIL, process.env.BREEZY_PASSWORD);
-  const allPositions = await client.listPositions();
-  const openPositions = allPositions.filter((p) => p.state === "published" || p.state === "internal" || p.state === "draft" ? p.state === "published" : true);
-  // Breezy position states: published (live/open), internal, draft, on_hold, filled, cancelled.
-  // We only want genuinely open reqs.
-  const truly_open = allPositions.filter((p) => p.state === "published");
-
-  console.log(`Total positions: ${allPositions.length}. Open (published): ${truly_open.length}`);
+  const openPositions = await client.listPositions("published");
+  console.log(`Open (published) positions: ${openPositions.length}`);
 
   const results = [];
-  for (const position of truly_open) {
+  for (const position of openPositions) {
     console.log(`\n${position.name} (id=${position._id})`);
     let candidates;
     try {
