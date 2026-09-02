@@ -4,7 +4,7 @@
 // logging the FULL response body each time so we can see Breezy's real validation error
 // and correct the schema from that, per the approved "test on one candidate first" plan.
 
-const BreezyClient = require('./breezy_client');
+const { BreezyClient } = require('./breezy_client');
 
 const EMAIL = process.env.BREEZY_EMAIL;
 const PASSWORD = process.env.BREEZY_PASSWORD;
