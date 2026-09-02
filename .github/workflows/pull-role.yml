@@ -1,0 +1,45 @@
+name: Pull Role from Breezy
+
+# Manually triggered for now (pilot: Business Development). Pulls the position + all
+# candidates from Breezy, writes them to data/, and commits the result back to the repo.
+# Runs on GitHub's runners because api.breezy.hr is not reachable from the Claude session
+# sandbox directly — same workaround the P&C Recruiting Dashboard project uses.
+
+on:
+  workflow_dispatch:
+    inputs:
+      role_name:
+        description: 'Role name to search for in Breezy (substring match)'
+        required: true
+        default: 'Business Development'
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with: { node-version: '24' }
+
+      - name: Pull role + candidates from Breezy
+        env:
+          BREEZY_EMAIL:    ${{ secrets.BREEZY_EMAIL }}
+          BREEZY_PASSWORD: ${{ secrets.BREEZY_PASSWORD }}
+        run: |
+          set -e
+          DATE=$(TZ=America/New_York date +%F)
+          node scripts/get_role.js "${{ github.event.inputs.role_name }}" "$DATE"
+
+      - name: Commit pulled data back
+        run: |
+          git config user.name  "recruiting-agent-bot"
+          git config user.email "recruiting-agent-bot@users.noreply.github.com"
+          git add data/ || true
+          git commit -m "Pull role data $(TZ=America/New_York date +'%F %H:%M ET')" || echo "no changes"
+          git push || echo "nothing to push"
