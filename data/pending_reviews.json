@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "745add77f10a",
+    "name": "Ashley Anderson",
+    "review": "**Fit summary:** Strong match against the Wellness Coordinator guide - 2+ years direct adolescent care with explicit supervisory/behavioral-monitoring duties. **Strengths:** Currently a Lead Youth Care Specialist (residential youth treatment) plus prior BHT and juvenile-justice youth-specialist roles; confirms PHP & IOP exposure and 1-2 direct reports in questionnaire; no short stays under 6 months. **Gaps:** No EHR system explicitly named; desired pay ($20/hr) is on the lower end but reasonable. **Recommendation:** Strong candidate - continue through Personal Impact as scheduled.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "fea9132516f9",
+    "name": "Angela Vargas",
+    "review": "**Fit summary:** Background is patient intake/family support and community program coordination, not direct adolescent behavioral-health work - a softer match against the Wellness Coordinator guide's must-haves. **Strengths:** Fully bilingual, strong organizational self-ratings, comfortable with de-escalation per questionnaire. **Gaps:** No paid role lists direct adolescent behavioral observation/monitoring as a duty; questionnaire self-reports 1+ year with adolescents but resume doesn't clearly show it. **Recommendation:** Worth probing the adolescent-specific experience directly in the A Players discussion - not a clear must-have match on paper.",
+    "disqualify": false
+  },
+  {
+    "position_id": "90654c8a703c",
+    "candidate_id": "5c949947c609",
+    "name": "Brandon Restivo",
+    "review": "**Fit summary:** Deep admissions/business-development background at a treatment center (Mandala Healing Center), directly relevant to the Outreach guide. **Strengths:** Business Development Coordination Supervisor experience managing referral accounts and admissions conversion; Kipu EMR and Salesforce (Classic/Lightning) systems; 4+ years admissions/customer service; comfortable with real-time CRM/EMR documentation. **Gaps:** Guide calls for field-based territory/referral-source development (hospitals, detox, courts) - Brandon's experience is admissions-side coordination rather than external field outreach; no driver's license/vehicle confirmation on file; comp expectation marked \"Other\" (unconfirmed). **Recommendation:** Strong admissions/BD background - advance, but confirm field-outreach fit and comp in phone screen.",
+    "disqualify": false
+  },
+  {
+    "position_id": "d540d93d12d2",
+    "candidate_id": "f0814db857aa",
+    "name": "Erin Duffy",
+    "review": "**Fit summary:** Solid recruiting background (Talent Acquisition Partner, Recruitment Business Partner) but agency/staffing-side, not internal HR generalist work - a partial match against the People & Culture Advocate guide. **Strengths:** Managed 15+ open reqs at once, healthcare/high-volume recruiting experience, structured onboarding follow-through per questionnaire. **Gaps:** No personnel-file/compliance, I-9, or benefits administration experience listed; resume includes several unrelated roles (retail GM, financial analyst); cover letter is generic and doesn't reference behavioral health specifically. **Recommendation:** Worth a phone screen - real recruiting chops, but confirm HR-compliance/onboarding-ownership experience directly.",
+    "disqualify": false
+  },
+  {
+    "position_id": "d540d93d12d2",
+    "candidate_id": "616efa8d03c1",
+    "name": "Sandra Jean-Baptiste",
+    "review": "**Fit summary:** Strong match - 11+ years full-cycle recruiting and HR specifically in clinical/behavioral-health environments. **Strengths:** Current HR Generalist role, prior District Team Leader (recruiting/onboarding/training across sites) and Clinical Care Coordinator background; confirms 15+ concurrent reqs and 90-day onboarding follow-through in questionnaire. **Gaps:** None significant against this guide. **Recommendation:** Advance to phone screen - one of the stronger matches in this batch.",
+    "disqualify": false
+  },
+  {
+    "position_id": "d540d93d12d2",
+    "candidate_id": "d928e3528112",
+    "name": "JUSTIN BRAHMS",
+    "review": "**Fit summary:** No HR, recruiting, or behavioral-health experience anywhere in the work history - background is entirely industrial sales, logistics, and warehouse operations at a single chemical-supply company. **Strengths:** Some supervisory experience (trained a team of 10 in a logistics role). **Gaps:** Zero recruiting/HR systems, compliance, or onboarding experience; questionnaire self-reports \"less than 2 years recruiting experience\" but no recruiting role appears anywhere on the resume; found the posting on Indeed with no stated connection to the field. **Recommendation:** Not a fit for this role - disqualifying given the complete field mismatch against the People & Culture Advocate must-haves.",
+    "disqualify": true
+  },
+  {
+    "position_id": "d540d93d12d2",
+    "candidate_id": "ed4090fe42d9",
+    "name": "Pamela Simone",
+    "review": "**Fit summary:** Strong healthcare recruiting background (HCA facilities, nursing/allied health), though more sourcing-recruiter than HR-generalist in focus. **Strengths:** Regional Recruiter and Senior Healthcare Recruiter roles, Masters in Applied/Industrial-Organizational Psychology, strong employer-branding/community-partnership experience (former Chamber of Commerce Event Manager). **Gaps:** No personnel-file compliance, I-9, or benefits administration experience listed - resume leans sourcing/placement rather than full HR lifecycle. **Recommendation:** Worth a phone screen - relevant healthcare recruiting depth, confirm interest in the broader HR-generalist scope of this role.",
+    "disqualify": false
+  },
+  {
+    "position_id": "d540d93d12d2",
+    "candidate_id": "df6fe9972002",
+    "name": "Anabhel Gomez",
+    "review": "**Fit summary:** No direct recruiting-coordinator job history, but a Master's in Human Resources Management plus years of case-management/service-coordination work is a reasonable adjacent match. **Strengths:** M.S. in HR Management (directly relevant to guide's strong-plus), B.A. Psychology, bilingual, healthcare case-management background involving direct-care worker coordination. **Gaps:** Questionnaire confirms \"less than 2 years recruiting experience\"; no ATS, onboarding-coordination, or personnel-file compliance experience listed. **Recommendation:** Worth a phone screen given the HR education - probe how she'd apply that academic background to hands-on recruiting coordination.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "918b47df0cff",
+    "name": "Mickayla Jules",
+    "review": "**Fit summary:** Certifications are directly relevant (Mental Health Technician diploma, RBT), but paid work history is a daycare lead-teacher role, not a treatment-center setting - a gap against the BHT guide's must-haves. **Strengths:** MHT and RBT credentials, describes hands-on clinical-practicum experience with co-occurring adult SUD/MH clients, willing to provide references. **Gaps:** No paid treatment-center (PHP/IOP/residential/detox) job listed; questionnaire experience with adults is from a school clinical placement rather than employment. **Recommendation:** Worth continuing through Personal Impact as scheduled - confirm how much hands-on client-facing time the practicum actually involved.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "3e0275545322",
+    "name": "Jeremy Kynard",
+    "review": "**Fit summary:** Strong direct match - currently a Behavioral Health Technician at a treatment facility overseeing UAs/breathalyzers for co-occurring addiction and mental-health clients, exactly the guide's core duties. **Strengths:** 33 months in a directly comparable BHT role plus a prior youth/young-adult BHT position (41mo); shift-reporting and client-transportation experience. **Gaps:** Questionnaire wasn't completed, so recovery status/DCF eligibility isn't confirmed yet. **Recommendation:** Strong match - continue through Phone Screen as scheduled.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "aa8e0877ed1c",
+    "name": "Annick Henry",
+    "review": "**Fit summary:** Strong adolescent residential/crisis-intervention background, but no adult substance-use population experience - a gap against this guide, which is written for PRC's adult program. **Strengths:** Lead Student Life Counselor in a structured residential school setting with de-escalation and behavioral-documentation duties; confirms comfort with crisis situations. **Gaps:** Questionnaire confirms no direct experience with adults with co-occurring substance-use/mental-health disorders; no treatment-center (PHP/IOP/detox) setting on resume. **Recommendation:** Worth continuing through Phone Screen as scheduled, but flag the adult-population gap directly.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "310fb340c6c5",
+    "name": "Latonya Pierce",
+    "review": "**Fit summary:** Solid hospital-based Mental Health Technician background with direct adult client-safety duties, though setting is medical/hospital psych rather than a PHP/IOP/residential treatment center specifically. **Strengths:** Current MHT/Patient Safety Technician at a hospital, confirms direct experience with adults with co-occurring substance-use and mental-health disorders, home-health-aide and medical-assistant background rounding out patient-care experience. **Gaps:** No treatment-center-specific (PHP/IOP/detox) setting listed; no certifications beyond CPR/CPI/AVADE and Home Health Aide/Medical Assistant. **Recommendation:** Worth continuing through Phone Screen as scheduled - relevant hands-on patient-care background even if the setting differs.",
+    "disqualify": false
+  }
+]
