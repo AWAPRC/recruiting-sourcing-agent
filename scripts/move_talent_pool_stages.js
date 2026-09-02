@@ -6,7 +6,7 @@ const PASSWORD = process.env.BREEZY_PASSWORD;
 const POSITION_ID = '2ffecbf54808';
 
 const MOVES = [
-  { name: 'Charnee Henry', candidateId: '05fe220a7690', stageId: 1788361552114, stageName: 'PRC' },
+  { name: 'Tamar Gerber', candidateId: '9e26e23c6abc', stageId: 1788361573586, stageName: 'AWA' },
 ];
 
 async function move(company, token, m) {
