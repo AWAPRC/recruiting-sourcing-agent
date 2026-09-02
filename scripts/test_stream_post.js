@@ -33,7 +33,7 @@ async function tryPost(client, token, company, label, body) {
     const res = await fetch(url, {
       method: 'POST',
       headers: {
-        'Authorization': `Bearer ${token}`,
+        'Authorization': token,
         'Content-Type': 'application/json',
       },
       body: JSON.stringify(body),

@@ -10,7 +10,7 @@ const PASSWORD = process.env.BREEZY_PASSWORD;
   const token = await client.getToken();
   console.log('Token acquired:', token ? token.slice(0, 12) + '...' : '(none)');
   const companiesRes = await fetch('https://api.breezy.hr/v3/companies', {
-    headers: { Authorization: `Bearer ${token}` },
+    headers: { Authorization: token },
   });
   const companiesRaw = await companiesRes.json();
   console.log('Raw /companies status:', companiesRes.status);
@@ -21,7 +21,7 @@ const PASSWORD = process.env.BREEZY_PASSWORD;
   for (const company of companies) {
     console.log(`\n=== ${company.name} (${company._id}) ===`);
     const posRes = await fetch(`https://api.breezy.hr/v3/company/${company._id}/positions`, {
-      headers: { Authorization: `Bearer ${token}` },
+      headers: { Authorization: token },
     });
     const positions = await posRes.json();
     for (const p of positions) {
@@ -33,7 +33,7 @@ const PASSWORD = process.env.BREEZY_PASSWORD;
     for (const p of positions) {
       if (/join.*team|talent.*network|talent.*pool/i.test(p.name)) {
         const detailRes = await fetch(`https://api.breezy.hr/v3/company/${company._id}/position/${p._id}`, {
-          headers: { Authorization: `Bearer ${token}` },
+          headers: { Authorization: token },
         });
         const detail = await detailRes.json();
         console.log(`\n  Pipeline for "${p.name}":`);
