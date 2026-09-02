@@ -39,15 +39,9 @@ const NO_PATTERNS = /\b(no thanks|not interested|no longer|pass|not right now)\b
       let verdict = 'ambiguous';
       if (YES_PATTERNS.test(text)) verdict = 'yes';
       else if (NO_PATTERNS.test(text)) verdict = 'no';
-      results.push({ candidate: s.candidate_name, position_id: s.position_id, candidate_id: s.candidate_id, verdict, text });
-
-      if (verdict === 'yes' && s.target_stage_id) {
-        const moveRes = await fetch(
-          `https://api.breezy.hr/v3/company/${company}/position/${s.position_id}/candidate/${s.candidate_id}/stage`,
-          { method: 'PUT', headers: { Authorization: token, 'Content-Type': 'application/json' }, body: JSON.stringify({ stage_id: s.target_stage_id }) }
-        );
-        results[results.length - 1].moved = moveRes.status === 204;
-      }
+      // No auto-move: Devanne wants to be flagged and handle any actual
+      // pipeline/stage move herself once someone replies interested.
+      results.push({ candidate: s.candidate_name, position_id: s.position_id, candidate_id: s.candidate_id, verdict, text, moved: false });
     }
     s.last_checked = new Date().toISOString();
   }
