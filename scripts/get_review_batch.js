@@ -20,6 +20,8 @@ const TARGET_STAGE_PATTERNS = [
   /\bpii\b/i,
   /personal\s*impact/i,
   /a[\s-]?player/i,
+  /b[\s-]?player/i,
+  /leadership/i,
 ];
 
 function stageMatches(stageName) {
