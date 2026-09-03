@@ -1,0 +1,3785 @@
+{
+  "position": {
+    "_id": "261fb59293da",
+    "type": {
+      "id": "partTime",
+      "name": "Part-Time"
+    },
+    "state": "closed",
+    "name": "Wellness Coordinator - Adolescent Mental Health",
+    "friendly_id": "261fb59293da-wellness-coordinator-adolescent-mental-health",
+    "experience": null,
+    "location": {
+      "country": {
+        "name": "United States",
+        "id": "US"
+      },
+      "state": {
+        "id": "FL",
+        "name": "Florida"
+      },
+      "city": "Coconut Creek",
+      "primary": true,
+      "streetAddress": {
+        "location": "4611 Johnson Rd, Coconut Creek, FL 33073, USA",
+        "components": [
+          {
+            "long_name": "4611",
+            "short_name": "4611",
+            "types": [
+              "street_number"
+            ]
+          },
+          {
+            "long_name": "Johnson Road",
+            "short_name": "Johnson Rd",
+            "types": [
+              "route"
+            ]
+          },
+          {
+            "long_name": "Coconut Creek",
+            "short_name": "Coconut Creek",
+            "types": [
+              "locality",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Broward County",
+            "short_name": "Broward County",
+            "types": [
+              "administrative_area_level_2",
+              "political"
+            ]
+          },
+          {
+            "long_name": "Florida",
+            "short_name": "FL",
+            "types": [
+              "administrative_area_level_1",
+              "political"
+            ]
+          },
+          {
+            "long_name": "United States",
+            "short_name": "US",
+            "types": [
+              "country",
+              "political"
+            ]
+          },
+          {
+            "long_name": "33073",
+            "short_name": "33073",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "long_name": "4361",
+            "short_name": "4361",
+            "types": [
+              "postal_code_suffix"
+            ]
+          }
+        ],
+        "lat": 26.3125953,
+        "lng": -80.18727009999999
+      },
+      "is_remote": false,
+      "name": "Coconut Creek, FL",
+      "id": "5343fa1aa8fc"
+    },
+    "education": null,
+    "department": "Adolescent Wellness Academy - Boca",
+    "requisition_id": "AWA-BOC-WC-06052026",
+    "description": "<h1><strong><strong>Wellness Coordinator</strong></strong></h1>\n<p>On Site | Coconut Creek, FL | Part-Time | 3pm-8pm<strong><strong></strong></strong><br></p>\n\n\n<p><strong><strong>About the Role</strong></strong><br>You are the operational backbone of the AWA program environment. You ensure the day-to-day experience for adolescent clients is safe, structured, and therapeutically consistent — from the moment they arrive to the moment they leave. This role is hands-on, fast-paced, and client-facing, requiring calm under pressure and genuine investment in the teens you serve.<br>Backgrounds that translate well: Youth Work · Behavioral Health · Education · Case Management · Community Services</p>\n\n<p><strong><strong>What You'll Do</strong></strong></p>\n<ul><li>Supervise adolescent clients ages 13–17 during sessions, transitions, breaks, and unstructured time</li><li>Monitor and maintain program safety; respond to escalated behavior using trauma-informed and crisis protocols</li><li>Support clinicians in maintaining therapeutic schedules and program flow</li><li>Greet and assist families at drop-off and pick-up with professionalism and warmth</li><li>Manage front desk responsibilities including phones, attendance, and sign-in/out</li><li>Complete accurate, same-day documentation including wellness check-ins and incident reports</li><li>Escalate safety concerns, disclosures, and behavioral flags to the clinical team immediately and appropriately</li><li>Support program operations with light administrative and organizational tasks</li></ul>\n<p><strong><strong>What We're Looking For</strong></strong></p>\n<p><em><em>Required</em></em></p>\n<ul><li>Experience working with adolescents in a school, clinical, camp, or community setting</li><li>Demonstrated ability to de-escalate, regulate, and maintain structure without power struggles</li><li>Strong documentation and incident reporting skills</li><li>Bilingual required: English and Spanish</li><li>Emotionally regulated, professional, and consistent under pressure</li><li>Understands the limits of a non-clinical role — escalates appropriately, never makes independent clinical decisions</li></ul>\n<p><em><em>Preferred</em></em></p>\n<ul><li>Students or recent graduates in Psychology, Social Work, Counseling, or related fields strongly encouraged to apply</li><li>Bachelor's degree preferred; equivalent experience considered</li></ul>\n<p><em><em>AWA is an adolescent mental health organization operating PHP and IOP programs in South Florida. We exist to serve teens and families at their most critical moments — and this role is at the center of that work every day.</em></em></p><p><a href=\"https://adolescentwellnessacademy.com/\" class=\"editor-link\" dir=\"ltr\"></a></p>",
+    "category": null,
+    "application_form": {
+      "name": "required",
+      "headline": "optional",
+      "summary": "optional",
+      "profile_photo": "optional",
+      "address": "hidden",
+      "salary": "required",
+      "email_address": "required",
+      "phone_number": "required",
+      "resume": "required",
+      "work_history": "optional",
+      "education": "optional",
+      "cover_letter": "optional",
+      "preferred_location": "hidden",
+      "questionnaire_in_experience": true
+    },
+    "creator_id": "c33b51bf818d",
+    "creation_date": "2026-06-15T17:23:54.228Z",
+    "updated_date": "2026-07-24T17:06:24.000Z",
+    "questionnaire_id": "2819f2028b61",
+    "all_users": [
+      "99b44f51e79a",
+      "c33b51bf818d",
+      "427fccb71603",
+      "8dae58b42e71"
+    ],
+    "all_admins": [
+      "99b44f51e79a",
+      "c33b51bf818d",
+      "427fccb71603",
+      "8dae58b42e71"
+    ],
+    "pipeline_id": "default",
+    "candidate_type": "all",
+    "tags": [
+      "awa boca",
+      "rubi"
+    ],
+    "org_type": "position",
+    "bias_enabled": false,
+    "salary": {
+      "from": 17,
+      "to": null,
+      "period": "Hourly",
+      "currency": "USD"
+    }
+  },
+  "candidates": [
+    {
+      "_id": "ce5bdd64f414",
+      "meta_id": "41b494121763",
+      "creation_date": "2026-06-22T21:14:19.356Z",
+      "education": [
+        {
+          "school_name": "ROBERT STEMPEL COLLEGE OF PUBLIC",
+          "field_of_study": "World Religions",
+          "degree": "Bachelor's in Nutrition & Dietetics",
+          "gpa": {
+            "value": "3.0",
+            "scale_high": "4",
+            "scale_low": "0",
+            "normalized": "0.750"
+          }
+        }
+      ],
+      "email_address": "jbellav01@gmail.com",
+      "followed_by": [],
+      "headline": "Wellness Specialist @ Life Exten sion",
+      "initial": "J",
+      "name": "Julia Valladares",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "7542493541",
+      "questionnaire": [
+        {
+          "text": "How many years of experience do you have in a sales, recruiting, admissions, or call center role?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": false,
+          "options": [
+            {
+              "text": "Less than 1 year"
+            },
+            {
+              "text": "1–2 years"
+            },
+            {
+              "text": "3–5 years"
+            },
+            {
+              "text": "6+ years"
+            }
+          ],
+          "_id": "1774990137955",
+          "questionnaire_id": "f1fa72b11c0a",
+          "body": "",
+          "response": "1–2 years"
+        },
+        {
+          "text": "Have you been held to a quota, conversion rate, or enrollment target in a previous role?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": false,
+          "options": [
+            {
+              "text": "Yes",
+              "enabledActions": []
+            },
+            {
+              "text": "No",
+              "enabledActions": []
+            }
+          ],
+          "_id": "1774990137956",
+          "questionnaire_id": "f1fa72b11c0a",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "What was your average monthly close or conversion rate in your most recent role?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": false,
+          "options": [
+            {
+              "text": "Less than 20%"
+            },
+            {
+              "text": "20–35%"
+            },
+            {
+              "text": "36–50%"
+            },
+            {
+              "text": "50%+"
+            },
+            {
+              "text": "I did not track this metric"
+            }
+          ],
+          "_id": "1774990137957",
+          "questionnaire_id": "f1fa72b11c0a",
+          "body": "",
+          "response": "I did not track this metric"
+        },
+        {
+          "text": "Have you worked a pipeline where you were responsible for both inbound and outbound lead management?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": false,
+          "options": [
+            {
+              "text": "Yes — both inbound and outbound"
+            },
+            {
+              "text": "Yes — inbound only"
+            },
+            {
+              "text": "Yes — outbound only"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "_id": "1774990137958",
+          "questionnaire_id": "f1fa72b11c0a",
+          "body": "",
+          "response": "Yes — inbound only"
+        },
+        {
+          "text": "Which best describes your remote work experience?",
+          "type": {
+            "id": "dropdown",
+            "name": "Dropdown List"
+          },
+          "required": false,
+          "options": [
+            {
+              "text": " I have worked fully remote and managed my own schedule and output independently"
+            },
+            {
+              "text": "I have worked a hybrid schedule (some remote, some in-office)"
+            },
+            {
+              "text": " I am new to remote work but confident in my ability to stay productive without in-person oversight"
+            },
+            {
+              "text": "I prefer working in an office environment"
+            }
+          ],
+          "_id": "1774990137959",
+          "questionnaire_id": "f1fa72b11c0a",
+          "body": "",
+          "response": "I have worked a hybrid schedule (some remote, some in-office)"
+        },
+        {
+          "text": "Are you fluent in Spanish and able to communicate effectively in a professional setting?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": false,
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "_id": "1776253166711",
+          "questionnaire_id": "f1fa72b11c0a",
+          "body": "",
+          "response": "Yes"
+        }
+      ],
+      "resume": {
+        "file_name": "Resume-26.pdf?key=6540df1b-bc21-4d42-a040-842a9a8fbc68",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/ce5bdd64f414/resume",
+        "error": false,
+        "_id": "a3167bd7a4f2773fe9c4ad0ff9a9a1d0"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": 1776873550449,
+        "name": "Refs & Pre-Auth",
+        "type": {
+          "id": "other",
+          "name": "Other",
+          "icon": "list-ul"
+        }
+      },
+      "summary": "Health science professional driven by a desire to create impactful advancements within the healthcare industry. Passionate about providing individualized care & cultivating a safe space for others. I believe in fostering connections rooted in truth and authenticity.",
+      "tags": [],
+      "updated_date": "2026-07-24T14:25:11.932Z",
+      "work_history": [
+        {
+          "title": "Wellness Specialist",
+          "company_name": "Life Exten sion",
+          "summary": "Built strong relationships with clients by providing dietary, lifestyle and holistic advise for their individual health concerns Consulted with clients to guide them towards finding the most suitable blood testing based on their health concerns analyzed blood test results for clients Improved overall health outcomes with weight loss advice, dietary and herbal supplementation recommendations",
+          "is_current": false,
+          "duration": {
+            "months": 31,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 10,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2026
+          },
+          "date_start": "2023-10-01",
+          "date_end": "2026-05-01"
+        },
+        {
+          "title": "Administrative Coordinator",
+          "company_name": "Sol Yoga AND Acupun",
+          "summary": "Scheduled acupuncture appointments, consulted and offered clients the most suitable treatment for their needs and updated client records Increased patient retention by following up & proposing new treatment plans for improved result & recovery based on lifestyle. Optimized filing systems (digital and physical) to improve document accessibility Un iversity of Miami Hech t Ath letic Cen ter",
+          "is_current": false,
+          "duration": {
+            "months": 4,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 9,
+            "year": 2023
+          },
+          "date_start": "2023-05-01",
+          "date_end": "2023-09-01"
+        },
+        {
+          "title": "Nutrition Intern",
+          "company_name": "",
+          "summary": "Applied the latest science research within the field of sports nutrition to enhance sports team performance Prepare weekly presentations for education seminars based on relevant and up to date health trends in the sports nutrition field Supported coaches in implementing nutritional strategies for improved team stamina and focus during games Prepare fueling stations for all athletes including tennis, football and basketball teams",
+          "is_current": false,
+          "duration": {
+            "months": 3,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 2,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2023
+          },
+          "date_start": "2023-02-01",
+          "date_end": "2023-05-01"
+        },
+        {
+          "title": "Nutrition Intern",
+          "company_name": "Student Health Center Florida International University",
+          "summary": "Hosted tabling events across campus to raise awareness on health & wellness practices on campus Inputted date from events and health seminars in a time efficient manner Promoted holistic practices and healthy dietary practices through event planning and on campus events Created innovative content, posters and flyers for social media to promote monthly events on nutrition, mental health and susbtance abuse Prepared essential oil blends for in campus distribution",
+          "is_current": false,
+          "duration": {
+            "months": 4,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 8,
+            "year": 2019
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2019
+          },
+          "date_start": "2019-08-01",
+          "date_end": "2019-12-01"
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "6593988480b8",
+      "meta_id": "7f0736acc73a",
+      "creation_date": "2026-07-05T22:11:02.649Z",
+      "education": [
+        {
+          "school_name": "Nova Southeastern University",
+          "field_of_study": "Child Development",
+          "degree": "B.Sc.",
+          "start_date": {
+            "year": 2024,
+            "month": 8
+          },
+          "end_date": {
+            "year": 2026,
+            "month": 5
+          },
+          "summary": "The Major of Child Development includes: the understanding of the mental, emotional, physical, social, and biological changes children go through from infancy into adulthood.\n\nConcentration in Child Life includes: Learning how to support children and families who are going through complex medical experiences using play and other therapeutic practices.",
+          "date_start": "2024-08-12",
+          "date_end": "2026-05-04"
+        }
+      ],
+      "email_address": "avivagirl01@gmail.com",
+      "followed_by": [],
+      "headline": "Mentor @ The VERB Kind",
+      "initial": "A",
+      "name": "Aviva Cousley",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "9546552622",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "No Spanish"
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "18-21 an hour"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Most Recent Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "_id": "07aec06c63d4",
+          "response": "City of Plantation\nStart date: August 2023-Present\nMost recent compensation: $17.71 an hour\nReason for leaving: Looking for an opportunity that aligns more with my future goals"
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Prior Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "response": "Volunter Mentorship through The Verb Kind\nStart date: September 2025-Present\nPrior Compensation: Volunteer work\nReason for leaving: N/A"
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "response": "CPR/AED through American Heart Association, valid until May 28th 2027"
+        },
+        {
+          "text": "Which best describes your experience working with adolescents (ages 13–17)?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "1778259339970",
+          "options": [
+            {
+              "text": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+            },
+            {
+              "text": "Some experience with adolescents (volunteering, internships, school setting)"
+            },
+            {
+              "text": "Limited experience, but strong interest in working with this population"
+            },
+            {
+              "text": "No experience working with adolescents"
+            }
+          ],
+          "body": "",
+          "response": "Some experience with adolescents (volunteering, internships, school setting)"
+        },
+        {
+          "text": "This role involves working with adolescents experiencing emotional or behavioral challenges in an IOP/PHP setting. Which best describes your comfort level?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+            },
+            {
+              "text": "Comfortable — I am new to this environment but confident in my ability to adapt"
+            },
+            {
+              "text": "Somewhat comfortable — I am unsure but open to learning"
+            },
+            {
+              "text": "Not comfortable working in this type of setting"
+            }
+          ],
+          "_id": "1778259713760",
+          "body": "",
+          "response": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+        }
+      ],
+      "resume": {
+        "file_name": "Aviva-Cousley-Resume-2026.pdf?key=47c20470-5566-4b84-937a-f43f10e00e30",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/6593988480b8/resume",
+        "error": false,
+        "_id": "15bf7c079d1b724c68d246fa775bfa6e"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "Volunteer work: Special Olympics 5x a week from 2016 to 2021, Joe DiMaggio's Children's Hospital 2x a week September 2019 to July 2020\n\nActing as a Mentor for The Verb Kind in Broward youth detention centers.",
+      "tags": [],
+      "updated_date": "2026-07-06T19:23:20.146Z",
+      "work_history": [
+        {
+          "title": "Mentor",
+          "company_name": "The VERB Kind",
+          "summary": "Mentoring youth weekly who are incarcerated in Juvenile Detention Centers Working with youth on reaching goals, and creating tools for them to use once they transition out.",
+          "is_current": true,
+          "duration": {
+            "months": 10,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2025
+          },
+          "end_date": {
+            "year": null,
+            "month": null
+          },
+          "location": {
+            "city": "Pembroke Pines",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2025-09-01",
+          "date_end": ""
+        },
+        {
+          "title": "Recreation Leader",
+          "company_name": "City of Plantation",
+          "summary": "Demonstrated excellent interpersonal communication skills with staff, volunteers, and the public. Lead teacher for the Kidtastic Corner program, teaches a set curriculum to 3-5 year old children, keeping data and communicating with parents. Coordinated special events such as field trips, holiday celebrations, and city-wide events. Developed strong relationships with regular patrons for potential partnerships involving programming initiatives.",
+          "is_current": true,
+          "duration": {
+            "months": 35,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 8,
+            "year": 2023
+          },
+          "end_date": {
+            "year": null,
+            "month": null
+          },
+          "location": {
+            "city": "Plantation",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2023-08-01",
+          "date_end": ""
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "973fdbf4cbd3",
+      "meta_id": "5ebe04d9346a",
+      "creation_date": "2026-06-28T17:20:13.246Z",
+      "education": [
+        {
+          "school_name": "Florida State University",
+          "field_of_study": "Master of Social Work",
+          "degree": "Master of Social Work",
+          "start_date": {
+            "year": 2023,
+            "month": 5
+          },
+          "end_date": {
+            "year": 2027,
+            "month": 5
+          },
+          "summary": "Expected graduation in May 2027",
+          "date_start": "2023-05-28",
+          "date_end": "2027-05-28"
+        },
+        {
+          "school_name": "University of Central Florida",
+          "field_of_study": "B.S. Clinical Psychology",
+          "degree": "Bachelor of Science",
+          "start_date": {
+            "year": 2020,
+            "month": 8
+          },
+          "end_date": {
+            "year": 2023,
+            "month": 5
+          },
+          "date_start": "2020-08-28",
+          "date_end": "2023-05-28"
+        }
+      ],
+      "email_address": "jessica.polka924@gmail.com",
+      "followed_by": [],
+      "headline": "Recreation Assistant @ Els for Autism",
+      "initial": "J",
+      "name": "Jessica Polka",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "8155309888",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "questionnaire_id": "2819f2028b61",
+          "body": "",
+          "response": "Conversational "
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "questionnaire_id": "2819f2028b61",
+          "response": "20/hr"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "questionnaire_id": "2819f2028b61",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Most Recent Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "_id": "07aec06c63d4",
+          "questionnaire_id": "2819f2028b61",
+          "response": "Relocation to Fort Lauderdale area"
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Prior Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "questionnaire_id": "2819f2028b61",
+          "response": "Temporary MSW internship"
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "questionnaire_id": "2819f2028b61",
+          "response": "N/A, previous holder of RBT licensure and First Aid/AED"
+        },
+        {
+          "text": "Which best describes your experience working with adolescents (ages 13–17)?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "1778259339970",
+          "options": [
+            {
+              "text": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+            },
+            {
+              "text": "Some experience with adolescents (volunteering, internships, school setting)"
+            },
+            {
+              "text": "Limited experience, but strong interest in working with this population"
+            },
+            {
+              "text": "No experience working with adolescents"
+            }
+          ],
+          "questionnaire_id": "2819f2028b61",
+          "body": "",
+          "response": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+        },
+        {
+          "text": "This role involves working with adolescents experiencing emotional or behavioral challenges in an IOP/PHP setting. Which best describes your comfort level?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+            },
+            {
+              "text": "Comfortable — I am new to this environment but confident in my ability to adapt"
+            },
+            {
+              "text": "Somewhat comfortable — I am unsure but open to learning"
+            },
+            {
+              "text": "Not comfortable working in this type of setting"
+            }
+          ],
+          "_id": "1778259713760",
+          "questionnaire_id": "2819f2028b61",
+          "body": "",
+          "response": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+        }
+      ],
+      "resume": {
+        "file_name": "JessPolka2026Resume.pdf?key=453b8064-39cd-454d-b40b-d7ea7aed9bfa",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/973fdbf4cbd3/resume",
+        "error": false,
+        "_id": "3342696fc4a2b882adb0fda8b00e4e20"
+      },
+      "source": {
+        "id": "linkedin",
+        "name": "LinkedIn"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "Motivational interviewing techniques\nSupportive counseling across the lifespan using trauma-informed principles\nPsychosocial assessment and individual treatment planning\nCrisis intervention and de-escalation\nCultural humility, ability to build rapport with diverse populations across age groups and settings",
+      "tags": [],
+      "updated_date": "2026-07-02T13:24:33.238Z",
+      "work_history": [
+        {
+          "title": "Recreation Assistant",
+          "company_name": "Els for Autism",
+          "summary": "Scheduled and led recreational programming (yoga, tennis, basketball, art therapy, music therapy, and dance) for children, adolescents, and adults with Autism Spectrum Disorder (ASD) \n* Used positive reinforcement to encourage healthy habits and behaviors through movement and teamwork skills\n * Helped participants translate their experiences in recreation to real-world examples \n* Modeled appropriate communication and social skills for participants, reinforcing socialization with peers and emotional regulation \n* Collaborated with mental health professionals to understand and integrate participant behavior plans into activities",
+          "is_current": false,
+          "duration": {
+            "months": 5,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2026
+          },
+          "end_date": {
+            "year": 2026,
+            "month": 6
+          },
+          "location": {
+            "city": "Jupiter",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2026-01-01",
+          "date_end": "2026-06-05"
+        },
+        {
+          "title": "Medical Social Work Intern",
+          "company_name": "Palm Beach County Fire Rescue",
+          "summary": "* Provided follow-up support to patients, families, and caregivers post-medical emergencies through calls and home visits to identify needs \n* Designed online resource guides using Canva for different patient populations within the community: grief guides for children & teens, adult & pediatric diabetes resources, and substance use disorder resources for patients and their families \n* Connected patients with critical resources such as substance abuse treatment, financial support services, and psychoeducation while empowering patients to engage in self-management of their health * Advocated for patients by contacting physicians and hospitals to coordinate appropriate care \n* Created tools for substance use disorder outreach for EMS crewmembers to better serve patients",
+          "is_current": false,
+          "duration": {
+            "months": 6,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2025
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2025
+          },
+          "location": {
+            "city": "Delray Beach",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2025-06-01",
+          "date_end": "2025-12-01"
+        },
+        {
+          "title": "Special Education Paraprofessional",
+          "company_name": "Caloosa Middle School",
+          "summary": "* Supported 50+ students with IEPs and 504 plans, reinforcing academic, behavioral, and emotional growth \n* Assisted students with diverse learning needs, providing individualized academic and social support \n* Collaborated with teachers and staff to promote inclusive classrooms, new methods for learning and accommodations, and positive behavior outcomes \n* Provided crisis intervention to students experiencing emotional disturbances during school",
+          "is_current": false,
+          "duration": {
+            "months": 7,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 10,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2024
+          },
+          "location": {
+            "city": "Cape Coral",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2023-10-01",
+          "date_end": "2024-05-01"
+        },
+        {
+          "title": "Registered Behavior Technician",
+          "company_name": "Florida Autism Center",
+          "summary": "* Conducted direct therapy sessions for children with ASD, following individualized behavioral health plans and Applied Behavior Analysis (ABA) techniques \n* Utilized positive reinforcement to encourage communication and independence through naturalistic environment teaching and play therapy \n* Documented progress through daily session notes while observing client progress and goals",
+          "is_current": false,
+          "duration": {
+            "months": 17,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 3,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2023
+          },
+          "location": {
+            "city": "Winter Park",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2022-03-01",
+          "date_end": "2023-08-01"
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "3ce584a72c1d",
+      "meta_id": "de0fa9215591",
+      "cover_letter": "Dear Hiring Manager,\n\nGood afternoon,\n\nI am excited to apply for the Wellness Coordinator position with Adolescent Wellness Academy. With my background as an educator, experience supporting children and families, and strong interest in adolescent mental health, I believe I would be a great fit for this role.\n\nIn my current teaching experience, I have developed strong skills in communication, organization, patience, and emotional support. I work closely with students, parents, and staff to create a safe and supportive environment, handle sensitive situations with care, and help children feel understood and encouraged. I am especially passionate about working with young people and being part of a team that supports their emotional well-being and growth.\n\nI am also actively building my experience in the mental health field through crisis support and mental health-related training, which has strengthened my ability to listen with empathy, remain calm under pressure, and respond professionally to individuals who may be struggling.\n\nI would be grateful for the opportunity to contribute to Adolescent Wellness Academy and support the important work your team does for adolescents and their families. Thank you for your time and consideration. I look forward to the opportunity to speak with you.\n\nSincerely,\nCorina Vera",
+      "creation_date": "2026-06-24T21:40:20.890Z",
+      "education": [
+        {
+          "school_name": "Florida International University",
+          "field_of_study": "Communication",
+          "degree": "Bachelor of Science in Digital Communication & Media",
+          "start_date": {
+            "year": 2020
+          },
+          "end_date": {
+            "year": 2023
+          }
+        }
+      ],
+      "email_address": "corinaveragon@gmail.com",
+      "followed_by": [],
+      "headline": "Elementary School Teacher @ Imagine Charter Schools",
+      "initial": "C",
+      "name": "Corina Vera",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "+1 954 805 5998",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "Fully Bilingual"
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "21"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Most Recent Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "_id": "07aec06c63d4",
+          "response": "08/2024-06/2026\n\n52,000\n\nI am grateful for my experience as a teacher but I would like to transition into the mental health field."
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Prior Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "response": "09/2023-08/2024\n\n40,000\n\nI really enjoyed production but not the news industry."
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "response": "Florida Department of Education\n\nMental Health First Aid (Valid for 3 Years)"
+        },
+        {
+          "text": "Which best describes your experience working with adolescents (ages 13–17)?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "1778259339970",
+          "options": [
+            {
+              "text": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+            },
+            {
+              "text": "Some experience with adolescents (volunteering, internships, school setting)"
+            },
+            {
+              "text": "Limited experience, but strong interest in working with this population"
+            },
+            {
+              "text": "No experience working with adolescents"
+            }
+          ],
+          "body": "",
+          "response": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+        },
+        {
+          "text": "This role involves working with adolescents experiencing emotional or behavioral challenges in an IOP/PHP setting. Which best describes your comfort level?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+            },
+            {
+              "text": "Comfortable — I am new to this environment but confident in my ability to adapt"
+            },
+            {
+              "text": "Somewhat comfortable — I am unsure but open to learning"
+            },
+            {
+              "text": "Not comfortable working in this type of setting"
+            }
+          ],
+          "_id": "1778259713760",
+          "body": "",
+          "response": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+        }
+      ],
+      "resume": {
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/3ce584a72c1d/resume",
+        "file_name": "1782246444310-CORINAVERARESUME2026.pdf?key=37bbb222-c13e-4761-a4c3-47168e1327d1",
+        "_id": "b6a95ed2719507bf8e407c3f6cfbfbc3"
+      },
+      "social_profiles": [
+        {
+          "url": "www.linkedin.com/in/corinavera",
+          "type": "linkedin"
+        }
+      ],
+      "source": {
+        "id": "indeed-sponsored-jobs",
+        "name": "Indeed Sponsored Jobs"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "Compassionate and relationship-driven professional with experience in education, mentoring, communication, and media. Skilled in building meaningful relationships, supporting diverse populations, and fostering positive environments through active listening, collaboration, and adaptable communication.",
+      "tags": [],
+      "updated_date": "2026-07-02T13:22:33.893Z",
+      "work_history": [
+        {
+          "title": "Elementary School Teacher",
+          "company_name": "Imagine Charter Schools",
+          "summary": "Build supportive relationships with students and families while addressing academic, social, and emotional needs. * Utilize individualized communication strategies to create positive learning environments. * Observe student learning, behavioral, and social patterns while collaborating with families and staff to support student development.",
+          "is_current": true,
+          "duration": {
+            "months": 21,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 8,
+            "year": 2024
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2026
+          }
+        },
+        {
+          "title": "Multimedia Journalist Univision 23 AND YouTube",
+          "company_name": "",
+          "summary": "* Conducted interviews using active listening and strong interpersonal communication. * Built relationships with community members and handled sensitive information professionally. * Managed projects from concept through publication in fast-paced environments.",
+          "is_current": false,
+          "duration": {
+            "months": 10,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 10,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2024
+          }
+        },
+        {
+          "title": "Production Assistant",
+          "company_name": "NBC 6 AND Telemundo 51",
+          "summary": "Managed diverse responsibilities while promoting clear and efficient communication among team members. * Navigated rapidly changing priorities and managed high-pressure scenarios during live news broadcasts and recorded segments.",
+          "is_current": false,
+          "duration": {
+            "months": 7,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 3,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 10,
+            "year": 2023
+          }
+        },
+        {
+          "title": "Camp Counselor",
+          "company_name": "Camp La Llanada",
+          "summary": "Fostered supportive and inclusive environments promoting well-being and positive peer relationships. * Mentored children through social and developmental activities.",
+          "is_current": false,
+          "duration": {
+            "months": 26,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2018
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2020
+          }
+        },
+        {
+          "title": "Student Mentor Latinos",
+          "company_name": "In Action",
+          "summary": "* Guided students through academic and personal transitions while fostering confidence and independence. * Encouraged confidence, independence, and positive growth.",
+          "is_current": false,
+          "duration": {
+            "months": 29,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 2,
+            "year": 2020
+          }
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "9819b61050a6",
+      "meta_id": "b48e9430820e",
+      "cover_letter": "Cover Letter\n\nDear Hiring Manager,\n\nI am excited to apply for the Wellness Coordinator position. As a bilingual English and Spanish speaker currently pursuing my Master’s degree in Clinical Mental Health Counseling, I am eager to combine my healthcare experience with my passion for supporting adolescents in a therapeutic setting.\n\nMy background as an Animal Technician/Veterinary Nurse taught me how to remain calm during emergencies, recognize changes in behavior, communicate compassionately with families during stressful situations, maintain accurate documentation, and work collaboratively with medical professionals. These experiences strengthened my ability to stay organized, think critically under pressure, and provide compassionate care while maintaining a safe environment.\n\nIn addition to my healthcare experience, my graduate studies have provided me with a strong foundation in counseling ethics, adolescent development, trauma-informed care, multicultural counseling, and crisis intervention. I am eager to apply these skills while continuing to learn from experienced clinicians.\n\nI am particularly drawn to this role because it allows me to support adolescents in a structured and therapeutic environment while contributing to their safety and well-being. I am confident that my compassion, professionalism, bilingual communication skills, and dedication to helping others would make me a valuable member of your team.\n\nThank you for your time and consideration. I look forward to the opportunity to discuss how my education and healthcare experience align with your team’s mission.\n\nSincerely,\n\nSarah Arias",
+      "creation_date": "2026-06-30T14:54:38.980Z",
+      "education": [],
+      "email_address": "sarias1051@gmail.com",
+      "followed_by": [],
+      "initial": "S",
+      "name": "Sarah Arias",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "+1 954 681 5470",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "Fully Bilingual"
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "18"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Most Recent Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "_id": "07aec06c63d4",
+          "response": "2017 - 2022\n\nCompensation 16\n\nLeft to attend veterinary school"
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Prior Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "response": "2024 - 2026\n\nCompensation 16\n\nLeft to accommodate my graduate school schedule while pursuing my Master’s degree in Clinical Mental Health Counseling"
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "response": "Veterinary assistant - achieved while in high school"
+        },
+        {
+          "text": "Which best describes your experience working with adolescents (ages 13–17)?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "1778259339970",
+          "options": [
+            {
+              "text": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+            },
+            {
+              "text": "Some experience with adolescents (volunteering, internships, school setting)"
+            },
+            {
+              "text": "Limited experience, but strong interest in working with this population"
+            },
+            {
+              "text": "No experience working with adolescents"
+            }
+          ],
+          "body": "",
+          "response": "Limited experience, but strong interest in working with this population"
+        },
+        {
+          "text": "This role involves working with adolescents experiencing emotional or behavioral challenges in an IOP/PHP setting. Which best describes your comfort level?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+            },
+            {
+              "text": "Comfortable — I am new to this environment but confident in my ability to adapt"
+            },
+            {
+              "text": "Somewhat comfortable — I am unsure but open to learning"
+            },
+            {
+              "text": "Not comfortable working in this type of setting"
+            }
+          ],
+          "_id": "1778259713760",
+          "body": "",
+          "response": "Comfortable — I am new to this environment but confident in my ability to adapt"
+        }
+      ],
+      "resume": {
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/9819b61050a6/resume",
+        "file_name": "1782824379961-SarahArias.pdf?key=67c0810f-2e3d-4763-80a4-27794541858c"
+      },
+      "source": {
+        "id": "indeed-apply",
+        "name": "Indeed Apply"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "Resume Experience (Animal Technician/Veterinary Nurse and sales associate)\n\nSales Associate – PINK\n\n* Delivered excellent customer service in a fast-paced retail environment.\n* Assisted customers with product selection and problem solving.\n* Handled cash transactions and maintained store organization.\n* Worked collaboratively to meet team and sales goals.\n\nAnimal Technician / Veterinary Nurse\n\n* Provided compassionate care while monitoring patient behavior and recognizing changes requiring immediate medical attention.\n* Maintained detailed medical records and accurate documentation.\n* Collaborated with veterinarians and healthcare team members to provide safe, high-quality patient care.\n* Educated and communicated with pet owners during emotionally stressful situations with empathy and professionalism.\n* Prioritized multiple responsibilities in a fast-paced clinical environment while maintaining attention to detail.\n* Assisted with patient handling, treatments, and maintaining a safe, organized clinical setting.",
+      "tags": [],
+      "updated_date": "2026-07-01T14:59:28.340Z",
+      "work_history": [],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "5fa426110bd0",
+      "meta_id": "ad7ce25d8d01",
+      "creation_date": "2026-06-29T23:23:49.310Z",
+      "education": [
+        {
+          "school_name": "University of Central Florida",
+          "field_of_study": "Psychology",
+          "degree": "Unknown Degree",
+          "start_date": {
+            "year": 2023,
+            "month": 5
+          },
+          "end_date": {
+            "year": 2026,
+            "month": 12
+          },
+          "summary": "Bachelors Program will end in December 2026. Studying Children’s developmental Psychology.",
+          "date_start": "2023-05-01",
+          "date_end": "2026-12-13"
+        }
+      ],
+      "email_address": "gislainc0322@gmail.com",
+      "followed_by": [],
+      "headline": "Internship @ CECO- Conductive Education",
+      "initial": "G",
+      "name": "Gislain Collado",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "7868313347",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "Conversational "
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "18-20"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Most Recent Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "_id": "07aec06c63d4",
+          "response": "Gary Wendt Teen Center\nStart: November 3rd,2025\nStill currently employed but looking for advancements in my career. \nPay: $18"
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Prior Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "response": "CECO \nStart: October 1st, 2024\nEnd: June 5th, 2025\nPay: $15\nReason for Leaving: Moved from Orlando back to South Florida"
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "response": "CPR and First Aid Certified (Heartsaver for K-12 Schools) Issued by American Heart Association and expires 02/2028"
+        },
+        {
+          "text": "Which best describes your experience working with adolescents (ages 13–17)?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "1778259339970",
+          "options": [
+            {
+              "text": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+            },
+            {
+              "text": "Some experience with adolescents (volunteering, internships, school setting)"
+            },
+            {
+              "text": "Limited experience, but strong interest in working with this population"
+            },
+            {
+              "text": "No experience working with adolescents"
+            }
+          ],
+          "body": "",
+          "response": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+        },
+        {
+          "text": "This role involves working with adolescents experiencing emotional or behavioral challenges in an IOP/PHP setting. Which best describes your comfort level?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+            },
+            {
+              "text": "Comfortable — I am new to this environment but confident in my ability to adapt"
+            },
+            {
+              "text": "Somewhat comfortable — I am unsure but open to learning"
+            },
+            {
+              "text": "Not comfortable working in this type of setting"
+            }
+          ],
+          "_id": "1778259713760",
+          "body": "",
+          "response": "Comfortable — I am new to this environment but confident in my ability to adapt"
+        }
+      ],
+      "resume": {
+        "file_name": "psych-workfield-resumee.pdf?key=ee1328a6-5e17-4cb5-9dd1-a50b7f4b695b",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/5fa426110bd0/resume",
+        "error": false,
+        "_id": "7b9988b74c4c1619e707012f066f8603"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "I have over 4 years of direct experience working with adolescents as an Education Instructor at Gary Wendt Teen Center, an intern at CECO (Conductive Education Center), babysitting with Jovie Childcare and additional education through my early childhood and psychology program. I have a strong foundation in youth supervision and behavior management across all age groups. I am currently pursuing a B.S. in Psychology with a Minor in Early Childhood Education at UCF, which will end in December of 2026. I understand Spanish and am First Aid and CPR certified, as well as an APA affiliate. I am deeply invested in adolescent mental health and see this role as a natural next step toward my goal of becoming a licensed mental health counselor.",
+      "tags": [],
+      "updated_date": "2026-06-30T13:04:14.453Z",
+      "work_history": [
+        {
+          "title": "Internship",
+          "company_name": "CECO- Conductive Education",
+          "summary": "program- Provided social and physical skills through conductive education for students with neurological motor disabilities.",
+          "is_current": false,
+          "duration": {
+            "months": 8,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 10,
+            "year": 2024
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2025
+          },
+          "date_start": "2024-10-01",
+          "date_end": "2025-06-01"
+        },
+        {
+          "title": "Server",
+          "company_name": "Bar Italia",
+          "summary": "Multitasked to provide customers with professional service and organized the restaurant through teamwork. First Aid Certified and CPR Certified (redcross.org)",
+          "is_current": false,
+          "duration": {
+            "months": 5,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 4,
+            "year": 2024
+          },
+          "end_date": {
+            "month": 9,
+            "year": 2024
+          },
+          "date_start": "2024-04-01",
+          "date_end": "2024-09-01"
+        },
+        {
+          "title": "Beauty Advisor",
+          "company_name": "Sephora at Kohls",
+          "summary": "Multitasked with assisting customers, Association upkeeping the store, and managing customers at the Affiliate (APA) register.",
+          "is_current": false,
+          "duration": {
+            "months": 9,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 3,
+            "year": 2024
+          },
+          "date_start": "2023-06-01",
+          "date_end": "2024-03-01"
+        },
+        {
+          "title": "Babysitter",
+          "company_name": "Jovie Childcare",
+          "summary": "Caretaking of children in large and small groups.",
+          "is_current": false,
+          "duration": {
+            "months": 21,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 10,
+            "year": 2024
+          },
+          "date_start": "2023-01-01",
+          "date_end": "2024-10-01"
+        },
+        {
+          "title": "Cashier",
+          "company_name": "Publix",
+          "summary": "Assisted customer needs and handled the register.",
+          "is_current": false,
+          "duration": {
+            "months": 13,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 7,
+            "year": 2023
+          },
+          "date_start": "2022-06-01",
+          "date_end": "2023-07-01"
+        },
+        {
+          "start_date": {
+            "year": 2025,
+            "month": 11
+          },
+          "end_date": {
+            "month": null,
+            "year": null
+          },
+          "company_name": "Education Instructor",
+          "title": "Gary Wendt Teen Center",
+          "summary": "Delivered\nengaging daily education\nprograms for the youth to\nenhance student growth.",
+          "date_start": "2025-11-03"
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "8eacb20bdc3d",
+      "meta_id": "445a2a623f63",
+      "cover_letter": "I am writing to express my interest at Adolescents Wellness Academy. I have an Associate of Arts degree from Broward College and am currently pursuing my Bachelor of Science in Nursing (BSN) at Chamberlain University.\n\nI have completed CNA and Home Health Aide training, am CPR certified, and have experience in behavioral health settings. I am passionate about working with children and adolescents and am committed to providing compassionate care while helping create a safe and supportive environment. I was also a teacher for 6 years. \n\nThank you for your time and consideration. I look forward to the opportunity to discuss how I can contribute to your team.\n\nSincerely,\n\nLashonda Dumaine",
+      "creation_date": "2026-06-30T11:37:47.972Z",
+      "education": [
+        {
+          "school_name": "Chamberlain University",
+          "field_of_study": "Nursing",
+          "degree": "Bachelor of Science in Nursing",
+          "start_date": {
+            "year": null
+          },
+          "end_date": {
+            "year": 2028
+          }
+        },
+        {
+          "school_name": "Broward College",
+          "field_of_study": "",
+          "degree": "Associate in Arts"
+        },
+        {
+          "school_name": "Fort Lauderdale High School",
+          "field_of_study": "",
+          "degree": "High School Diploma"
+        },
+        {
+          "school_name": "Center for Career Training",
+          "field_of_study": "",
+          "degree": "Certification"
+        }
+      ],
+      "email_address": "ldumaine31@gmail.com",
+      "followed_by": [],
+      "headline": "Security Officer @ South Florida State Hospital",
+      "initial": "L",
+      "name": "LASHONDA DUMAINE",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "+1 754 268 5923",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "No Spanish"
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "$17"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Most Recent Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "_id": "07aec06c63d4",
+          "response": "Start date April 2026 \nCurrent job \nJob title : South Florida State Hospital \nPer Diem \nSecurity"
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Prior Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "response": "Providence Children Academy \nStart date : May 2021\nEnd date : April 2026"
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "response": "CNA/HHA certificate \nSecurity guard license \nAssociate degree"
+        },
+        {
+          "text": "Which best describes your experience working with adolescents (ages 13–17)?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "1778259339970",
+          "options": [
+            {
+              "text": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+            },
+            {
+              "text": "Some experience with adolescents (volunteering, internships, school setting)"
+            },
+            {
+              "text": "Limited experience, but strong interest in working with this population"
+            },
+            {
+              "text": "No experience working with adolescents"
+            }
+          ],
+          "body": "",
+          "response": "Limited experience, but strong interest in working with this population"
+        },
+        {
+          "text": "This role involves working with adolescents experiencing emotional or behavioral challenges in an IOP/PHP setting. Which best describes your comfort level?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+            },
+            {
+              "text": "Comfortable — I am new to this environment but confident in my ability to adapt"
+            },
+            {
+              "text": "Somewhat comfortable — I am unsure but open to learning"
+            },
+            {
+              "text": "Not comfortable working in this type of setting"
+            }
+          ],
+          "_id": "1778259713760",
+          "body": "",
+          "response": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+        }
+      ],
+      "resume": {
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/8eacb20bdc3d/resume",
+        "file_name": "1782818855535-Resume.pdf?key=8d574541-96fc-471e-8800-9fe8d19b2d0c",
+        "_id": "390e9bf4b2055482eab65925a9ebf426"
+      },
+      "source": {
+        "id": "indeed-sponsored-jobs",
+        "name": "Indeed Sponsored Jobs"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "Compassionate and dependable healthcare professional with experience in patient safety, supervision, and structured care environments. Skilled in providing attentive support, maintaining safe environments, and delivering emotional reassurance.",
+      "tags": [],
+      "updated_date": "2026-06-30T13:03:37.942Z",
+      "work_history": [
+        {
+          "title": "Security Officer",
+          "company_name": "South Florida State Hospital",
+          "summary": "- Monitor safety of patients, staff, and visitors - Respond to incidents and assist with de-escalation - Follow safety protocols and report incidents",
+          "is_current": true,
+          "duration": {
+            "months": 4,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2026
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2026
+          }
+        },
+        {
+          "title": "K3 Teacher",
+          "company_name": "Providence Child Academy",
+          "summary": "- Supervise 15+ children daily in structured environment - Maintain safety, cleanliness, and behavioral support - Communicate with families and staff",
+          "is_current": true,
+          "duration": {
+            "months": 64,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2021
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2026
+          },
+          "employees_supervised": 15
+        },
+        {
+          "title": "K3 Teacher",
+          "company_name": "Masterminds Academy",
+          "summary": "- Provided supervision and structured support - Assisted with safety procedures",
+          "is_current": false,
+          "duration": {
+            "months": 23,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2020
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2021
+          }
+        },
+        {
+          "title": "Crew Member",
+          "company_name": "",
+          "summary": "- Customer service in fast-paced environment - Maintained sanitation and teamwork standards",
+          "is_current": false,
+          "duration": {
+            "months": 23,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2019
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2020
+          }
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "767ab1e19087",
+      "meta_id": "d01cdf2f1877",
+      "cover_letter": "Aside from the fact that I am a recent graduate with a bachelor's degree in Criminal Justice, I am a longtime enthusiast and advocate of fitness and wellness. I firmly believe that physical activity, positive routines, and strong support systems play a vital role in promoting mental health, particularly among adolescents. Throughout my education, I developed a deeper understanding of human behavior, crisis intervention, communication, and community engagement, all of which have prepared me to work effectively with young people from diverse backgrounds.\n\nI am passionate about helping adolescents build confidence, resilience, and healthy lifestyles, and I am excited about the opportunity to contribute to a program that prioritizes both mental and physical well-being. I bring a positive attitude, strong interpersonal skills, and a genuine commitment to serving others, and I look forward to creating an environment where young people feel supported, empowered, and motivated to thrive.",
+      "creation_date": "2026-06-27T20:34:27.892Z",
+      "education": [
+        {
+          "school_name": "Wilmington University",
+          "field_of_study": "Pre Law and Political Science",
+          "degree": "Bachelor of Science in Criminal Justice",
+          "start_date": {
+            "year": null
+          },
+          "end_date": {
+            "year": 2026
+          }
+        }
+      ],
+      "email_address": "rileyhearn1@gmail.com",
+      "followed_by": [],
+      "headline": "Legal Intern @ Maryland Office of the Public Defender",
+      "initial": "R",
+      "name": "Riley Hearn",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "+13022722585",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "Conversational "
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "19"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Most Recent Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "_id": "07aec06c63d4",
+          "response": "Legal Intern at Maryland Office of the Public Defender (09/2025 - 12/2025)\n\nInternship\n\nLeft because it was the end of my internship"
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Prior Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "response": "Birdie's Links and Drinks (02/2024 - 09/2025)\n\n$16 an hour\n\nLeft because I moved states"
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "response": "N/A"
+        },
+        {
+          "text": "Which best describes your experience working with adolescents (ages 13–17)?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "1778259339970",
+          "options": [
+            {
+              "text": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+            },
+            {
+              "text": "Some experience with adolescents (volunteering, internships, school setting)"
+            },
+            {
+              "text": "Limited experience, but strong interest in working with this population"
+            },
+            {
+              "text": "No experience working with adolescents"
+            }
+          ],
+          "body": "",
+          "response": "Some experience with adolescents (volunteering, internships, school setting)"
+        },
+        {
+          "text": "This role involves working with adolescents experiencing emotional or behavioral challenges in an IOP/PHP setting. Which best describes your comfort level?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+            },
+            {
+              "text": "Comfortable — I am new to this environment but confident in my ability to adapt"
+            },
+            {
+              "text": "Somewhat comfortable — I am unsure but open to learning"
+            },
+            {
+              "text": "Not comfortable working in this type of setting"
+            }
+          ],
+          "_id": "1778259713760",
+          "body": "",
+          "response": "Comfortable — I am new to this environment but confident in my ability to adapt"
+        }
+      ],
+      "resume": {
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/767ab1e19087/resume",
+        "file_name": "1782592005885-RileyHearn.pdf?key=2268302c-be39-443b-99c8-9eb3b972141b",
+        "_id": "4c16f50896bedff617e85393e48ab337"
+      },
+      "source": {
+        "id": "ziprecruiter",
+        "name": "ziprecruiter"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "Driven and hard-working college senior with a passion for learning and expanding personal and professional growth. Skilled multitasker that utilizes resources and manages time accordingly to ensure work is done efficiently and effectively. Adept in leadership and communication skills to effectively collaborate with and influence team members towards success. Demonstrates organizational skills in order to prioritize tasks, manage deadlines, and maintain focus on detail and assignments.",
+      "tags": [],
+      "updated_date": "2026-06-29T18:08:41.202Z",
+      "work_history": [
+        {
+          "title": "Legal Intern",
+          "company_name": "Maryland Office of the Public Defender",
+          "summary": "Assisting with investigations for ongoing criminal cases Preparation for trial, motions, and/or sentencing hearings Conducting witness interviews and aiding with witness coordination for trials and hearings Reviewing electronic, physical and forensic evidence Assisting and observing criminal court proceedings Providing administrative and clerical assistance as needs arise",
+          "is_current": true,
+          "duration": {
+            "months": 1,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2025
+          },
+          "end_date": {
+            "month": 10,
+            "year": 2025
+          }
+        },
+        {
+          "title": "Shift Lead Hostess",
+          "company_name": "Birdies Links and Drinks",
+          "summary": "Managing daily operations in the facility Supervising team members and assigning tasks Handling cash transactions and other payment methods Managing reservations and providing customer service Answering questions, comments, and concerns Training and providing guidance to new employees",
+          "is_current": false,
+          "duration": {
+            "months": 18,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 2,
+            "year": 2024
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2025
+          }
+        },
+        {
+          "title": "Server",
+          "company_name": "Vantage Point",
+          "summary": "Taking food and beverage orders efficiently Assisting residents with menu selection Serving both promptly and professionally Collaborating with kitchen staff to ensure smooth service Handling concerns, complaints, and conflicts",
+          "is_current": false,
+          "duration": {
+            "months": 22,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 8,
+            "year": 2021
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2023
+          }
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "e6b256c3cd99",
+      "meta_id": "0ad907b6b103",
+      "cover_letter": "Carol Batten-Cooper\nHollywood Fl 33021\n954-554-8009\nbrassy1959@yahoo.com\n\n I am writing to express my interest in joining your organization. With more than 30 years of experience working in behavioral health, substance abuse recovery, crisis stabilization and school safety environment, I have dedicated my career to supporting individuals while promoting a safe structure and positive environments.\nThroughout my career I have developed strong skills with client’s supervision, de-escalation, safety, monitoring, intake procedures documentation and transportation services at my current role as a BHT with Recreate Life Counseling.\nIn addition to my behavioral health experience, I spent over 20 years in the Broward County Schools with Security Team This role enhances my communication, conflict resolution, relationship building skills while reinforcing my commitment to maintaining safety and well-being. For 17 years I worked at Memorial Hospital on the Adolescent Phys unit, there I was mentor under a strong group of nurses and psychiatrist where I learned the skills and knowledge understanding how to meet client where they are.\nI am a dependable team member, quick learner and dedicated professional who is willing to relocate for the right opportunity.\nThank You for your time and consideration. I welcome the opportunity to discuss my skills and commitments to service and contribute to your organization.  Looking forward to speaking with you.\nSincerely: Carol Batten-Cooper",
+      "creation_date": "2026-06-22T16:24:09.735Z",
+      "education": [
+        {
+          "school_name": "Florida Memorial University",
+          "field_of_study": "",
+          "degree": "Unknown Degree",
+          "start_date": {
+            "year": 1984
+          },
+          "end_date": {
+            "year": 1985
+          }
+        },
+        {
+          "school_name": "Hollywood Hills Highschool",
+          "field_of_study": "",
+          "degree": "Unknown Degree",
+          "start_date": {
+            "year": 1974
+          },
+          "end_date": {
+            "year": 1977
+          }
+        }
+      ],
+      "email_address": "brassy1959@yahoo.com",
+      "followed_by": [],
+      "headline": "mentor and encourage @ The Sequel House Recovery BHT",
+      "initial": "C",
+      "name": "Carol Cooper",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "+1 954 554 8009",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "No Spanish"
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "19.00"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Most Recent Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "_id": "07aec06c63d4",
+          "response": "Recreate, Life Counseling -BHT\nAugust 2025 -present\nI supervise and monitor clients, complete safety checks, interact with clients making sure their needs on daily basis are met, rules and guidelines are encourage to follow.\nTransport clients to appointments, housing and serve as a mentor role model. \nPresent time still there and seeking a job closer."
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Prior Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "response": "Middle Flint Health & Wellness\nSST-Tech 2\n 06/2023- 08/2025\nI was an intake tech for a crisis stabilization unit known as the (CSU). A charge nurse greeted clients upon arrival, assist with the pat down and searches, consent forms, bedding, transport unit 15-minute Q sheets, line of site observation de -escalations I conducted some groups and implemented group notes in the system. I worked a long size other peers which insists of monitoring and daily needs for the clients.\nI relocated back to south Florida for personal reason."
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "response": "CPR, BLS,\nDriver License,\nClass D-Security"
+        },
+        {
+          "text": "Which best describes your experience working with adolescents (ages 13–17)?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "1778259339970",
+          "options": [
+            {
+              "text": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+            },
+            {
+              "text": "Some experience with adolescents (volunteering, internships, school setting)"
+            },
+            {
+              "text": "Limited experience, but strong interest in working with this population"
+            },
+            {
+              "text": "No experience working with adolescents"
+            }
+          ],
+          "body": "",
+          "response": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+        },
+        {
+          "text": "This role involves working with adolescents experiencing emotional or behavioral challenges in an IOP/PHP setting. Which best describes your comfort level?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+            },
+            {
+              "text": "Comfortable — I am new to this environment but confident in my ability to adapt"
+            },
+            {
+              "text": "Somewhat comfortable — I am unsure but open to learning"
+            },
+            {
+              "text": "Not comfortable working in this type of setting"
+            }
+          ],
+          "_id": "1778259713760",
+          "body": "",
+          "response": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+        }
+      ],
+      "resume": {
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/e6b256c3cd99/resume",
+        "file_name": "1782138531426-Resume.pdf?key=3510542a-2799-480b-8614-3d72bc426682",
+        "_id": "532cf2f390a5a9c6cd368cc843a5d463"
+      },
+      "source": {
+        "id": "indeed-sponsored-jobs",
+        "name": "Indeed Sponsored Jobs"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "My purpose and passion is to serve clients communication by ensuring and providing a safe environment while meeting their social -emotional and behavioral needs",
+      "tags": [],
+      "updated_date": "2026-06-29T18:07:40.741Z",
+      "work_history": [
+        {
+          "title": "mentor and encourage",
+          "company_name": "The Sequel House Recovery BHT",
+          "summary": "11/2024-02/2025 Supervised and monitor clients, safety checks, intakes, and discharge of clients, bag searches, client search and room checks, encouraging to attend groups, some kitchen duties. mentor and encourage client.",
+          "is_current": false,
+          "duration": {
+            "months": 3,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 11,
+            "year": 2024
+          },
+          "end_date": {
+            "month": 2,
+            "year": 2025
+          }
+        },
+        {
+          "title": "Tech",
+          "company_name": "Middle Flint Health AND Wellness",
+          "summary": "I was an intake tech for a crisis stabilization unit known as the (CSU). A charge nurse greeted clients upon arrival, assist with the pat down and searches, consent forms, bedding, transport unit 15-minute Q sheets, line of site observation de -escalations I conducted some groups and implemented group notes in the system. I worked a long size other peers which insists of monitoring and daily needs for the clients.",
+          "is_current": false,
+          "duration": {
+            "months": 26,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2025
+          }
+        },
+        {
+          "title": "nurse and psychiatrist",
+          "company_name": "Memorial Regional Hospital",
+          "summary": "2000-2017 Adolescent Psych Unit Safety checks, line of site 1:1, monitoring clients in groups with therapist visitations. Monitoring the wellbeing and the safety alongside a RN nurse and psychiatrist.",
+          "is_current": false,
+          "duration": {
+            "months": 215,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2000
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2017
+          }
+        },
+        {
+          "title": "Behavioral Specialist",
+          "company_name": "The Starting Place",
+          "summary": "Maintain safety of the clients and monitor clients drug rehab rehabilitation status maintain current and acute safety checks generate reports and accurate on time. Assessments for treatment needs.",
+          "is_current": false,
+          "duration": {
+            "months": 83,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 1994
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2000
+          }
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "102483449c03",
+      "meta_id": "d23a9a776932",
+      "creation_date": "2026-06-19T16:52:49.463Z",
+      "education": [
+        {
+          "school_name": "Florida International University",
+          "field_of_study": "",
+          "degree": "Bachelor's Degree",
+          "start_date": {
+            "year": 2026,
+            "month": 8
+          },
+          "end_date": {
+            "year": 2028,
+            "month": 4
+          },
+          "date_start": "2026-08-17",
+          "date_end": "2028-04-12"
+        },
+        {
+          "school_name": "Miami Dade College",
+          "field_of_study": "",
+          "degree": "Associate of Arts",
+          "start_date": {
+            "year": 2024,
+            "month": 8
+          },
+          "end_date": {
+            "year": 2026,
+            "month": 4
+          },
+          "date_start": "2024-08-20",
+          "date_end": "2026-04-25"
+        }
+      ],
+      "email_address": "accius.sarah@yahoo.com",
+      "followed_by": [],
+      "headline": "Front Desk Operator @ Lexus",
+      "initial": "S",
+      "name": "Sarah Accius",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "7542360905",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "No Spanish"
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "20"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Most Recent Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "_id": "07aec06c63d4",
+          "response": "still there"
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Prior Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "response": "better opportunites"
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "response": "n/a"
+        },
+        {
+          "text": "Which best describes your experience working with adolescents (ages 13–17)?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "1778259339970",
+          "options": [
+            {
+              "text": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+            },
+            {
+              "text": "Some experience with adolescents (volunteering, internships, school setting)"
+            },
+            {
+              "text": "Limited experience, but strong interest in working with this population"
+            },
+            {
+              "text": "No experience working with adolescents"
+            }
+          ],
+          "body": "",
+          "response": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+        },
+        {
+          "text": "This role involves working with adolescents experiencing emotional or behavioral challenges in an IOP/PHP setting. Which best describes your comfort level?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+            },
+            {
+              "text": "Comfortable — I am new to this environment but confident in my ability to adapt"
+            },
+            {
+              "text": "Somewhat comfortable — I am unsure but open to learning"
+            },
+            {
+              "text": "Not comfortable working in this type of setting"
+            }
+          ],
+          "_id": "1778259713760",
+          "body": "",
+          "response": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+        }
+      ],
+      "resume": {
+        "file_name": "Sarah-resume-1.pdf?key=5205ca36-6a0b-46ce-859e-47edc024cb24",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/102483449c03/resume",
+        "error": false,
+        "_id": "1f52fd781d42ddda507970e5798a36dc"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "Motivated and adaptable professional with extensive experience in customer service, front desk operations, and retail environments. Excellent communication abilities together with organizational skills and capacity to solve problems. Worked with different clients while handling daily business tasks and delivering exceptional service. Finding positions where my interpersonal skills and dependable nature and professional conduct will help organizations succeed.",
+      "tags": [],
+      "updated_date": "2026-06-25T20:58:50.346Z",
+      "work_history": [
+        {
+          "title": "Front Desk Operator",
+          "company_name": "Lexus",
+          "summary": "Behavioral Assistant, Positive Behavioral Support Miami Apr 2023 - Present Provide professional front desk support by welcoming clients, answering inquiries, and assisting with scheduling and general customer needs. Ensure a smooth flow of communication between clients and departments while supporting a polished and organized lobby environment that reflects the brand's customer service standards. Provided one on one behavioral support to clients with autism and developmental disabilities, implementing individualized behavior intervention plans using ABA techniques. Collected and recorded data to track client progress while collaborating with BCBA's, families, and school staff to ensure consistency across settings Supervisor Cashier, Saks Fifth Off Fifth Miami Supervised cashier operations while providing excellent customer service in a fast-paced retail environment. Processed sales, returns, exchanges and payments using POS systems: balanced cash drawers: assisted with training team members: resolved customer concerns: and help maintain accurate daily register procedures. Jan 2017- Jan 2021",
+          "is_current": false,
+          "duration": {
+            "months": 25,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 2,
+            "year": 2021
+          },
+          "end_date": {
+            "month": 3,
+            "year": 2023
+          },
+          "date_start": "2021-02-01",
+          "date_end": "2023-03-01"
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "60bc454e1036",
+      "meta_id": "78d4290d1d12",
+      "cover_letter": "Dear Adolescent Wellness Academy Team,\n\nI am eager to express my interest in the Wellness Coordinator position at Adolescent Wellness Academy. The opportunity to support adolescents and their families as they navigate mental health challenges and adverse experiences strongly appeals to me. I believe early intervention and community-based programs are essential to fostering resilience and promoting positive long-term outcomes, and I am eager to contribute to a structured, supportive environment that empowers youth.\n\nThrough my professional experiences and academic background in Human Development and Family Sciences and Psychology, I have developed strong skills in communication, empathy, documentation, and interdisciplinary collaboration. Working with individuals navigating mental health concerns has strengthened my ability to remain calm under pressure, maintain professional boundaries, handle sensitive information with discretion, and recognize when concerns require appropriate escalation.\n\nI am particularly drawn to Adolescent Wellness Academy's emphasis on therapeutic consistency, client safety, and meaningful connections with adolescents and their families. As I pursue a career in family counseling, I am excited by the opportunity to deepen my understanding of youth mental health while contributing positively to your team and the community you serve.\n\nThank you for your time and consideration. I would welcome the opportunity to discuss how my experiences, commitment to supporting youth, and passion for mental health align with the Wellness Coordinator role.\n\nSincerely,\n\nSamantha Reilly",
+      "creation_date": "2026-06-18T16:41:27.334Z",
+      "education": [
+        {
+          "school_name": "Florida State University",
+          "field_of_study": "Human Development and Family Sciences, Psychology",
+          "degree": "Bachelor of Science in Human Development and Family Sciences",
+          "start_date": {
+            "year": null
+          },
+          "end_date": {
+            "year": 2025
+          },
+          "summary": "I recieved my B.S. in HDFS and Psychology, as well as a Certification in Interdepartmental Developmental Disabilities."
+        }
+      ],
+      "email_address": "samantha.reilly221@gmail.com",
+      "followed_by": [],
+      "headline": "Behavioral Health Technician @ Greenbrook TMS NeuroHealth",
+      "initial": "S",
+      "name": "Samantha Reilly",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "9547741110",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "questionnaire_id": "2819f2028b61",
+          "body": "",
+          "response": "Conversational "
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "questionnaire_id": "2819f2028b61",
+          "response": "$20"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "questionnaire_id": "2819f2028b61",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Most Recent Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "_id": "07aec06c63d4",
+          "questionnaire_id": "2819f2028b61",
+          "response": "Start date: 9/08/2026 - Current\n\n$25/hr"
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Prior Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "questionnaire_id": "2819f2028b61",
+          "response": "Start: January 2024\nEnd: July 2025\n\n$18/hr\n\nReason for leaving: Moved away after graduation."
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "questionnaire_id": "2819f2028b61",
+          "response": "Transcranial Magnetic Stimulation Certification - Neurostar \n\nBasic Life Support (BLS) Certification - National CPR Foundation\n\nGCP for Social and Behavioral Research Best Practices for Clinical Research - Collaborative Intsitutional Training Initiative (CITI)\n\nHuman Subjects Research - Collaborative Institutional Training Initiative (CITI)\n\nGCP for Clinical Investigations - Collabortive Institutional Training Initiative (CITI)\n\nMontreal Cognitive Assessment (MoCA) Cerificate of Completion"
+        },
+        {
+          "text": "Which best describes your experience working with adolescents (ages 13–17)?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "1778259339970",
+          "options": [
+            {
+              "text": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+            },
+            {
+              "text": "Some experience with adolescents (volunteering, internships, school setting)"
+            },
+            {
+              "text": "Limited experience, but strong interest in working with this population"
+            },
+            {
+              "text": "No experience working with adolescents"
+            }
+          ],
+          "questionnaire_id": "2819f2028b61",
+          "body": "",
+          "response": "Some experience with adolescents (volunteering, internships, school setting)"
+        },
+        {
+          "text": "This role involves working with adolescents experiencing emotional or behavioral challenges in an IOP/PHP setting. Which best describes your comfort level?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+            },
+            {
+              "text": "Comfortable — I am new to this environment but confident in my ability to adapt"
+            },
+            {
+              "text": "Somewhat comfortable — I am unsure but open to learning"
+            },
+            {
+              "text": "Not comfortable working in this type of setting"
+            }
+          ],
+          "_id": "1778259713760",
+          "questionnaire_id": "2819f2028b61",
+          "body": "",
+          "response": "Comfortable — I am new to this environment but confident in my ability to adapt"
+        }
+      ],
+      "resume": {
+        "file_name": "Samantha-Reilly-Resume-June-2025.pdf?key=2eca4e86-a440-45dd-ab58-7ce2390a58ea",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/60bc454e1036/resume",
+        "error": false,
+        "_id": "dbb5727cf7d44a1ddc35b2e6c346bd40"
+      },
+      "source": {
+        "id": "linkedin",
+        "name": "LinkedIn"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "tags": [],
+      "updated_date": "2026-06-19T13:10:31.796Z",
+      "work_history": [
+        {
+          "title": "Behavioral Health Technician",
+          "company_name": "Greenbrook TMS NeuroHealth",
+          "summary": "* Provide patient-centered support by fostering therapeutic rapport and delivering a positive, empathetic treatment experience that aligns with each patient's individual needs and care plan \n* Administer Transcranial Magnetic Stimulation (TMS) and esketamine treatments to 10-15 patients daily in accordance with clinical protocols and FDA regulations while prioritizing patient comfort \n* Monitor, assess, and document patient treatment responses utilizing qualitative and quantitative measures \n* Maintain accurate and compliant documentation within AdvancedMD to support interdisciplinary communication, continuity of care, and clinical efficiency",
+          "is_current": true,
+          "duration": {
+            "months": 9,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2025
+          },
+          "end_date": {
+            "year": null,
+            "month": null
+          },
+          "date_start": "2025-09-01",
+          "date_end": ""
+        },
+        {
+          "title": "Front Desk Assistant",
+          "company_name": "FSU Center for Couple and Family Therapy",
+          "summary": "* Collaborated with fellow office assistants, therapists, and clinic supervisors to organize 30-50 clinic appointments per week and ensured all required documentation was collected utilizing the OWL Practice system \n* Maintained strict confidentiality and professionalism in handling client communications, files, and scheduling \n* Supported clinicians in tracking client progress utilizing standardized psychological and relational scales \n* Assisted clients at intake and arrival with clear, professional guidance to promote a comforting clinic experience",
+          "is_current": false,
+          "duration": {
+            "months": 4,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2025
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2025
+          },
+          "date_start": "2025-01-01",
+          "date_end": "2025-05-01"
+        },
+        {
+          "title": "Provider Relations Intern",
+          "company_name": "Early Learning Coalition of the Big Bend",
+          "summary": "* Informed school providers about School Readiness and Voluntary Pre-Kindergarten program requirements, supporting their progression toward contract approval and helping families access accurate program information \n* Demonstrated proficiency in Microsoft Office Suite to organize contract data, support team and client communication, and produce accurate and detailed reports that contribute to ongoing provider-relations initiatives",
+          "is_current": false,
+          "duration": {
+            "months": 3,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2024
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2024
+          },
+          "date_start": "2024-09-01",
+          "date_end": "2024-12-01"
+        },
+        {
+          "title": "Research Assistant in Anxiety and Behavioral Health Clinic",
+          "company_name": "Florida State University",
+          "summary": "* Managed outreach to 20-40 interested participants weekly utilizing email and telephone skills, as well as REDCap database, and address inquiries related to research participation while maintaining study enrollment timelines \n* Evaluated eligibility of adults aged 60 or older and their care partners for a stress and cognition study using a 30-40 minute phone screening that included the Montreal Cognitive Assessment and clinical anxiety measures \n* Liaised with lab personnel and clinic directors to screen prospective clients for clinical treatment services and coordinate scheduling weekly appointments within Titanium software \n* Completed Directed Individual Study coursework and lab duties prior to Research Assistant promotion",
+          "is_current": false,
+          "duration": {
+            "months": 18,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2024
+          },
+          "end_date": {
+            "month": 7,
+            "year": 2025
+          },
+          "date_start": "2024-01-01",
+          "date_end": "2025-07-01"
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "a1f25584877f",
+      "meta_id": "47589462b9d6",
+      "cover_letter": "Dear hiring team, \nI am very excited that I am applying for the wellness coordinator position with adolescent wellness academy.\n\nI am currently working at La fitness a client facing role where I greet and make members comfortable, handle responsibilities at front desk while helping members and helping sell memberships. I also play a big part in maintaining a welcoming environment. I also have a lot of experience in working with youth. I’ve worked in a lot of summer camps and right now I am serving for my church youth ministry helping young high school students stay on the right track and counseling them. I love being a positive role model and creating relationship with others.\n\nCurrently I am also someone pursuing a future in psychology and mental performance coaching. I am very passionate in supporting people through situations that they may be going through and are challenging and they can’t do alone. I am also bilingual in English and Spanish and I am comfortable working with families from different places and backgrounds.\n\nI would love to have this opportunity and feel I would also be a great candidate for this role.\n  \nSincerely, \nJose Hernandez",
+      "creation_date": "2026-06-07T22:13:41.206Z",
+      "education": [
+        {
+          "school_name": "Cypress bay high school",
+          "field_of_study": "teamwork and communication",
+          "degree": "Unknown Degree",
+          "start_date": {
+            "year": null
+          },
+          "end_date": {
+            "year": 2023
+          }
+        }
+      ],
+      "email_address": "josedh71@hotmail.com",
+      "followed_by": [],
+      "headline": "Front Desk Receptionist @ LA Fitness",
+      "initial": "J",
+      "name": "Jose Hernandez",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "+1 786 538 0982",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "Fully Bilingual"
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "15-18"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Most Recent Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "_id": "07aec06c63d4",
+          "response": "August 2025-Present\n14.00/hour\nSeeking an opportunity to gain experience for my field and pursuing my long term career goals in psychology and mental performance."
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Prior Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "response": "June 2024-August 2024\n13.00/hour\nIt was a seasonal position."
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "response": "CPR/First Aid Certification American Red Cross \nIssuing 2/13/2026\nExpiring 2/13/2028"
+        },
+        {
+          "text": "Which best describes your experience working with adolescents (ages 13–17)?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "1778259339970",
+          "options": [
+            {
+              "text": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+            },
+            {
+              "text": "Some experience with adolescents (volunteering, internships, school setting)"
+            },
+            {
+              "text": "Limited experience, but strong interest in working with this population"
+            },
+            {
+              "text": "No experience working with adolescents"
+            }
+          ],
+          "body": "",
+          "response": "Some experience with adolescents (volunteering, internships, school setting)"
+        },
+        {
+          "text": "This role involves working with adolescents experiencing emotional or behavioral challenges in an IOP/PHP setting. Which best describes your comfort level?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+            },
+            {
+              "text": "Comfortable — I am new to this environment but confident in my ability to adapt"
+            },
+            {
+              "text": "Somewhat comfortable — I am unsure but open to learning"
+            },
+            {
+              "text": "Not comfortable working in this type of setting"
+            }
+          ],
+          "_id": "1778259713760",
+          "body": "",
+          "response": "Comfortable — I am new to this environment but confident in my ability to adapt"
+        }
+      ],
+      "resume": {
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/a1f25584877f/resume",
+        "file_name": "1780798115797-JOSEHERNANDEZResume.pdf?key=9e52ed04-c3cd-4ce0-909c-9f8aa3460293",
+        "_id": "9f9c700097ff0fa13682003209df0cdf"
+      },
+      "source": {
+        "id": "indeed-sponsored-jobs",
+        "name": "Indeed Sponsored Jobs"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "I am a qualified worker who is very goal-oriented and always ready to get the job done. I love helping others and that has always been a passion of mine. I am someone who can solve problems and have done so in my previous work and I also am very passionate working in a team and seeing my teammates or coworkers reach their goals. I am always ready for a new challenge and always willing to work hard for what I'm assigned for. Dynamic front desk receptionist with strong customer engagement and problem resolution skills. Committed to enhancing customer satisfaction and fostering positive environments.",
+      "tags": [],
+      "updated_date": "2026-06-17T19:25:42.654Z",
+      "work_history": [
+        {
+          "title": "Front Desk Receptionist",
+          "company_name": "LA Fitness",
+          "summary": "",
+          "is_current": true,
+          "duration": {
+            "months": 11,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 7,
+            "year": 2025
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2026
+          }
+        },
+        {
+          "title": "Camp Counselor",
+          "company_name": "Camp Victory",
+          "summary": "",
+          "is_current": false,
+          "duration": {
+            "months": 2,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2023
+          }
+        },
+        {
+          "title": "Hospitality Associate",
+          "company_name": "Vertical Church",
+          "summary": "",
+          "is_current": false,
+          "duration": {
+            "months": 8,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2023
+          }
+        },
+        {
+          "title": "Camp Counselor and Associate",
+          "company_name": "Lingua Ranch",
+          "summary": "Team Collaboration Appointment scheduling Customer service Event coordination Financial reporting Record management Team building Problem resolution Managed front desk operations, greeting visitors and addressing their inquiries effectively. Coordinated appointment schedules for clients, ensuring efficient use of resources and time. Maintained an organized filing system for member records, enhancing access to important information. Processed membership applications and renewals, ensuring compliance with company policies. Assisted in training new staff members on front desk procedures and customer service standards. Handled cash transactions, processed payments, and managed daily financial reports. Monitored facility access, ensuring safety protocols were followed and unauthorized entry was prevented. Provided information about fitness programs and services, promoting membership growth. Resolved customer complaints promptly, leading to improved satisfaction levels. Maintained cleanliness and order of the reception area, creating a welcoming environment. Fostered a positive camp environment, encouraging teamwork and collaboration among campers to enhance their social skills. Implemented daily activity schedules, ensuring smooth transitions and maximizing camper engagement throughout the program. Taught kids how to play sports. Made sure kids were learning new creative activities. Helped other parents learn about the camp and promote it. Provided exceptional service to guests, fostering a welcoming atmosphere that enhanced overall customer satisfaction. Orchestrated event setups, ensuring timely execution and contributing to seamless guest experiences and positive feedback. Analyzed client preferences to tailor experiences, leading to noticeable improvements in repeat visit rates. Coordinated with kitchen staff and management to streamline service processes, resulting in reduced wait times and increased efficiency. Maintained accurate records of guest feedback and service metrics, driving continuous improvement initiatives across the team. Enhanced guest interaction protocols, leading to substantial improvements in customer satisfaction scores and repeat visits. Led engaging activities for 30+ campers, fostering teamwork and communication skills. Resolved conflicts among campers, ensuring a supportive and inclusive environment. Collaborated with team to plan daily schedules, enhancing camper satisfaction. Monitored safety protocols, resulting in zero incidents during the camp session. Helped kids learn and play sports and arts and crafts. Took kids to barn care and teach them on how to take care of animals and help them feed animals. Fostered a positive and inclusive camp environment, enhancing camper engagement and building lasting friendships among participants. Coordinated daily activities and schedules, ensuring smooth operation and maximizing participation, leading to noticeable improvements in camper satisfaction.",
+          "is_current": false,
+          "duration": {
+            "months": 2,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2022
+          }
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "b88dcc99c872",
+      "meta_id": "2363c9f8d0a7",
+      "creation_date": "2026-06-16T16:11:42.643Z",
+      "education": [
+        {
+          "school_name": "Florida Atlantic University",
+          "field_of_study": "Social Work",
+          "degree": "Master of Social Work",
+          "start_date": {
+            "year": 2026,
+            "month": 1
+          },
+          "end_date": {
+            "year": 2027,
+            "month": 12
+          },
+          "date_start": "2026-01-01",
+          "date_end": "2027-12-01",
+          "summary": "certificate Child Welfere"
+        },
+        {
+          "school_name": "Florida International University",
+          "field_of_study": "criminal justice",
+          "degree": "Certificate",
+          "summary": "Minor: Sociology\nCertification: National Security Studies"
+        }
+      ],
+      "email_address": "galiatorres137@gmail.com",
+      "followed_by": [],
+      "headline": "Probation Officer @ Department of Juvenile Justice",
+      "initial": "G",
+      "name": "Galia Torres",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "9784838100",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "Fully Bilingual"
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "25"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Most Recent Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "_id": "07aec06c63d4",
+          "response": "Currently working as a Juvenile Probation Officer\n\nMarch 2024 – Present"
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><span style=\"\">Start and End Date of Employment:</span></p><p><span style=\"\">Prior Compensation:</span></p><p><span style=\"\">Reason for Leaving:</span></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "response": "National Center for Missing and Exploited Children (NCMEC) — Intern\nMay 2023 – August 2023"
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "response": "certified probation officer \ncertified first aid and CPR"
+        },
+        {
+          "text": "Which best describes your experience working with adolescents (ages 13–17)?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "1778259339970",
+          "options": [
+            {
+              "text": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+            },
+            {
+              "text": "Some experience with adolescents (volunteering, internships, school setting)"
+            },
+            {
+              "text": "Limited experience, but strong interest in working with this population"
+            },
+            {
+              "text": "No experience working with adolescents"
+            }
+          ],
+          "body": "",
+          "response": "1+ year of experience working with adolescents in a clinical or behavioral health setting"
+        },
+        {
+          "text": "This role involves working with adolescents experiencing emotional or behavioral challenges in an IOP/PHP setting. Which best describes your comfort level?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Very comfortable — I have prior experience in a behavioral health or clinical setting"
+            },
+            {
+              "text": "Comfortable — I am new to this environment but confident in my ability to adapt"
+            },
+            {
+              "text": "Somewhat comfortable — I am unsure but open to learning"
+            },
+            {
+              "text": "Not comfortable working in this type of setting"
+            }
+          ],
+          "_id": "1778259713760",
+          "body": "",
+          "response": "Comfortable — I am new to this environment but confident in my ability to adapt"
+        }
+      ],
+      "resume": {
+        "file_name": "Galia-Torres-resume-2026.pdf?key=80d4e38c-cdd7-4fdf-a2ce-3f230acc8fa5",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/261fb59293da/candidate/b88dcc99c872/resume",
+        "error": false,
+        "_id": "c3680a3c2b7706be4a6241e5c8d3df1a"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "Trauma-informed with hands-on experience in case management supporting children and adolescents involved in the juvenile justice and child welfare systems. Strong background in child advocacy and crisis intervention. Bilingual in English and Spanish, with experience working alongside courts, law enforcement, Department of Children and Families, and community agencies to support vulnerable youth and families.",
+      "tags": [],
+      "updated_date": "2026-06-16T17:09:56.276Z",
+      "work_history": [
+        {
+          "title": "Probation Officer",
+          "company_name": "Department of Juvenile Justice",
+          "summary": "* Conduct risk assessments for delinquent youth to identify emotional and behavioral needs * Apply trauma-informed, developmentally appropriate communication strategies when working with adolescents in crisis * Collaborate with families, educators, treatment providers, and multidisciplinary teams to support rehabilitation and emotional well-being * Appear in court to present case updates, provide professional recommendations, and advocate for youth services * Maintain accurate, confidential case documentation in compliance with legal and ethical standards",
+          "is_current": true,
+          "duration": {
+            "months": 23,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 3,
+            "year": 2024
+          },
+          "end_date": {
+            "year": 2026,
+            "month": 6
+          },
+          "date_start": "2024-03-01",
+          "date_end": "2026-06-16"
+        },
+        {
+          "title": "Intern",
+          "company_name": "Dade Police Department",
+          "summary": "* Participated in rotations with officers, detectives, and civilian staff across investigative and community-focused units * Assisted with evidence documentation, report writing, and investigative support tasks * Observed and supported community outreach initiatives involving children, adolescents, and families CHILD & COMMUNITY EXPERIENCE",
+          "is_current": false,
+          "duration": {
+            "months": 4,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 8,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2023
+          },
+          "date_start": "2023-08-01",
+          "date_end": "2023-12-01"
+        },
+        {
+          "title": "VP of Events",
+          "company_name": "National Society of Leadership and Success",
+          "summary": "Planned and coordinated leadership, professional development, and educational events with faculty and guest speakers",
+          "is_current": false,
+          "duration": {
+            "months": 4,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 8,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2023
+          },
+          "date_start": "2023-08-01",
+          "date_end": "2023-12-01"
+        },
+        {
+          "title": "Intern",
+          "company_name": "National Center for Missing and Exploited Children NCMEC",
+          "summary": "* Assisted with cases involving missing, abused, and sexually exploited children in collaboration with law enforcement and child protection agencies * Conducted social media investigations to support child recovery and safety efforts * Documented sensitive case information while adhering to strict confidentiality, legal, and reporting protocols * Supported families navigating traumatic situations involving child victimization and exploitation",
+          "is_current": false,
+          "duration": {
+            "months": 3,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2023
+          },
+          "date_start": "2023-05-01",
+          "date_end": "2023-08-01"
+        },
+        {
+          "title": "Teacher Aide",
+          "company_name": "Children Creative Learning Center",
+          "summary": "* Supported early childhood educators with lesson planning, classroom engagement, and daily supervision * Assisted with emotional regulation, behavioral support, and developmentally appropriate activities",
+          "is_current": false,
+          "duration": {
+            "months": 7,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 8,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 3,
+            "year": 2023
+          },
+          "date_start": "2022-08-01",
+          "date_end": "2023-03-01"
+        },
+        {
+          "title": "Events Planner",
+          "company_name": "National Criminal Justice Honor Society",
+          "summary": "Organized academic and networking events for student members",
+          "is_current": false,
+          "duration": {
+            "months": 23,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2023
+          },
+          "date_start": "2022-01-01",
+          "date_end": "2023-12-01"
+        },
+        {
+          "title": "Community Service Volunteer",
+          "company_name": "Lowell Catholic Elementary School",
+          "summary": "Assisted teachers with classroom instruction, student engagement, and learning activities LEADERSHIP EXPERIENCE",
+          "is_current": false,
+          "duration": {
+            "months": 11,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 2019
+          },
+          "end_date": {
+            "month": 4,
+            "year": 2020
+          },
+          "date_start": "2019-05-01",
+          "date_end": "2020-04-01"
+        }
+      ],
+      "bias_status": "applicant"
+    }
+  ]
+}
