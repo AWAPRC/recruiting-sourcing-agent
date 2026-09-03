@@ -1,0 +1,31 @@
+name: Pull ALL pipelines full (Wellness Coordinator search)
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Pull all positions + candidates
+        env:
+          BREEZY_EMAIL: ${{ secrets.BREEZY_EMAIL }}
+          BREEZY_PASSWORD: ${{ secrets.BREEZY_PASSWORD }}
+        run: |
+          set -e
+          DATE=$(TZ=America/New_York date +%F)
+          node scripts/pull_all_full.js "$DATE"
+      - name: Commit pulled data back
+        run: |
+          git config user.name  "recruiting-agent-bot"
+          git config user.email "recruiting-agent-bot@users.noreply.github.com"
+          git add data/ || true
+          git commit -m "Pull all pipelines full $(TZ=America/New_York date +'%F %H:%M ET')" || echo "no changes"
+          git push || echo "nothing to push"
