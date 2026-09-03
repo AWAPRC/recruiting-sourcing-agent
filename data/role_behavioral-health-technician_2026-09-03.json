@@ -1,0 +1,1442 @@
+{
+  "position": {
+    "_id": "34e6df6e1c91",
+    "type": {
+      "id": "fullTime",
+      "name": "Full-Time"
+    },
+    "state": "published",
+    "name": "Behavioral Health Technician",
+    "friendly_id": "34e6df6e1c91-behavioral-health-technician",
+    "experience": null,
+    "location": {
+      "country": {
+        "name": "United States",
+        "id": "US"
+      },
+      "state": {
+        "id": "FL",
+        "name": "Florida"
+      },
+      "city": "Davie",
+      "primary": true,
+      "streetAddress": {
+        "location": "4343 S State Rd 7 Davie, FL 33314",
+        "streetAddress": "4343 S State Rd 7",
+        "components": [
+          {
+            "short_name": "33314",
+            "long_name": "33314",
+            "types": [
+              "postal_code"
+            ]
+          },
+          {
+            "short_name": "US",
+            "long_name": "US",
+            "types": [
+              "country"
+            ]
+          },
+          {
+            "short_name": "Davie",
+            "long_name": "Davie",
+            "types": [
+              "locality"
+            ]
+          },
+          {
+            "short_name": "FL",
+            "long_name": "FL",
+            "types": [
+              "administrative_area_level_1"
+            ]
+          }
+        ]
+      },
+      "is_remote": false,
+      "name": "Davie, FL",
+      "id": "080d891d418b"
+    },
+    "education": null,
+    "department": "Principles Recovery Center",
+    "requisition_id": "PRC-BHT-09012026",
+    "description": "<h1><strong><strong>Behavioral Health Technician</strong></strong></h1>\n<p>On-Site | Full-Time | Schedule Tuesday to Saturday 7:00am - 3:30pm&nbsp;|&nbsp;<strong>Compensation:</strong>&nbsp;This role starts at&nbsp;<strong>$17.00/hour</strong>&nbsp;during the onboarding and training period. After successful completion of training and certification in core responsibilities, pay increases to&nbsp;<strong>$19.00/hour</strong>.<br><br></p>\n<p><strong><strong>About the Role</strong></strong></p>\n<p>You are a frontline member of the PRC care team. You support adult clients through structured recovery programming — maintaining safety, accountability, and a therapeutic environment from the moment your shift starts. This role requires calm under pressure, strong documentation habits, and genuine commitment to the people you serve.</p>\n<p><em><em>Backgrounds that translate well: Behavioral Health Tech · Direct Care · Substance Use Treatment · Residential Support · Crisis Stabilization</em></em></p>\n<p></p>\n<p><strong><strong>What You'll Do</strong></strong></p>\n<ul class=\"editor-list-ul\"><li dir=\"ltr\" class=\"editor-listitem\" value=\"1\">Supervise and support adult clients throughout daily programming</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"2\">Conduct regular headcounts, rounds, and safety checks</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"3\">Collect and document urine drug screens in accordance with policy</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"4\">Complete shift notes, room checks, incident reports, and behavior documentation accurately and on time</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"5\">Maintain cleanliness and order of all shared program spaces</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"6\">Enforce program rules with professionalism and respect — firm, never punitive</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"7\">Collaborate with therapists, medical staff, and leadership across shifts</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"8\">Participate in team meetings and shift-change debriefs</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"9\">Escort clients to appointments or activities as needed</li></ul>\n<p><strong><strong>What We're Looking For</strong></strong></p>\n<ul class=\"editor-list-ul\"><li dir=\"ltr\" class=\"editor-listitem\" value=\"1\">2+ years of experience as a BHT or in a similar direct care role</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"2\">Experience working with adult clients in a substance use treatment setting</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"3\">Strong documentation habits — shift notes, incident reports, and UA logs completed accurately and on time</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"4\">Calm, boundaries, and professional under pressure</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"5\">Valid driver's license and reliable transportation</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"6\">CPR/First Aid certified or able to obtain upon hire</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"7\">High school diploma or GED required</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"8\">Eligible for Level II background screening and drug test</li><li dir=\"ltr\" class=\"editor-listitem\" value=\"9\">Available full-time for Tuesday–Saturday schedule</li></ul>\n<p></p>\n<p><em><em>PRC is an adult behavioral health organization operating PHP and IOP programs across South Florida. We exist to serve clients and families at their most critical moments — and this role supports that mission on the ground every day.</em></em></p>\n<p><strong><strong>Learn More:</strong></strong> <a data-faitracker-click-bind=\"true\" dir=\"ltr\" class=\"editor-link\" href=\"https://principlesrecoverycenter.com/\">Principles Recovery Center</a></p>",
+    "category": null,
+    "application_form": {
+      "name": "required",
+      "headline": "optional",
+      "summary": "optional",
+      "profile_photo": "optional",
+      "address": "hidden",
+      "salary": "hidden",
+      "email_address": "required",
+      "phone_number": "required",
+      "resume": "required",
+      "work_history": "optional",
+      "education": "optional",
+      "cover_letter": "optional",
+      "preferred_location": "hidden",
+      "questionnaire_in_experience": true
+    },
+    "creator_id": "c33b51bf818d",
+    "creation_date": "2026-09-01T19:10:42.265Z",
+    "updated_date": "2026-09-01T19:12:37.638Z",
+    "questionnaire_id": "f362c75cc342",
+    "all_users": [
+      "99b44f51e79a",
+      "506de6c34c30",
+      "c33b51bf818d"
+    ],
+    "all_admins": [
+      "99b44f51e79a",
+      "506de6c34c30",
+      "c33b51bf818d"
+    ],
+    "pipeline_id": "2d4856d57091",
+    "candidate_type": "all",
+    "tags": [
+      "prc",
+      "devanne"
+    ],
+    "org_type": "position",
+    "bias_enabled": false,
+    "salary": {
+      "from": 17,
+      "to": 19,
+      "period": "Hourly",
+      "currency": "USD"
+    }
+  },
+  "candidates": [
+    {
+      "_id": "84adb2a66ffd",
+      "meta_id": "baadb98e5597",
+      "creation_date": "2026-09-02T22:57:25.420Z",
+      "education": [
+        {
+          "school_name": "Blanche Ely High School",
+          "field_of_study": "",
+          "degree": "High School Diploma"
+        }
+      ],
+      "email_address": "duanettehankerson@gmail.com",
+      "followed_by": [],
+      "headline": "Medication Technician @ Alba Court Assisted Living New Smyrna FL",
+      "initial": "D",
+      "name": "Duanette Hankerson",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "+19544790031",
+      "questionnaire": [
+        {
+          "text": "How did you hear about this opportunity?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Current Employee Referral",
+              "enabledActions": []
+            },
+            {
+              "text": "Job Board",
+              "enabledActions": []
+            },
+            {
+              "text": "Social Media",
+              "enabledActions": []
+            },
+            {
+              "text": "Career Fair or Community Event",
+              "enabledActions": []
+            },
+            {
+              "text": "Direct Outreach from Our Recruitment Team",
+              "enabledActions": []
+            },
+            {
+              "text": "AWA/PRC Website",
+              "enabledActions": []
+            },
+            {
+              "text": "Other",
+              "enabledActions": []
+            }
+          ],
+          "_id": "1788265090244",
+          "response": "Other"
+        },
+        {
+          "text": "What compensation range would you be comfortable considering for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "$20"
+        },
+        {
+          "text": "How would you describe your level of Spanish fluency?",
+          "options": [
+            {
+              "text": "Fluent or bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "Basic",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "response": "Basic"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "response": "No"
+        },
+        {
+          "text": "Please provide information about your most recent employer.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Please provide your most recent employer’s company name, your official job title, dates of employment, and primary responsibilities.</span><br></p>",
+          "_id": "07aec06c63d4",
+          "response": "Abba Cout Assisted living \nMedication technician \n06/25 to 07/26\nSafety administer medication Assisted with daily care monitor patients \n\nThe Edge Recovery \nBehavioral Health Technician \n10/17 to 04/19\nConduct routine safety checks every 15 to 30 minutes.\nRecord patients behavioral.\nAssist with intake process.\nPerform basic light housekeeping "
+        },
+        {
+          "text": "What prompted you to leave your most recent position? Please provide a brief, specific explanation.",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787672826640",
+          "response": "Moved to be close to family. "
+        },
+        {
+          "text": "If you advance to the final stage, we will select prior supervisors to contact as references. Would you be willing and able to personally connect us with at least three of the references we select?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Yes",
+              "enabledActions": []
+            },
+            {
+              "text": "No",
+              "enabledActions": []
+            }
+          ],
+          "_id": "1787672936697",
+          "response": "Yes"
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please attach any relevant licenses, certifications, awards, or other credentials you would like us to consider.",
+          "required": false,
+          "type": {
+            "id": "file",
+            "name": "File Attachment"
+          },
+          "_id": "4f808a4ea91b",
+          "response": {
+            "file_name": "1788389841052-d9157ed18c5f4e55a40762bd7e6f82a5.pdf",
+            "url": "https://app.breezy.hr/api/company/none/uploads/7c329d3a-b31d-4fa6-8fb3-01f6b4e9d14f/1788389841052-d9157ed18c5f4e55a40762bd7e6f82a5.pdf"
+          }
+        }
+      ],
+      "resume": {
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/34e6df6e1c91/candidate/84adb2a66ffd/resume",
+        "file_name": "1788389841032-DuanetteHankerson.pdf?key=7c99354c-119f-48ba-b9a2-262fb35748ba",
+        "_id": "cfebcd56df2634b9ecd1bb9122ef1690"
+      },
+      "source": {
+        "id": "ziprecruiter",
+        "name": "ziprecruiter"
+      },
+      "stage": {
+        "id": 1776873283217,
+        "name": "A Players",
+        "type": {
+          "id": "feedback",
+          "name": "Feedback",
+          "icon": "user-group"
+        }
+      },
+      "summary": "Behavioral Health Technician with residential mental health and substance use treatment experience. Supports client supervision, crisis de-escalation, and medication observation while maintaining safety and accurate documentation. Helps monitor behavior, withdrawal symptoms, and treatment progress in structured residential care settings.",
+      "tags": [],
+      "updated_date": "2026-09-03T18:36:04.970Z",
+      "work_history": [
+        {
+          "title": "Medication Technician",
+          "company_name": "Alba Court Assisted Living New Smyrna FL",
+          "summary": "Administer prescribed medications to residents in accordance with physician orders, facility policies, and state regulations. Accurately document medication administration, resident responses, and any medication-related concerns in electronic health records. Monitor residents for adverse reactions, side effects, and changes in condition, promptly reporting concerns to licensed nursing staff. Assist residents with activities of daily living, including grooming, dressing, mobility, and personal hygiene as needed. Perform and document routine vital signs, weight checks, and other health-related observations. Maintain medication carts, storage areas, and medication records to ensure compliance with safety and regulatory standards. Coordinate medication refills with pharmacies and ensure medications are properly stocked and organized. Provide compassionate resident support while promoting dignity, independence, and quality of life.",
+          "is_current": false,
+          "duration": {
+            "months": 19,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 12,
+            "year": 2024
+          },
+          "end_date": {
+            "month": 7,
+            "year": 2026
+          }
+        },
+        {
+          "title": "Behavioral Health Technician",
+          "company_name": "Road to Recovery Wellness Center",
+          "summary": "Performed patient intake and admission procedures, including obtaining required information, completing admission paperwork, recording vital signs, reviewing facility guidelines, and helping patients acclimate to the treatment environment. Administered prescribed medications in accordance with established policies and procedures. Assisted patients with daily routines, personal needs, appointments, meals, and other activities necessary to support treatment participation. Maintained detailed electronic documentation regarding patient progress, behaviors, medication administration, incidents, and significant observations.",
+          "is_current": false,
+          "duration": {
+            "months": 13,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 10,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 11,
+            "year": 2024
+          },
+          "location": {
+            "city": "Pompano Beach",
+            "state": "FL",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Behavioral Health Technician",
+          "company_name": "The Edge Recovery",
+          "summary": "Delivered direct patient care, wellness checks, emotional support, and treatment compliance encouragement. Maintained a safe and secure setting by conducting scheduled rounds, patient observations, and safety checks throughout overnight shifts. Maintained documentation and collaborated with clinical teams on treatment plan support. Administered prescribed medications as a Certified Medication Technician in accordance with physician orders, facility protocols, and applicable regulations.",
+          "is_current": false,
+          "duration": {
+            "months": 63,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2018
+          },
+          "end_date": {
+            "month": 9,
+            "year": 2023
+          },
+          "location": {
+            "city": "Coral Springs",
+            "state": "FL",
+            "country_code": "US"
+          }
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "aa8e0877ed1c",
+      "meta_id": "92495208616d",
+      "cover_letter": "Dear Hiring Manager,\nI am excited to apply for the Adolescent Mental Health Technician position at Adolescent Wellness Academy. My experience working with youth and adolescents has strengthened my skills in behavioral support, crisis intervention, de-escalation, supervision, and emotional support.\nI am passionate about creating safe, structured, and supportive environments where young people feel heard and respected. I am dependable, patient, and comfortable working as part of a team while responding to individual needs and changes in behavior. I would welcome the opportunity to bring my experience and compassion to Adolescent Wellness Academy and contribute to the well-being of the adolescents you serve.\n\nThank you for your consideration.\n\nSincerely,\nAnnick Henry",
+      "creation_date": "2026-08-31T17:58:38.173Z",
+      "education": [
+        {
+          "school_name": "FLORIDA INTERNATIONAL UNIVERSITY",
+          "field_of_study": "Communication Arts",
+          "degree": "Bachelor of Science in Communication Arts"
+        }
+      ],
+      "email_address": "annickhenry64@gmail.com",
+      "followed_by": [],
+      "headline": "Lead Student Life Counselor @ THE SEED SCHOOL OF MIAMI",
+      "initial": "A",
+      "name": "Annick Henry",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "+17866552472",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "No Spanish"
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "21.00"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><b><strong>Please provide information about your most recent employer</strong></b><br><br><b><strong>Company Name:</strong></b><br><b><strong>Official Job Title:</strong></b><br><b><strong>Dates of Employment:</strong></b><br><b><strong>Primary Responsibilities:</strong></b></p>",
+          "_id": "07aec06c63d4",
+          "response": "Company Name: The SEED School of Miami\nOfficial Job Title: Lead Student Life Counselor\n Dates of Employment: October 2023 – August 2026\n Primary Responsibilities: Provided daily supervision, behavioral and emotional support, crisis intervention, and de-escalation for adolescents. Monitored student behavior and safety, documented incidents, provided mentorship and positive reinforcement, communicated with families and staff, and supported students’ social-emotional needs."
+        },
+        {
+          "text": "What was your reason for leaving your most recent position? Please provide a specific explanation.",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787672826640",
+          "body": "",
+          "response": "I left my most recent position to pursue new opportunities that align more closely with my professional goals and allow me to continue working directly with adolescents in a mental health and supportive care setting."
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><b><strong>Please provide information about your second most recent employer</strong></b><br><br><b><strong>Company Name:</strong></b><br><b><strong>Official Job Title:</strong></b><br><b><strong>Dates of Employment:</strong></b><br><b><strong>Primary Responsibilities:</strong></b></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "response": "Company Name: Miami-Dade County Public Schools\nOfficial Job Title: Reading Interventionist\nDates of Employment: January 2018 – June 2025\nPrimary Responsibilities: Provided individualized academic and behavioral support to students; monitored progress and behavior; implemented intervention strategies; maintained student documentation; communicated with families and staff; and created a positive, supportive learning environment."
+        },
+        {
+          "text": "What was your reason for leaving your second most recent position? Please provide a specific explanation.",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787672858083",
+          "body": "",
+          "response": "My position ended due to budget cuts within the school district."
+        },
+        {
+          "text": "Are you willing to personally connect us with former supervisors and other professional references we select if you advance to the reference-check stage?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "_id": "1787672936697",
+          "body": "",
+          "response": "Yes"
+        },
+        {
+          "text": "What are your short-term and long-term career goals?",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787673014633",
+          "body": "",
+          "response": "In the short term, I want to gain more hands-on experience in mental health and continue learning how to support adolescents through different challenges better. I’ve always enjoyed working with young people and being someone they can feel safe and comfortable around. Long-term, I want to grow within the mental health field, continue developing professionally, and make a meaningful difference in the lives of the people I serve."
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "response": "N/A"
+        },
+        {
+          "text": "Have you worked directly with adults diagnosed with both substance use and mental health disorders? Please briefly describe this experience.",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787674429386",
+          "body": "",
+          "response": "I have not worked directly with adults diagnosed with co-occurring substance use and mental health disorders. However, I have extensive experience supporting adolescents with behavioral and emotional challenges, including crisis intervention, de-escalation, behavior monitoring, and emotional support. I am comfortable learning new approaches and am eager to build my experience in this area."
+        }
+      ],
+      "resume": {
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/34e6df6e1c91/candidate/aa8e0877ed1c/resume",
+        "file_name": "1788198195672-AnnickHenry.pdf?key=27d40189-2897-495d-a450-16a07c037ad0",
+        "_id": "b33ee5b5d3c3c11a54eebad1c3891cd6"
+      },
+      "source": {
+        "id": "ziprecruiter",
+        "name": "ziprecruiter"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "Experienced in supporting adolescents in structured environments, providing behavioral and emotional support, crisis intervention, de-escalation, supervision, and positive reinforcement. Skilled in observing and documenting behavior, maintaining safety, building trusting relationships, and collaborating with staff to support individual needs.",
+      "tags": [],
+      "updated_date": "2026-09-03T18:35:18.572Z",
+      "work_history": [
+        {
+          "title": "Lead Student Life Counselor",
+          "company_name": "THE SEED SCHOOL OF MIAMI",
+          "summary": "* Supported and mentored adolescents in a structured school and residential environment. * Built positive relationships with students while maintaining professional boundaries. * Monitored student behavior and addressed conflicts and behavioral concerns. * Used redirection, active listening, and positive reinforcement to support students. * Worked with staff and families to address student needs. * Maintained student records and documented concerns and updates. * Helped maintain a safe, structured, and supportive environment. * Mentored and trained Student Life Counselors.",
+          "is_current": false,
+          "duration": {
+            "months": 33,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 10,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 7,
+            "year": 2026
+          },
+          "location": {
+            "city": "Miami",
+            "state": "FL",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "FREELANCE MARKETING AND EVENT CONSULTANT",
+          "company_name": "",
+          "summary": "* Coordinated community programs and events involving diverse groups. * Built strong relationships with clients, community partners, and stakeholders. * Managed multiple priorities and deadlines in fast-paced environments. * Solved problems and adapted quickly to unexpected situations.",
+          "is_current": false,
+          "duration": {
+            "months": 97,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 12,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 1,
+            "year": 2026
+          },
+          "location": {
+            "city": "Miami",
+            "state": "FL",
+            "country_code": "US"
+          }
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "310fb340c6c5",
+      "meta_id": "3e2d5215f99f",
+      "creation_date": "2026-08-27T17:19:57.675Z",
+      "education": [],
+      "email_address": "dlatonya87@gmail.com",
+      "followed_by": [],
+      "headline": "Mental Health Technician @ Mount Sinai Medical Center",
+      "initial": "L",
+      "name": "Latonya Pierce",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "+1 305 747 2655",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "No Spanish"
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "Open"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><b><strong>Please provide information about your most recent employer</strong></b><br><br><b><strong>Company Name:</strong></b><br><b><strong>Official Job Title:</strong></b><br><b><strong>Dates of Employment:</strong></b><br><b><strong>Primary Responsibilities:</strong></b></p>",
+          "_id": "07aec06c63d4",
+          "response": "Mount Sinai Hospital.                            Mental Health Technician / Patient Safety Technician                                   11/2021 - present.                                        Mental Health patients.                                     Patient Safety"
+        },
+        {
+          "text": "What was your reason for leaving your most recent position? Please provide a specific explanation.",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787672826640",
+          "body": "",
+          "response": "Present"
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><b><strong>Please provide information about your second most recent employer</strong></b><br><br><b><strong>Company Name:</strong></b><br><b><strong>Official Job Title:</strong></b><br><b><strong>Dates of Employment:</strong></b><br><b><strong>Primary Responsibilities:</strong></b></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "response": "Private Duty.                                                Home Health Aide.                               06/2019-10/2021.                                    Took care of client, cook , clean , bathe, errands , ADL’s"
+        },
+        {
+          "text": "What was your reason for leaving your second most recent position? Please provide a specific explanation.",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787672858083",
+          "body": "",
+          "response": "Client had passed away"
+        },
+        {
+          "text": "Are you willing to personally connect us with former supervisors and other professional references we select if you advance to the reference-check stage?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "_id": "1787672936697",
+          "body": "",
+          "response": "Yes"
+        },
+        {
+          "text": "What are your short-term and long-term career goals?",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787673014633",
+          "body": "",
+          "response": "My short term goals is finishing school and my long term goals is to be working as a PN."
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "response": "Home Health Aide, Medical Assitant, CPR, CPI , AVADE"
+        },
+        {
+          "text": "Have you worked directly with adults diagnosed with both substance use and mental health disorders? Please briefly describe this experience.",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787674429386",
+          "body": "",
+          "response": "Yes i did.. When i started working with mental health patients i thought it would be hard but after a while it became easy. I understand ppl do have disorders but some ppl just want someone to listen to them and when I realized that my job became easier ."
+        }
+      ],
+      "resume": {
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/34e6df6e1c91/candidate/310fb340c6c5/resume",
+        "file_name": "1787849572643-LatonyaPierce.pdf?key=89af071a-2934-4268-acd2-0b6256e7e62e",
+        "_id": "aeb6af28b6f44d7718111399f771cde7"
+      },
+      "source": {
+        "id": "indeed-sponsored-jobs",
+        "name": "Indeed Sponsored Jobs"
+      },
+      "stage": {
+        "id": 1778073398281,
+        "name": "Phone Screen",
+        "type": {
+          "id": "schedule_phone_screen",
+          "name": "Phone Screen",
+          "icon": "phone"
+        }
+      },
+      "summary": "I worked with mental health patients, phlebotomy , drug screening, glaucoma, EKG’s, Home health aide, cook , bathe, feeding , errands, ADL’s, patient safety technician",
+      "tags": [],
+      "updated_date": "2026-09-03T11:54:30.868Z",
+      "work_history": [
+        {
+          "title": "Mental Health Technician",
+          "company_name": "Mount Sinai Medical Center",
+          "summary": "Assist mental health patients in all areas of care",
+          "is_current": true,
+          "duration": {
+            "months": 33,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 11,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2026
+          },
+          "location": {
+            "city": "Miami Beach",
+            "state": "FL",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Patient Safety Technician",
+          "company_name": "Mount Sinai Medical Center",
+          "summary": "Make sure the patient don't fall, pull IV needles out, bathe, feed, etc just make sure the patient is safe at all times",
+          "is_current": false,
+          "duration": {
+            "months": 23,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 12,
+            "year": 2021
+          },
+          "end_date": {
+            "month": 11,
+            "year": 2023
+          },
+          "location": {
+            "city": "Miami Beach",
+            "state": "FL",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Cafeteria Worker",
+          "company_name": "Broward County School Board",
+          "summary": "* Help serve breakfast and lunch to school age children * Assist with cleaning up the cafeteria * Assist with food preparation",
+          "is_current": false,
+          "duration": {
+            "months": 21,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 11,
+            "year": 2019
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2021
+          },
+          "location": {
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Home Health Aide",
+          "company_name": "Alliance Home Health Care",
+          "summary": "Cook, assist with cleaning and laundry, run errands, bathe patient, and etc",
+          "is_current": false,
+          "duration": {
+            "months": 42,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 2018
+          },
+          "end_date": {
+            "month": 11,
+            "year": 2021
+          },
+          "location": {
+            "city": "Davie",
+            "state": "FL",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Home Health Aide",
+          "company_name": "Private Duty",
+          "summary": "* Helped elderly patient with home health care needs * Prepared meals and cleaned home * Drove patient on errands and doctor visits * Monitored vitals",
+          "is_current": false,
+          "duration": {
+            "months": 84,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 11,
+            "year": 2012
+          },
+          "end_date": {
+            "month": 11,
+            "year": 2019
+          },
+          "location": {
+            "city": "Sunrise",
+            "state": "FL",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Medical Assistant",
+          "company_name": "Urology Associates West",
+          "summary": "* Triage patients to be seen by the doctors * Assist doctors with pap smears and cystograms * Catheterized patients * Performed bladder scans, blood cultures and injections",
+          "is_current": false,
+          "duration": {
+            "months": 52,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 11,
+            "year": 2007
+          },
+          "end_date": {
+            "month": 3,
+            "year": 2012
+          },
+          "location": {
+            "city": "Broward",
+            "state": "FL",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Medical Assistant",
+          "company_name": "Children Diagnostic Treatment Center",
+          "summary": "* Triage patients * Performed Laboratory work * Filed and pulled medical records",
+          "is_current": false,
+          "duration": {
+            "months": 18,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 2006
+          },
+          "end_date": {
+            "month": 11,
+            "year": 2007
+          },
+          "location": {
+            "city": "Davie",
+            "state": "FL",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Medical Assistant",
+          "company_name": "Mt Sinai Hospital",
+          "summary": "* Triage patients for laboratory work * Performed EKG's, glaucoma screenings, pulmonary and hearing tests * DOT drug test",
+          "is_current": false,
+          "duration": {
+            "months": 21,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 8,
+            "year": 2004
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2006
+          },
+          "location": {
+            "city": "Miami Beach",
+            "state": "FL",
+            "country_code": "US"
+          }
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "3e0275545322",
+      "meta_id": "ebed4fc7914a",
+      "creation_date": "2026-08-25T21:39:27.657Z",
+      "education": [
+        {
+          "school_name": "Univ of Houston",
+          "field_of_study": "",
+          "degree": "High school diploma",
+          "start_date": {
+            "year": 2000
+          },
+          "end_date": {
+            "year": 2015
+          }
+        },
+        {
+          "school_name": "Lakewood High School",
+          "field_of_study": "",
+          "degree": "Unknown Degree"
+        }
+      ],
+      "email_address": "houston713htxonedeep@gmail.com",
+      "followed_by": [],
+      "headline": "Behavioral Health Technician BHT @ Evolution Treatment facility",
+      "initial": "J",
+      "name": "Jeremy Kynard",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "+1 754 309 9676",
+      "resume": {
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/34e6df6e1c91/candidate/3e0275545322/resume",
+        "file_name": "1787693964105-JeremyKynard.pdf?key=b0d87cf3-c2c9-4f50-836d-41d3fa692831",
+        "_id": "4d7fd50c5ebe507e93420930ecbe2e23"
+      },
+      "source": {
+        "id": "indeed-sponsored-jobs",
+        "name": "Indeed Sponsored Jobs"
+      },
+      "stage": {
+        "id": 1778073398281,
+        "name": "Phone Screen",
+        "type": {
+          "id": "schedule_phone_screen",
+          "name": "Phone Screen",
+          "icon": "phone"
+        }
+      },
+      "summary": "Dedicated behavioral health with experience overseeing co-occurring addiction and mental health clients at Evolution Treatment Facility. Skilled in shift reporting, client transportation, and collaboration with treatment centers. Additional background in warehouse operations, food service, and customer care, demonstrating adaptability and strong work ethic across diverse environments.",
+      "tags": [],
+      "updated_date": "2026-09-03T11:54:30.626Z",
+      "work_history": [
+        {
+          "title": "Behavioral Health Technician BHT",
+          "company_name": "Evolution Treatment facility",
+          "summary": "* behavioral health technicians by overseeing UA's and breathalyzer tests for co-occurring clients with addiction and mental health needs * Completed detailed shift reports to ensure accurate documentation and continuity of care * Transported clients to and from group sessions, supporting consistent attendance and engagement * Coordinated with other treatment facilities to secure housing for clients, improving placement outcomes * Managed care for medically managed clients, ensuring adherence to treatment protocols",
+          "is_current": true,
+          "duration": {
+            "months": 33,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 11,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2026
+          },
+          "location": {
+            "city": "Lauderdale-by-the-Sea",
+            "state": "FL",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Warehouse associate",
+          "company_name": "Texas corrugated box company",
+          "summary": "* Operated forklift to load and unload trucks, increasing efficiency in daily warehouse operations * Maintained daily inventory of merchandise, ensuring accurate stock levels and minimizing discrepancies * Supported production line operations, contributing to consistent workflow and output * Worked in -10° freezer environments, demonstrating adaptability and reliability in challenging conditions",
+          "is_current": false,
+          "duration": {
+            "months": 140,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2010
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2022
+          },
+          "location": {
+            "city": "Houston",
+            "state": "TX",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Line Cook prep cook oyster bar",
+          "company_name": "Prohibition supper club",
+          "summary": "* Prepared food and managed daily inventory to ensure kitchen readiness and minimize waste * Shucked up to 1,400 lbs of oysters per day, maintaining speed and quality standards * Operated grill and fryer, delivering consistent, high-quality dishes during peak service times * Supported line cooking operations, contributing to efficient meal preparation and service",
+          "is_current": false,
+          "duration": {
+            "months": 131,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2000
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2010
+          },
+          "location": {
+            "city": "Houston",
+            "state": "TX",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Behavioral Health Technician",
+          "company_name": "",
+          "summary": "in youth and young adult patients, providing tailored behavioral health support * Monitored patient activity and promptly reported issues to medical staff, ensuring patient safety * Developed engaging activities and meal routines, enhancing patient satisfaction and stability * Assisted in performing in-room procedures, supporting medical staff and improving patient care",
+          "is_current": false,
+          "duration": {
+            "months": 41,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 1997
+          },
+          "end_date": {
+            "month": 10,
+            "year": 2000
+          },
+          "location": {
+            "city": "Bartow",
+            "state": "FL",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Dog Walker/Pet Sitter/cashier customer service",
+          "company_name": "",
+          "summary": "pets were treated like family by providing walks, grooming, bathing, and playtime * Led beach and woodland walks, enhancing pet enrichment and exercise * Provided meal service and captured photos, delivering personalized care for clients' pets * Delivered customer service and managed cashier duties, supporting smooth business operations Behavioral Health Technician (BHT)",
+          "is_current": false,
+          "duration": {
+            "months": 55,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 1992
+          },
+          "end_date": {
+            "month": 4,
+            "year": 1997
+          },
+          "location": {
+            "city": "Lake Wales",
+            "state": "FL",
+            "country_code": "US"
+          }
+        }
+      ],
+      "bias_status": "applicant"
+    },
+    {
+      "_id": "918b47df0cff",
+      "meta_id": "61fd9f457ac8",
+      "creation_date": "2026-08-31T23:29:11.108Z",
+      "education": [
+        {
+          "start_date": {
+            "month": null,
+            "year": null
+          },
+          "end_date": {
+            "month": null,
+            "year": null
+          },
+          "school_name": "Taravella",
+          "field_of_study": "Diploma"
+        },
+        {
+          "start_date": {
+            "month": null,
+            "year": null
+          },
+          "end_date": {
+            "month": null,
+            "year": null
+          },
+          "school_name": "Atlantic technical college",
+          "field_of_study": "Mental health technician"
+        }
+      ],
+      "email_address": "mickyrjules2001@gmail.com",
+      "followed_by": [],
+      "headline": "Lead teacher @ La petite academy",
+      "initial": "M",
+      "name": "Mickayla Jules",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "9547014719",
+      "questionnaire": [
+        {
+          "text": "Do you speak spanish?",
+          "options": [
+            {
+              "text": "Fully Bilingual",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational ",
+              "enabledActions": []
+            },
+            {
+              "text": "No Spanish",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "questionnaire_id": "929b0c2251f3",
+          "body": "",
+          "response": "Conversational "
+        },
+        {
+          "text": "What is your desired salary for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "questionnaire_id": "929b0c2251f3",
+          "response": "19"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "questionnaire_id": "929b0c2251f3",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Information about your most recent employer",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><b><strong>Please provide information about your most recent employer</strong></b><br><br><b><strong>Company Name:</strong></b><br><b><strong>Official Job Title:</strong></b><br><b><strong>Dates of Employment:</strong></b><br><b><strong>Primary Responsibilities:</strong></b></p>",
+          "_id": "07aec06c63d4",
+          "questionnaire_id": "929b0c2251f3",
+          "response": "La petite academy \nLead teacher \n2021-current"
+        },
+        {
+          "text": "What was your reason for leaving your most recent position? Please provide a specific explanation.",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787672826640",
+          "questionnaire_id": "929b0c2251f3",
+          "body": "",
+          "response": "Reason for leaving would be due to wanting a change in environment."
+        },
+        {
+          "text": "Information about your second most recent employer",
+          "body": "<p><b><strong>Please provide information about your second most recent employer</strong></b><br><br><b><strong>Company Name:</strong></b><br><b><strong>Official Job Title:</strong></b><br><b><strong>Dates of Employment:</strong></b><br><b><strong>Primary Responsibilities:</strong></b></p>",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1778077217381",
+          "questionnaire_id": "929b0c2251f3",
+          "response": "N/a"
+        },
+        {
+          "text": "What was your reason for leaving your second most recent position? Please provide a specific explanation.",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787672858083",
+          "questionnaire_id": "929b0c2251f3",
+          "body": "",
+          "response": "N/a"
+        },
+        {
+          "text": "Are you willing to personally connect us with former supervisors and other professional references we select if you advance to the reference-check stage?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "_id": "1787672936697",
+          "questionnaire_id": "929b0c2251f3",
+          "body": "",
+          "response": "Yes"
+        },
+        {
+          "text": "What are your short-term and long-term career goals?",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787673014633",
+          "questionnaire_id": "929b0c2251f3",
+          "body": "",
+          "response": "Short-Term Goals\nGain experience and to build \n professional skills in the field. \n\nLong-Term Goals\nEarn a professional qualification and pursue further education so that i am able to establish a meaningful career"
+        },
+        {
+          "body": "<p><span style=\"font-size: 13px;\">Include license type, issuing state or board, and expiration date, if applicable.</span></p>",
+          "text": "Please list any current professional licenses or certifications you hold.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "4f808a4ea91b",
+          "questionnaire_id": "929b0c2251f3",
+          "response": "Mental health technician \nRegistered behavioral technician"
+        },
+        {
+          "text": "Have you worked directly with adults diagnosed with both substance use and mental health disorders? Please briefly describe this experience.",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787674429386",
+          "questionnaire_id": "929b0c2251f3",
+          "body": "",
+          "response": "During my clinical practice in school, I gained hands-on experience working directly with adults diagnosed with co-occurring substance use and mental health disorders. I provided support through active listening, communication, observation, and participation in treatment-focused activities while learning about the importance of individualized and compassionate care."
+        }
+      ],
+      "resume": {
+        "file_name": "M.-Jules-Resume-2026.pdf?key=a13d7bbe-6fc4-4917-ab35-1872abd3f321",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/34e6df6e1c91/candidate/918b47df0cff/resume",
+        "error": false,
+        "_id": "fd79911f0fe12ca334bea8f46d0b3bb7"
+      },
+      "source": {
+        "id": "linkedin",
+        "name": "LinkedIn",
+        "type": "free"
+      },
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      },
+      "summary": "Experience Passionate and compassionately trained Mental and Behavioral Health Technician, with experience. I am committed to advancing the mental and behavioral health field through efficient monitoring and a collaborative approach to individual patient and child care.",
+      "tags": [],
+      "updated_date": "2026-09-03T11:54:30.509Z",
+      "work_history": [
+        {
+          "start_date": {
+            "month": null,
+            "year": null
+          },
+          "end_date": {
+            "month": null,
+            "year": null
+          },
+          "company_name": "La petite academy",
+          "title": "Lead teacher"
+        }
+      ],
+      "bias_status": "applicant"
+    }
+  ],
+  "pulled_at": "2026-09-03"
+}
