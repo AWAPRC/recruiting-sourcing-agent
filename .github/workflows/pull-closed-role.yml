@@ -1,0 +1,45 @@
+name: Pull Closed Role from Breezy
+
+# Manually triggered. Pulls specific closed/archived positions by ID + all
+# candidates from Breezy, writes them to data/, and commits back to the repo.
+# Used for historical positions (e.g. "Wellness Coordinator") that no longer
+# appear in a plain listPositions() name search since they are state=closed.
+
+on:
+  workflow_dispatch:
+    inputs:
+      position_ids:
+        description: 'Space-separated Breezy position IDs to pull'
+        required: true
+        default: '92878de8dc81 261fb59293da'
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with: { node-version: '24' }
+
+      - name: Pull closed position(s) + candidates from Breezy
+        env:
+          BREEZY_EMAIL:    ${{ secrets.BREEZY_EMAIL }}
+          BREEZY_PASSWORD: ${{ secrets.BREEZY_PASSWORD }}
+        run: |
+          set -e
+          node scripts/get_role_by_id.js ${{ github.event.inputs.position_ids }}
+
+      - name: Commit pulled data back
+        run: |
+          git config user.name  "recruiting-agent-bot"
+          git config user.email "recruiting-agent-bot@users.noreply.github.com"
+          git add data/ || true
+          git commit -m "Pull closed role data $(TZ=America/New_York date +'%F %H:%M ET')" || echo "no changes"
+          git push || echo "nothing to push"
+
