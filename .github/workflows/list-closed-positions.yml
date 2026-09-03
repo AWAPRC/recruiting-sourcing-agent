@@ -1,0 +1,40 @@
+name: List all positions incl closed/archived (discovery)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: List all positions across state filters
+        env:
+          BREEZY_EMAIL: ${{ secrets.BREEZY_EMAIL }}
+          BREEZY_PASSWORD: ${{ secrets.BREEZY_PASSWORD }}
+        run: |
+          node -e "
+          const { BreezyClient } = require('./scripts/breezy_client');
+          (async () => {
+            const client = new BreezyClient(process.env.BREEZY_EMAIL, process.env.BREEZY_PASSWORD);
+            const seen = {};
+            const base = await client.listPositions();
+            base.forEach(p => seen[p._id] = p);
+            const states = ['closed','archived','filled','on_hold','draft','internal','cancelled','all','inactive'];
+            for (const s of states) {
+              try {
+                const ps = await client.listPositions(s);
+                console.log('state=' + s + ' count=' + ps.length);
+                ps.forEach(p => { if (!seen[p._id]) { seen[p._id] = p; console.log('  NEW: ' + p.name + ' | id=' + p._id + ' | state=' + p.state); } });
+              } catch (e) {
+                console.log('state=' + s + ' FAILED: ' + e.message);
+              }
+            }
+            console.log('\\nAll unique positions found:');
+            Object.values(seen).forEach(p => console.log(p.name + ' | id=' + p._id + ' | state=' + p.state));
+          })();
+          "
+
