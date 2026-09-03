@@ -1,0 +1,37 @@
+name: Pull Breezy Inbox (candidate replies needing a response)
+
+# Manually triggered. Scans every open position's candidates for inbound
+# messages from the last N days where the candidate's message is the most
+# recent one in the thread (i.e. we owe them a reply), and commits the
+# result to data/ so Claude/Devanne can draft replies together.
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: 'How many days back to look for unanswered candidate messages'
+        required: true
+        default: '5'
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Pull inbox
+        env:
+          BREEZY_EMAIL: ${{ secrets.BREEZY_EMAIL }}
+          BREEZY_PASSWORD: ${{ secrets.BREEZY_PASSWORD }}
+        run: node scripts/pull_inbox.js "${{ github.event.inputs.days }}"
+      - name: Commit pulled data
+        run: |
+          git config user.name "recruiting-agent-bot"
+          git config user.email "recruiting-agent-bot@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Pull Breezy inbox $(date -u +%Y-%m-%d)"
+          git push

@@ -1,0 +1,31 @@
+name: Send Breezy Inbox Replies
+
+# Manually triggered after Devanne approves drafted replies with Claude.
+# Reads data/approved_replies.json and posts each reply to the candidate's
+# conversation thread in Breezy, then logs the result and clears the queue.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Send approved replies
+        env:
+          BREEZY_EMAIL: ${{ secrets.BREEZY_EMAIL }}
+          BREEZY_PASSWORD: ${{ secrets.BREEZY_PASSWORD }}
+        run: node scripts/send_replies.js
+      - name: Commit sent log
+        run: |
+          git config user.name "recruiting-agent-bot"
+          git config user.email "recruiting-agent-bot@users.noreply.github.com"
+          git add data/sent_replies.json data/approved_replies.json
+          git diff --staged --quiet || git commit -m "Log sent Breezy inbox replies $(date -u +%Y-%m-%d)"
+          git push
