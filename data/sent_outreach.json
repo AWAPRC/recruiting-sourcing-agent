@@ -14,6 +14,27 @@
       "target_stage_id": null,
       "sent_date": "2026-09-02T16:25:26.371Z",
       "last_checked": "2026-09-03T13:07:38.681Z"
+    },
+    {
+      "candidate_id": "77923262fa15",
+      "candidate_name": "Junie Lorfils",
+      "position_id": "92878de8dc81",
+      "target_stage_id": null,
+      "sent_date": "2026-09-03T22:20:02.091Z"
+    },
+    {
+      "candidate_id": "60bc454e1036",
+      "candidate_name": "Samantha Reilly",
+      "position_id": "261fb59293da",
+      "target_stage_id": null,
+      "sent_date": "2026-09-03T22:20:02.211Z"
+    },
+    {
+      "candidate_id": "d4253e7be389",
+      "candidate_name": "Grueicy Soares Santos",
+      "position_id": "92878de8dc81",
+      "target_stage_id": null,
+      "sent_date": "2026-09-03T22:20:02.343Z"
     }
   ]
 }
