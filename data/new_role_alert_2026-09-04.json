@@ -1,0 +1,704 @@
+{
+  "new_roles": [
+    {
+      "_id": "abb8db6e7dfb",
+      "type": {
+        "id": "fullTime",
+        "name": "Full-Time"
+      },
+      "state": "published",
+      "name": "Clinic Director – Adolescent Mental Health",
+      "friendly_id": "abb8db6e7dfb-clinic-director-adolescent-mental-health",
+      "experience": {
+        "id": "senior-level",
+        "name": "Senior"
+      },
+      "location": {
+        "country": {
+          "name": "United States",
+          "id": "US"
+        },
+        "state": {
+          "id": "NC",
+          "name": "North Carolina"
+        },
+        "city": "Charlotte",
+        "primary": true,
+        "is_remote": false,
+        "name": "Charlotte, NC",
+        "id": "691a752ad6f1"
+      },
+      "education": null,
+      "department": "Adolescent Wellness Academy - NC",
+      "requisition_id": "AWA-NC-CD-09032026",
+      "description": "<h1><strong>Clinic Director – Adolescent Mental Health</strong></h1>\n<p>On Site | North Carolina | Full-Time W-2 Beginning January 2027 | Competitive Compensation |&nbsp;Pre-Launch Fractional or Contract Opportunity</p>\n<h2><strong>About the Role</strong></h2>\n<p>Adolescent Wellness Academy is expanding into North Carolina. We are looking for an experienced Clinic Director to lead the launch and ongoing success of our first facility in the state.</p>\n<p>You will oversee the clinic’s performance across four pillars: clinical excellence, client experience, employee experience, and business health. This role is ideal for a strong clinical leader who can build an exceptional team, create a values-driven culture, and deliver meaningful results for adolescents and families.</p>\n<p><em>Backgrounds that translate well: Adolescent Mental Health Leadership · PHP/IOP · Behavioral Health Operations · Clinical Program Development · Residential Treatment</em></p>\n<h2><strong>What You’ll Lead</strong></h2>\n<ul><li>Launch and ongoing performance of AWA’s first North Carolina facility</li><li>Clinical quality, client outcomes, team experience, and financial health</li><li>Recruitment, development, and performance management of the clinical and operational teams</li><li>Admissions, treatment planning, clinical progress, crisis response, and discharge coordination</li><li>Documentation quality, regulatory compliance, accreditation readiness, and risk management</li><li>Strong partnerships with families, providers, and community referral sources</li><li>Continuous improvement of programming, systems, and clinic performance</li></ul>\n<h2><strong>How We Lead</strong></h2>\n<p>We believe great leadership is people-first, clear, and accountable. Our leaders practice radical candor, provide consistent feedback, address performance directly, and create an environment where people feel supported and challenged to grow.</p>\n<p>Our values guide how we work: <strong>Dare to Grow. Contribute to the Whole. Choose Kindness. Spread Optimism. Deliver Results.</strong></p>\n<h2><strong>What We’re Looking For</strong></h2>\n<ul><li>Independently licensed behavioral health professional in North Carolina, such as an LCMHC, LCSW, LMFT, or equivalent</li><li>Master’s degree in a related clinical field</li><li>5+ years of behavioral health experience</li><li>2+ years of clinical or operational leadership experience</li><li>Experience leading multidisciplinary teams and managing performance</li><li>Strong knowledge of clinical quality, compliance, and behavioral health operations</li><li>Adolescent PHP/IOP experience strongly preferred</li><li>Program launch or expansion experience preferred</li><li>Qualified Supervisor status preferred</li><li>Ability to travel occasionally to Florida for company-sponsored training</li></ul>\n<p>The full-time W-2 position is expected to begin in <strong>January 2027</strong>. Fractional or contract work may be available beforehand to support launch planning, program development, recruitment, and training.</p>\n<p><em>AWA provides specialized PHP and IOP mental health services for adolescents and families. We are building thoughtful, high-performing programs where exceptional care and exceptional workplace culture go hand in hand.</em></p>\n<p><strong>Learn More:</strong> <a data-faitracker-click-bind=\"true\" href=\"https://adolescentwellnessacademy.com/\">Adolescent Wellness Academy</a></p>",
+      "category": null,
+      "application_form": {
+        "name": "required",
+        "headline": "optional",
+        "summary": "optional",
+        "profile_photo": "optional",
+        "address": "required",
+        "salary": "hidden",
+        "email_address": "required",
+        "phone_number": "required",
+        "resume": "required",
+        "work_history": "optional",
+        "education": "required",
+        "cover_letter": "optional",
+        "preferred_location": "hidden",
+        "questionnaire_in_experience": true
+      },
+      "creator_id": "c33b51bf818d",
+      "creation_date": "2026-09-03T13:32:10.798Z",
+      "updated_date": "2026-09-03T13:35:50.367Z",
+      "questionnaire_id": "f362c75cc342",
+      "all_users": [
+        "c33b51bf818d",
+        "99b44f51e79a",
+        "d5bb399cee44",
+        "753eaf4be4d2"
+      ],
+      "all_admins": [
+        "c33b51bf818d",
+        "99b44f51e79a",
+        "d5bb399cee44",
+        "753eaf4be4d2"
+      ],
+      "pipeline_id": "a4f0182dbb0d",
+      "candidate_type": "all",
+      "tags": [],
+      "org_type": "position",
+      "bias_enabled": false,
+      "salary": {
+        "from": null,
+        "to": null,
+        "period": "Yearly",
+        "currency": "USD"
+      }
+    }
+  ],
+  "talent_pool": [
+    {
+      "_id": "066fa8a486aa",
+      "meta_id": "2ef4f80940fc",
+      "creation_date": "2026-08-14T13:58:19.545Z",
+      "education": [
+        {
+          "school_name": "Florida Atlantic University",
+          "field_of_study": "Psychology and Criminal Justice",
+          "degree": "Bachelor of Arts in Psychology and Criminal Justice"
+        }
+      ],
+      "email_address": "modelinelubin@outlook.com",
+      "followed_by": [],
+      "headline": "Registered Behavior Technician @ ",
+      "initial": "M",
+      "name": "Modeline Lubin",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "7544224932",
+      "resume": {
+        "file_name": "ABA-Resume.pdf?key=2d2314e1-ba2f-4c15-87e0-27c7f9e903f0",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/2ffecbf54808/candidate/066fa8a486aa/resume",
+        "error": false,
+        "_id": "297ee2952ebf3171b5471a33d57955c5"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": 1788361573586,
+        "name": "AWA",
+        "type": {
+          "id": "other",
+          "name": "Other",
+          "icon": "list-ul"
+        }
+      },
+      "summary": "Detail-oriented and highly organized professional with direct experience in the Applied Behavior Analysis (ABA) ecosystem and a strong background in administrative operations. Proven ability to verify compliance, manage confidential data systems, and deliver exceptional professional communication. Seeking to leverage hands-on familiarity with clinical roles and data tracking to efficiently manage provider credentialing and paneling compliance at Butterfly Effects.",
+      "tags": [],
+      "updated_date": "2026-09-03T21:52:44.029Z",
+      "work_history": [
+        {
+          "title": "Registered Behavior Technician",
+          "company_name": "",
+          "summary": "* Maintained strict compliance with behavioral intervention plans (BIPs) and clinical regulatory standards for insurance documentation. * Collected, audited, and recorded accurate behavioral data daily using Artemis data collection software. * Adapted seamlessly to high-expectation, fast-paced compliance environments while ensuring error-free client tracking.",
+          "is_current": false,
+          "duration": {
+            "months": 0,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 2025
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2025
+          },
+          "location": {
+            "city": "Deerfield Beach",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2025-05-01",
+          "date_end": "2025-05-01"
+        },
+        {
+          "title": "Front Desk Assistant",
+          "company_name": "FAU Housing Department",
+          "summary": "Responsible for verifying sensitive student information, cross-referencing databases, and maintaining building access logs. * Audited and controlled physical and digital keys/credentials to maintain strict security protocols. * Managed critical incident documentation, drafting precise and objective Incident Reports for upper-level administrative review.",
+          "is_current": false,
+          "duration": {
+            "months": 7,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 1,
+            "year": 2024
+          },
+          "location": {
+            "city": "Boca Raton",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2023-06-01",
+          "date_end": "2024-01-01"
+        },
+        {
+          "title": "Call Center Agent",
+          "company_name": "FAU Housing Department",
+          "summary": "* Managed high volumes of inquiries, providing detailed admissions, documentation, and procedural criteria to applicants. * Audited and verified applicant inquiries, accurately routing files and information to specific university departments. * Maintained high standards of clear, professional phone communication and data integrity.",
+          "is_current": false,
+          "duration": {
+            "months": 9,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 8,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2023
+          },
+          "location": {
+            "city": "Boca Raton",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2022-08-01",
+          "date_end": "2023-05-01"
+        }
+      ],
+      "bias_status": "applicant",
+      "_eligible_for_outreach": true,
+      "_exclusion_reason": null
+    },
+    {
+      "_id": "dc874d5cb68d",
+      "meta_id": "77a61785a63d",
+      "creation_date": "2026-08-18T23:14:50.895Z",
+      "education": [
+        {
+          "school_name": "Walden University",
+          "field_of_study": "MS Clinical Mental Health Counseling",
+          "degree": "Master of Science in Clinical Mental Health Counseling",
+          "start_date": {
+            "year": null
+          },
+          "end_date": {
+            "year": 2026
+          }
+        },
+        {
+          "school_name": "Florida Atlantic University",
+          "field_of_study": "BS General Studies",
+          "degree": "Bachelor of General Studies",
+          "start_date": {
+            "year": null
+          },
+          "end_date": {
+            "year": 2020
+          }
+        }
+      ],
+      "email_address": "pietrzakj1001@gmail.com",
+      "followed_by": [],
+      "headline": "Student Intern Therapist @ Inside Out Therapy Center",
+      "initial": "J",
+      "name": "Jessica Pietrzak",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "9546466616",
+      "resume": {
+        "file_name": "JP..pdf?key=dd9fbb6a-0c58-4350-9b3d-6bf05445e869",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/2ffecbf54808/candidate/dc874d5cb68d/resume",
+        "error": false,
+        "_id": "bbbadb8a28a35eb431bc331dc5534a75"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": "applied",
+        "name": "Applied",
+        "type": {
+          "id": "applied",
+          "name": "Applied",
+          "icon": "user"
+        }
+      },
+      "summary": "Compassionate and dedicated Mental Health Counseling Professional with a Master of Science in Clinical Mental Health Counseling. Extensive training in individual counseling, group facilitation, treatment planning, case conceptualization, and clinical documentation. Experienced in working with diverse client populations across the lifespan in both individual and group counseling settings. Committed to ethical practice, cultural competence, and evidence-based interventions. Seeking a position as a Masters Level Therapist or Registered Mental Health Counselor Intern where I can continue developing my clinical expertise while providing highquality mental health services.",
+      "tags": [],
+      "updated_date": "2026-09-03T21:52:43.906Z",
+      "work_history": [
+        {
+          "title": "Student Intern Therapist",
+          "company_name": "Inside Out Therapy Center",
+          "summary": "* Provided individual counseling services to children, adolescents, and adults under the supervision of a Licensed Mental Health Counselor. * Completed over 250 direct client counseling hours as part of graduate practicum and internship training. * Worked with clients experiencing anxiety, depression, suicidal ideation, relationship concerns, life transitions, and other mental health challenges. * Conducted intake assessments and gathered clinical information to assist with diagnosis, treatment planning, and case conceptualization. * Developed and implemented individualized treatment plans based on client needs and counseling goals. * Maintained timely and accurate clinical documentation, including progress notes and treatment plan updates, in accordance with ethical and legal standards. * Co-facilitated group counseling sessions and psychoeducational groups. * Participated in weekly individual supervision and faculty-led group supervision to strengthen clinical skills and ensure quality client care. * Applied evidence-based counseling interventions while demonstrating cultural competence, ethical decision-making, and professional counselor identity development.",
+          "is_current": false,
+          "duration": {
+            "months": 9,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 11,
+            "year": 2025
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2026
+          },
+          "date_start": "2025-11-01",
+          "date_end": "2026-08-01"
+        },
+        {
+          "title": "Volunteer",
+          "company_name": "Lauren Orozco LMHC",
+          "summary": "* Assisted in organizing substance abuse recovery and support groups. * Supported group facilitation activities that encouraged client engagement and peer support. * Promoted a safe and supportive environment for individuals in recovery. * Encouraged healthy coping strategies, confidence building, and self-esteem development. * Observed and learned group counseling dynamics and therapeutic communication techniques.",
+          "is_current": false,
+          "duration": {
+            "months": 3,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 4,
+            "year": 2022
+          },
+          "location": {
+            "city": "Davie",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2022-01-01",
+          "date_end": "2022-04-01"
+        }
+      ],
+      "bias_status": "applicant",
+      "_eligible_for_outreach": true,
+      "_exclusion_reason": null
+    },
+    {
+      "_id": "05fe220a7690",
+      "meta_id": "a8f551a44a36",
+      "creation_date": "2026-08-24T20:37:17.799Z",
+      "education": [
+        {
+          "school_name": "Galen College of Nursing",
+          "field_of_study": "Nursing",
+          "degree": "Associate Degree in Nursing",
+          "start_date": {
+            "year": 2023
+          },
+          "end_date": {
+            "year": 2025
+          }
+        },
+        {
+          "school_name": "Sheridan Technical College",
+          "field_of_study": "",
+          "degree": "Certificate",
+          "start_date": {
+            "year": 2021
+          },
+          "end_date": {
+            "year": 2022
+          }
+        }
+      ],
+      "email_address": "charalycia@gmail.com",
+      "followed_by": [],
+      "headline": "Licensed Practical Nurse @ Recovery Unplugged Mental Health and Derox",
+      "initial": "C",
+      "name": "Charnee Henry",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "3475677756",
+      "resume": {
+        "file_name": "Charnee-Henry-Resume-2026-RU.pdf?key=4a0c7f89-0669-40cd-9deb-9e5f385d6011",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/2ffecbf54808/candidate/05fe220a7690/resume",
+        "error": false,
+        "_id": "8d6be5fd5e65351c4a7ca4268b7d5766"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": 1788361552114,
+        "name": "PRC",
+        "type": {
+          "id": "other",
+          "name": "Other",
+          "icon": "list-ul"
+        }
+      },
+      "summary": "Dedicated and compassionate Licensed Practical Nurse with progressive experience across correctional health and outpatient behavioral health settings. Skilled in IV therapy, medication administration, phlebotomy, and patient monitoring. Proven ability to deliver precise, patient-centered care within high-acuity and fast-paced environments. Adept at collaborating with multidisciplinary teams and committed to maintaining the highest standards of clinical practice and documentation. LICENSURE & CERTIFICATIONS * Licensed Practical Nurse - State of Florida, License #5257350 * IV Therapy Certified * Basic Life Support (BLS) - American Heart Association",
+      "tags": [],
+      "updated_date": "2026-09-03T21:52:43.801Z",
+      "work_history": [
+        {
+          "title": "Licensed Practical Nurse",
+          "company_name": "Recovery Unplugged Mental Health and Derox",
+          "summary": "* Administer prescribed medications and IV-based treatments, including ketamine therapy, in a specialized outpatient setting. * Monitor and document patients' vital signs throughout treatment sessions, escalating changes to the RN or attending physician. * Maintain accurate, compliant medical records and treatment documentation in accordance with facility regulations. * Collaborate closely with physicians, RNs, and support staff to implement and adjust individualized care plans. * Provide compassionate patient education and emotional support throughout the treatment process.",
+          "is_current": false,
+          "duration": {
+            "months": 8,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2025
+          },
+          "end_date": {
+            "month": 2,
+            "year": 2026
+          },
+          "location": {
+            "city": "Sunrise",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2025-06-01",
+          "date_end": "2026-02-01"
+        },
+        {
+          "title": "Licensed Practical Nurse",
+          "company_name": "KC Wellness",
+          "summary": "Provides skilled home health nursing care including patient assessments, medication administration, wound care, vital sign monitoring, patient education, care coordination, and accurate EMR documentation while collaborating with physicians and the interdisciplinary team.",
+          "is_current": true,
+          "duration": {
+            "months": 15,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 2025
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2026
+          },
+          "location": {
+            "city": "Oakland Park",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2025-05-01",
+          "date_end": "2026-08-01"
+        },
+        {
+          "title": "Licensed Practical Nurse",
+          "company_name": "Centurion Health",
+          "summary": "* Deliver comprehensive nursing care within scope of practice under RN and physician supervision in a high-security correctional environment. * Administer vaccines, IV fluids, injections, and oral medications perform phlebotomy, wound care, EKGs, and peak flow testing. * Assist RN during weekly new-inmate intake assessments, including vital signs, health history review, and medication reconciliation. * Support therapeutic interventions for chronic medical conditions and acute psychiatric needs. * Collaborate with interdisciplinary healthcare team for comprehensive patient management, reporting, and continuity of care.",
+          "is_current": false,
+          "duration": {
+            "months": 26,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 11,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 1,
+            "year": 2026
+          },
+          "location": {
+            "city": "Doral",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2023-11-01",
+          "date_end": "2026-01-01"
+        },
+        {
+          "title": "Health Unit Coordinator",
+          "company_name": "Memorial Healthcare System",
+          "summary": "* Managed patient flow and coordinated medical record documentation across a busy inpatient unit. * Provided critical administrative support to physicians and nursing staff, ensuring efficient unit operations. * Served as a key communication liaison between clinical staff, patients, and ancillary departments.",
+          "is_current": false,
+          "duration": {
+            "months": 58,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 2018
+          },
+          "end_date": {
+            "month": 3,
+            "year": 2023
+          },
+          "date_start": "2018-05-01",
+          "date_end": "2023-03-01"
+        }
+      ],
+      "bias_status": "applicant",
+      "_eligible_for_outreach": true,
+      "_exclusion_reason": null
+    },
+    {
+      "_id": "9e26e23c6abc",
+      "meta_id": "d2cf4de15eb0",
+      "creation_date": "2026-08-26T02:02:49.145Z",
+      "education": [
+        {
+          "school_name": "Florida Atlantic University",
+          "field_of_study": "Social Work",
+          "degree": "Master of Social Work",
+          "start_date": {
+            "year": 2022
+          },
+          "end_date": {
+            "year": 2024
+          }
+        },
+        {
+          "school_name": "Touro College",
+          "field_of_study": "Psychology",
+          "degree": "Bachelor of Arts in Psychology",
+          "start_date": {
+            "year": 2017
+          },
+          "end_date": {
+            "year": 2021
+          }
+        },
+        {
+          "school_name": "Machon Alte Seminary",
+          "field_of_study": "Talmudic Theory",
+          "degree": "Unknown Degree",
+          "start_date": {
+            "year": 2015
+          },
+          "end_date": {
+            "year": 2016
+          }
+        }
+      ],
+      "email_address": "tamargerber97@gmail.com",
+      "followed_by": [],
+      "headline": "Family Support Specialist @ JAFCO",
+      "initial": "T",
+      "name": "Tamar Gerber",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "9547783488",
+      "resume": {
+        "file_name": "Tamar-Gerber-Resume.pdf?key=71f15695-e5a1-4433-828b-8afee17cd5ae",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/2ffecbf54808/candidate/9e26e23c6abc/resume",
+        "error": false,
+        "_id": "36f9402e6096061b3afcd74586ed7bb4"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": 1788361573586,
+        "name": "AWA",
+        "type": {
+          "id": "other",
+          "name": "Other",
+          "icon": "list-ul"
+        }
+      },
+      "tags": [],
+      "updated_date": "2026-09-03T21:52:43.690Z",
+      "work_history": [
+        {
+          "title": "Family Support Specialist",
+          "company_name": "JAFCO",
+          "summary": "Implemented trauma-informed care strategies for children with disabilities residing in the emergency shelter Guided parents through complex systems to access necessary resources and services Managed clinical case files and provided support to parents of children with special needs Facilitated supportive counseling sessions for parents and children, fostering emotional wellbeing and family resilience",
+          "is_current": false,
+          "duration": {
+            "months": 17,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 11,
+            "year": 2024
+          },
+          "location": {
+            "city": "Sunrise",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2023-06-01",
+          "date_end": "2024-11-01"
+        },
+        {
+          "title": "Social Work Intern",
+          "company_name": "JAFCO",
+          "summary": "Conducted individual sessions and facilitated groups for children in the emergency shelter Observed and participated in case conceptualizations and social work meetings",
+          "is_current": false,
+          "duration": {
+            "months": 7,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 4,
+            "year": 2023
+          },
+          "location": {
+            "city": "Sunrise",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2022-09-01",
+          "date_end": "2023-04-01"
+        },
+        {
+          "title": "Medical Legal Screening Assessor",
+          "company_name": "",
+          "summary": "(Remote) Conducts pre-screening interviews with motor vehicle accident victims Obtains pertinent medical, psychiatric, and social history of each client Interviews family members and friends of the client to obtain collateral information Writes reports for psychiatrist, determining clients' eligibility for catastrophic impairment or long-term disability",
+          "is_current": true,
+          "duration": {
+            "months": 106,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 7,
+            "year": 2026
+          },
+          "location": {
+            "city": "Toronto",
+            "state": "ON",
+            "country_code": "CA"
+          },
+          "date_start": "2017-09-01",
+          "date_end": "2026-07-01"
+        },
+        {
+          "title": "Medical Legal Intern",
+          "company_name": "",
+          "summary": "File clerk and medical records technician at a psychiatric medical-legal office Observed psychiatric medical/legal assessments with motor vehicle accident victims",
+          "is_current": false,
+          "duration": {
+            "months": 2,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2017
+          },
+          "location": {
+            "city": "Toronto",
+            "state": "ON",
+            "country_code": "CA"
+          },
+          "date_start": "2017-06-01",
+          "date_end": "2017-08-01"
+        },
+        {
+          "title": "Assistant Director and Program Administrator",
+          "company_name": "Friendship Circle",
+          "summary": "Coordinated weekly events for children and young adults with special needs Trained volunteers on FC protocols and paired them with children with special needs",
+          "is_current": false,
+          "duration": {
+            "months": 9,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2016
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2017
+          },
+          "location": {
+            "city": "Parkland",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2016-09-01",
+          "date_end": "2017-06-01"
+        }
+      ],
+      "bias_status": "applicant",
+      "_eligible_for_outreach": true,
+      "_exclusion_reason": null
+    }
+  ]
+}
