@@ -1,0 +1,36 @@
+﻿name: Debug - Dump raw inbox stream data
+
+# Diagnostic only. Pulls raw, unfiltered stream entries for candidates with
+# recent activity so we can see Breezy's actual field names and fix the
+# candidate-message detection logic in pull_inbox.js.
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: 'How many days back to look for recent stream activity'
+        required: true
+        default: '14'
+
+permissions:
+  contents: write
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Dump raw inbox data
+        env:
+          BREEZY_EMAIL: ${{ secrets.BREEZY_EMAIL }}
+          BREEZY_PASSWORD: ${{ secrets.BREEZY_PASSWORD }}
+        run: node scripts/debug_inbox_raw.js "${{ github.event.inputs.days }}"
+      - name: Commit debug data
+        run: |
+          git config user.name "recruiting-agent-bot"
+          git config user.email "recruiting-agent-bot@users.noreply.github.com"
+          git add data/inbox_raw_debug.json
+          git diff --staged --quiet || git commit -m "Debug: dump raw inbox stream data $(date -u +%Y-%m-%d)"
+          git push
