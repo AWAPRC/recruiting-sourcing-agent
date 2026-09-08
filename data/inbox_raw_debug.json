@@ -1,0 +1,1740 @@
+{
+  "pulled_at": "2026-09-08T15:02:14.755Z",
+  "days": 14,
+  "candidates_scanned": 469,
+  "candidates_with_recent_activity": 179,
+  "samples": [
+    {
+      "position_name": "2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "a84944878ac9",
+          "type": "companyNotePosted",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "body": "**🤖 AI Candidate Review** (auto-generated, not a team member)\n\n**General fit impressions:** Currently pursuing an MS in Clinical Mental Health Counseling at Walden University, with a healthcare background as a Medical Assistant (EMR documentation, patient care, HIPAA compliance) across two employers. Specifically states interest in child/adolescent and family counseling. Requesting an in-person practicum, evenings preferred, 10-15 hours/week, starting March 2027. **Questions to ask:** Her program's Office of Field Experience contact is provided, which is a good sign for coordination; confirm the evening-only availability works with the internship program's typical scheduling.",
+            "attachments": [],
+            "acting_user": {
+              "_id": "c33b51bf818d",
+              "email_address": "devanne.bourcier@awellnessacademy.com",
+              "name": "Devanne Bourcier",
+              "username": "devannebourcier",
+              "initial": "D"
+            },
+            "position_id": "48ededd9c66e",
+            "mentioned_ids": []
+          },
+          "timestamp": "2026-09-08T14:22:49.997Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "69f05b145b74",
+          "type": "companyNotePosted",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "body": "**🤖 AI Candidate Review** (auto-generated, not a team member)\n\n**General fit impressions:** Counseling Psychology graduate with real, relevant counseling-practicum experience (person-centered and CBT approaches, psycho-education, mental-health outreach) at a hospital and university setting abroad. Currently finalizing her licensure board registration in Kenya as a Counseling Psychologist. Requesting a telehealth-only placement at 35 hours/week starting September 2026 through March 2027. **Questions to ask:** Confirm supervision requirements on her end (her program contact field was left blank), and clarify whether a fully telehealth placement fits the internship program's supervision and hands-on requirements, since the program structure generally expects in-person practicum hours.",
+            "attachments": [],
+            "acting_user": {
+              "_id": "c33b51bf818d",
+              "email_address": "devanne.bourcier@awellnessacademy.com",
+              "name": "Devanne Bourcier",
+              "username": "devannebourcier",
+              "initial": "D"
+            },
+            "position_id": "48ededd9c66e",
+            "mentioned_ids": []
+          },
+          "timestamp": "2026-09-08T14:22:49.845Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "b5dede5cf30c",
+          "type": "candidateStatusUpdated",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "position_id": "48ededd9c66e",
+            "stage_was": {
+              "id": "applied",
+              "name": "Applied",
+              "icon": "user",
+              "action_count": 2,
+              "query_id": "bf8fd87ed719",
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778254927091,
+                    "message_template_id": "f867308faf68",
+                    "template": {
+                      "_id": "f867308faf68",
+                      "name": "INTERNS APPLY"
+                    },
+                    "message_delay": {
+                      "text": "No Delay",
+                      "delay": 0,
+                      "value": "0",
+                      "label": "No Delay"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": true,
+                    "template_sender_name": "Adolescent Wellness Academy",
+                    "template_force_no_reply": false,
+                    "delivery_method": "email"
+                  }
+                ],
+                "questionnaires": [
+                  {
+                    "_id": "bfc00cc87c5c",
+                    "questionnaire_id": "bfc00cc87c5c",
+                    "questionnaire": {
+                      "_id": "bfc00cc87c5c",
+                      "name": "Student Pre-Screening Questionnaire"
+                    },
+                    "questionnaire_delay": {
+                      "text": "No Delay",
+                      "delay": 0,
+                      "value": "0",
+                      "label": "No Delay"
+                    }
+                  }
+                ],
+                "message_template_id": "f867308faf68",
+                "questionnaire_id": "bfc00cc87c5c"
+              },
+              "visible_to": []
+            },
+            "entered_previous_stage": "2026-09-01T03:14:50.158Z",
+            "stage": {
+              "id": 1778256261862,
+              "name": "KENDALL",
+              "icon": "phone",
+              "action_count": 3,
+              "query_id": "schedule_phone_screen_1778256261862",
+              "type": {
+                "id": "schedule_phone_screen",
+                "name": "Phone Screen",
+                "icon": "phone"
+              },
+              "actions": {},
+              "visible_to": []
+            },
+            "entered_stage": "2026-09-01T03:14:51.158Z",
+            "status_was": "applied",
+            "status": 1778256261862,
+            "is_automated": true,
+            "acting_user": {
+              "_id": "nimblebot",
+              "name": "Hiring Team",
+              "initial": "B"
+            },
+            "mentioned_ids": []
+          },
+          "delay": 0,
+          "timestamp": "2026-09-01T03:14:51.162Z",
+          "first_of_day": false
+        },
+        {
+          "_id": "ce80546e63fc",
+          "type": "candidateAdded",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "position_id": "48ededd9c66e",
+            "acting_user": {
+              "_id": "nimblebot",
+              "name": "Breezy Bot",
+              "initial": "B"
+            },
+            "mentioned_ids": []
+          },
+          "timestamp": "2026-09-01T03:14:50.832Z",
+          "first_activity": true,
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "7b0a92750b84",
+          "type": "candidateStatusUpdated",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "position_id": "48ededd9c66e",
+            "stage_was": {
+              "id": 1778256253965,
+              "name": "DAVIE",
+              "icon": "phone",
+              "action_count": 3,
+              "query_id": "schedule_phone_screen_1778256253965",
+              "type": {
+                "id": "schedule_phone_screen",
+                "name": "Phone Screen",
+                "icon": "phone"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778257377170,
+                    "message_template_id": "ef33f58db2c9",
+                    "template": {
+                      "_id": "ef33f58db2c9",
+                      "name": "15-min Phone Screening W Rubi"
+                    },
+                    "message_delay": {
+                      "text": "1 hour",
+                      "delay": 3600000,
+                      "value": "3600000",
+                      "label": "1 hour"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "sms"
+                  }
+                ],
+                "campaign_id": "14e7484fde82",
+                "move_after_meeting_scheduled": {
+                  "move_to_stage": {
+                    "id": 1778261694555,
+                    "name": "Leadership Approval",
+                    "icon": "user",
+                    "action_count": 0
+                  }
+                },
+                "message_delay": 0,
+                "questionnaire_delay": 0,
+                "target_stage_actions_enabled": true,
+                "message_template_id": "ef33f58db2c9"
+              },
+              "visible_to": []
+            },
+            "entered_previous_stage": "2026-08-06T10:59:58.737Z",
+            "stage": {
+              "id": "disqualified",
+              "name": "Not This Time",
+              "icon": "user-alt-slash",
+              "action_count": 1,
+              "query_id": "2b173964e826",
+              "type": {
+                "id": "disqualified",
+                "name": "Disqualified"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778258040194,
+                    "message_template_id": "9ea4c4d15024",
+                    "template": {
+                      "_id": "9ea4c4d15024",
+                      "name": "Disqualified INTERNS"
+                    },
+                    "message_delay": {
+                      "text": "4 hours",
+                      "delay": 14400000,
+                      "value": "14400000",
+                      "label": "4 hours"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "email"
+                  }
+                ],
+                "message_template_id": "9ea4c4d15024"
+              },
+              "visible_to": []
+            },
+            "entered_stage": "2026-08-31T15:35:18.864Z",
+            "status_was": 1778256253965,
+            "status": "disqualified",
+            "is_automated": false,
+            "acting_user": {
+              "_id": "b6f28ad65131",
+              "email_address": "rubi.nasser@awellnessacademy.com",
+              "name": "Rubi Nasser",
+              "username": "rubinasser",
+              "initial": "R"
+            },
+            "mentioned_ids": []
+          },
+          "delay": 2000,
+          "timestamp": "2026-08-31T15:35:18.868Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "9d98895fe269",
+          "type": "candidateStatusUpdated",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "position_id": "48ededd9c66e",
+            "stage_was": {
+              "id": 1778256261862,
+              "name": "KENDALL",
+              "icon": "phone",
+              "action_count": 3,
+              "query_id": "schedule_phone_screen_1778256261862",
+              "type": {
+                "id": "schedule_phone_screen",
+                "name": "Phone Screen",
+                "icon": "phone"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778257410065,
+                    "message_template_id": "ef33f58db2c9",
+                    "template": {
+                      "_id": "ef33f58db2c9",
+                      "name": "15-min Phone Screening W Rubi"
+                    },
+                    "message_delay": {
+                      "text": "1 hour",
+                      "delay": 3600000,
+                      "value": "3600000",
+                      "label": "1 hour"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "sms"
+                  }
+                ],
+                "campaign_id": "14e7484fde82",
+                "move_after_meeting_scheduled": {
+                  "move_to_stage": {
+                    "id": 1778261694555,
+                    "name": "Leadership Approval",
+                    "icon": "user",
+                    "action_count": 0
+                  }
+                },
+                "message_delay": 0,
+                "questionnaire_delay": 0,
+                "target_stage_actions_enabled": true,
+                "message_template_id": "ef33f58db2c9"
+              },
+              "visible_to": []
+            },
+            "entered_previous_stage": "2026-07-21T15:25:03.287Z",
+            "stage": {
+              "id": "disqualified",
+              "name": "Not This Time",
+              "icon": "user-alt-slash",
+              "action_count": 1,
+              "query_id": "2b173964e826",
+              "type": {
+                "id": "disqualified",
+                "name": "Disqualified"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778258040194,
+                    "message_template_id": "9ea4c4d15024",
+                    "template": {
+                      "_id": "9ea4c4d15024",
+                      "name": "Disqualified INTERNS"
+                    },
+                    "message_delay": {
+                      "text": "4 hours",
+                      "delay": 14400000,
+                      "value": "14400000",
+                      "label": "4 hours"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "email"
+                  }
+                ],
+                "message_template_id": "9ea4c4d15024"
+              },
+              "visible_to": []
+            },
+            "entered_stage": "2026-08-31T15:35:58.700Z",
+            "status_was": 1778256261862,
+            "status": "disqualified",
+            "is_automated": false,
+            "acting_user": {
+              "_id": "b6f28ad65131",
+              "email_address": "rubi.nasser@awellnessacademy.com",
+              "name": "Rubi Nasser",
+              "username": "rubinasser",
+              "initial": "R"
+            },
+            "mentioned_ids": []
+          },
+          "delay": 2000,
+          "timestamp": "2026-08-31T15:35:58.704Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "a1a850c9ab04",
+          "type": "candidateStatusUpdated",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "position_id": "48ededd9c66e",
+            "stage_was": {
+              "id": 1778256261862,
+              "name": "KENDALL",
+              "icon": "phone",
+              "action_count": 3,
+              "query_id": "schedule_phone_screen_1778256261862",
+              "type": {
+                "id": "schedule_phone_screen",
+                "name": "Phone Screen",
+                "icon": "phone"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778257410065,
+                    "message_template_id": "ef33f58db2c9",
+                    "template": {
+                      "_id": "ef33f58db2c9",
+                      "name": "15-min Phone Screening W Rubi"
+                    },
+                    "message_delay": {
+                      "text": "1 hour",
+                      "delay": 3600000,
+                      "value": "3600000",
+                      "label": "1 hour"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "sms"
+                  }
+                ],
+                "campaign_id": "14e7484fde82",
+                "move_after_meeting_scheduled": {
+                  "move_to_stage": {
+                    "id": 1778261694555,
+                    "name": "Leadership Approval",
+                    "icon": "user",
+                    "action_count": 0
+                  }
+                },
+                "message_delay": 0,
+                "questionnaire_delay": 0,
+                "target_stage_actions_enabled": true,
+                "message_template_id": "ef33f58db2c9"
+              },
+              "visible_to": []
+            },
+            "entered_previous_stage": "2026-07-26T23:53:05.919Z",
+            "stage": {
+              "id": "disqualified",
+              "name": "Not This Time",
+              "icon": "user-alt-slash",
+              "action_count": 1,
+              "query_id": "2b173964e826",
+              "type": {
+                "id": "disqualified",
+                "name": "Disqualified"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778258040194,
+                    "message_template_id": "9ea4c4d15024",
+                    "template": {
+                      "_id": "9ea4c4d15024",
+                      "name": "Disqualified INTERNS"
+                    },
+                    "message_delay": {
+                      "text": "4 hours",
+                      "delay": 14400000,
+                      "value": "14400000",
+                      "label": "4 hours"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "email"
+                  }
+                ],
+                "message_template_id": "9ea4c4d15024"
+              },
+              "visible_to": []
+            },
+            "entered_stage": "2026-08-31T15:35:58.706Z",
+            "status_was": 1778256261862,
+            "status": "disqualified",
+            "is_automated": false,
+            "acting_user": {
+              "_id": "b6f28ad65131",
+              "email_address": "rubi.nasser@awellnessacademy.com",
+              "name": "Rubi Nasser",
+              "username": "rubinasser",
+              "initial": "R"
+            },
+            "mentioned_ids": []
+          },
+          "delay": 0,
+          "timestamp": "2026-08-31T15:35:58.711Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "a9ee39f08e9e",
+          "type": "candidateStatusUpdated",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "position_id": "48ededd9c66e",
+            "stage_was": {
+              "id": 1778256246410,
+              "name": "BOCA",
+              "icon": "phone",
+              "action_count": 3,
+              "query_id": "schedule_phone_screen_1778256246410",
+              "type": {
+                "id": "schedule_phone_screen",
+                "name": "Phone Screen",
+                "icon": "phone"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778257306290,
+                    "message_template_id": "ef33f58db2c9",
+                    "template": {
+                      "_id": "ef33f58db2c9",
+                      "name": "15-min Phone Screening W Rubi"
+                    },
+                    "message_delay": {
+                      "text": "1 hour",
+                      "delay": 3600000,
+                      "value": "3600000",
+                      "label": "1 hour"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "sms"
+                  }
+                ],
+                "campaign_id": "14e7484fde82",
+                "move_after_meeting_scheduled": {
+                  "move_to_stage": {
+                    "id": 1778261694555,
+                    "name": "Leadership Approval",
+                    "icon": "user",
+                    "action_count": 0
+                  }
+                },
+                "message_delay": 0,
+                "questionnaire_delay": 0,
+                "target_stage_actions_enabled": true,
+                "message_template_id": "ef33f58db2c9"
+              },
+              "visible_to": []
+            },
+            "entered_previous_stage": "2026-08-24T18:49:16.717Z",
+            "stage": {
+              "id": "disqualified",
+              "name": "Not This Time",
+              "icon": "user-alt-slash",
+              "action_count": 1,
+              "query_id": "2b173964e826",
+              "type": {
+                "id": "disqualified",
+                "name": "Disqualified"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778258040194,
+                    "message_template_id": "9ea4c4d15024",
+                    "template": {
+                      "_id": "9ea4c4d15024",
+                      "name": "Disqualified INTERNS"
+                    },
+                    "message_delay": {
+                      "text": "4 hours",
+                      "delay": 14400000,
+                      "value": "14400000",
+                      "label": "4 hours"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "email"
+                  }
+                ],
+                "message_template_id": "9ea4c4d15024"
+              },
+              "visible_to": []
+            },
+            "entered_stage": "2026-08-31T15:35:25.946Z",
+            "status_was": 1778256246410,
+            "status": "disqualified",
+            "is_automated": false,
+            "acting_user": {
+              "_id": "b6f28ad65131",
+              "email_address": "rubi.nasser@awellnessacademy.com",
+              "name": "Rubi Nasser",
+              "username": "rubinasser",
+              "initial": "R"
+            },
+            "mentioned_ids": []
+          },
+          "delay": 0,
+          "timestamp": "2026-08-31T15:35:25.949Z",
+          "first_of_day": true
+        },
+        {
+          "_id": "5609ba74108d",
+          "type": "candidateInterviewCancel",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "acting_user": {
+              "_id": "b6f28ad65131",
+              "email_address": "rubi.nasser@awellnessacademy.com",
+              "name": "Rubi Nasser",
+              "username": "rubinasser",
+              "initial": "R"
+            },
+            "position_id": "48ededd9c66e",
+            "interview": {
+              "_id": "c9e017d3d18d",
+              "duration": 15,
+              "interview_guide": null,
+              "start_time": "2026-08-25T18:15:00.000Z",
+              "end_time": "2026-08-25T18:30:00.000Z",
+              "tz_offset": null,
+              "tz_code": null,
+              "location": null,
+              "title": "Meeting with Victoria Villanueva for 2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+              "description": "You will receive a brief 15-minute phone screening call. If we are unable to connect, we apologize and will reach back out as soon as possible.",
+              "record_video": false,
+              "organizer": {
+                "_id": "b6f28ad65131",
+                "email_address": "rubi.nasser@awellnessacademy.com",
+                "name": "Rubi Nasser",
+                "username": "rubinasser",
+                "initial": "R"
+              },
+              "attendees": [
+                {
+                  "_id": "b6f28ad65131",
+                  "email_address": "rubi.nasser@awellnessacademy.com",
+                  "name": "Rubi Nasser",
+                  "username": "rubinasser",
+                  "initial": "R"
+                },
+                {
+                  "_id": "e89d532973e5",
+                  "email_address": "vvillanueva2424@gmail.com",
+                  "name": "Victoria Villanueva",
+                  "initial": "V"
+                }
+              ],
+              "datetimes": null
+            },
+            "organizer": {
+              "_id": "b6f28ad65131",
+              "name": "Rubi Nasser",
+              "username": "rubinasser",
+              "email_address": "rubi.nasser@awellnessacademy.com",
+              "type": null,
+              "profile_photo_url": null,
+              "initial": "R",
+              "hex_color": "color4",
+              "tz_offset": 240,
+              "google_mail": null,
+              "outlook_mail": false,
+              "outlook_mail_graph": true
+            },
+            "mentioned_ids": []
+          },
+          "timestamp": "2026-08-25T18:14:53.159Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "e5e52b8f01e5",
+          "type": "candidateStatusUpdated",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "position_id": "48ededd9c66e",
+            "stage_was": {
+              "id": 1778256253965,
+              "name": "DAVIE",
+              "icon": "phone",
+              "action_count": 3,
+              "query_id": "schedule_phone_screen_1778256253965",
+              "type": {
+                "id": "schedule_phone_screen",
+                "name": "Phone Screen",
+                "icon": "phone"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778257377170,
+                    "message_template_id": "ef33f58db2c9",
+                    "template": {
+                      "_id": "ef33f58db2c9",
+                      "name": "15-min Phone Screening W Rubi"
+                    },
+                    "message_delay": {
+                      "text": "1 hour",
+                      "delay": 3600000,
+                      "value": "3600000",
+                      "label": "1 hour"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "sms"
+                  }
+                ],
+                "campaign_id": "14e7484fde82",
+                "move_after_meeting_scheduled": {
+                  "move_to_stage": {
+                    "id": 1778261694555,
+                    "name": "Leadership Approval",
+                    "icon": "user",
+                    "action_count": 0
+                  }
+                },
+                "message_delay": 0,
+                "questionnaire_delay": 0,
+                "target_stage_actions_enabled": true,
+                "message_template_id": "ef33f58db2c9"
+              },
+              "visible_to": []
+            },
+            "entered_previous_stage": "2026-05-27T14:58:12.409Z",
+            "stage": {
+              "id": "disqualified",
+              "name": "Not This Time",
+              "icon": "user-alt-slash",
+              "action_count": 1,
+              "query_id": "2b173964e826",
+              "type": {
+                "id": "disqualified",
+                "name": "Disqualified"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778258040194,
+                    "message_template_id": "9ea4c4d15024",
+                    "template": {
+                      "_id": "9ea4c4d15024",
+                      "name": "Disqualified INTERNS"
+                    },
+                    "message_delay": {
+                      "text": "4 hours",
+                      "delay": 14400000,
+                      "value": "14400000",
+                      "label": "4 hours"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "email"
+                  }
+                ],
+                "message_template_id": "9ea4c4d15024"
+              },
+              "visible_to": []
+            },
+            "entered_stage": "2026-08-31T15:35:18.932Z",
+            "status_was": 1778256253965,
+            "status": "disqualified",
+            "is_automated": false,
+            "acting_user": {
+              "_id": "b6f28ad65131",
+              "email_address": "rubi.nasser@awellnessacademy.com",
+              "name": "Rubi Nasser",
+              "username": "rubinasser",
+              "initial": "R"
+            },
+            "mentioned_ids": []
+          },
+          "delay": 8000,
+          "timestamp": "2026-08-31T15:35:18.939Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "d7e1ff102c1f",
+          "type": "candidateStatusUpdated",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "position_id": "48ededd9c66e",
+            "stage_was": {
+              "id": 1778256253965,
+              "name": "DAVIE",
+              "icon": "phone",
+              "action_count": 3,
+              "query_id": "schedule_phone_screen_1778256253965",
+              "type": {
+                "id": "schedule_phone_screen",
+                "name": "Phone Screen",
+                "icon": "phone"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778257377170,
+                    "message_template_id": "ef33f58db2c9",
+                    "template": {
+                      "_id": "ef33f58db2c9",
+                      "name": "15-min Phone Screening W Rubi"
+                    },
+                    "message_delay": {
+                      "text": "1 hour",
+                      "delay": 3600000,
+                      "value": "3600000",
+                      "label": "1 hour"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "sms"
+                  }
+                ],
+                "campaign_id": "14e7484fde82",
+                "move_after_meeting_scheduled": {
+                  "move_to_stage": {
+                    "id": 1778261694555,
+                    "name": "Leadership Approval",
+                    "icon": "user",
+                    "action_count": 0
+                  }
+                },
+                "message_delay": 0,
+                "questionnaire_delay": 0,
+                "target_stage_actions_enabled": true,
+                "message_template_id": "ef33f58db2c9"
+              },
+              "visible_to": []
+            },
+            "entered_previous_stage": "2026-05-18T19:35:26.548Z",
+            "stage": {
+              "id": "disqualified",
+              "name": "Not This Time",
+              "icon": "user-alt-slash",
+              "action_count": 1,
+              "query_id": "2b173964e826",
+              "type": {
+                "id": "disqualified",
+                "name": "Disqualified"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778258040194,
+                    "message_template_id": "9ea4c4d15024",
+                    "template": {
+                      "_id": "9ea4c4d15024",
+                      "name": "Disqualified INTERNS"
+                    },
+                    "message_delay": {
+                      "text": "4 hours",
+                      "delay": 14400000,
+                      "value": "14400000",
+                      "label": "4 hours"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "email"
+                  }
+                ],
+                "message_template_id": "9ea4c4d15024"
+              },
+              "visible_to": []
+            },
+            "entered_stage": "2026-08-31T15:35:18.931Z",
+            "status_was": 1778256253965,
+            "status": "disqualified",
+            "is_automated": false,
+            "acting_user": {
+              "_id": "b6f28ad65131",
+              "email_address": "rubi.nasser@awellnessacademy.com",
+              "name": "Rubi Nasser",
+              "username": "rubinasser",
+              "initial": "R"
+            },
+            "mentioned_ids": []
+          },
+          "delay": 10000,
+          "timestamp": "2026-08-31T15:35:18.936Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "9a220dfb8796",
+          "type": "candidateStatusUpdated",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "position_id": "48ededd9c66e",
+            "stage_was": {
+              "id": 1778256253965,
+              "name": "DAVIE",
+              "icon": "phone",
+              "action_count": 3,
+              "query_id": "schedule_phone_screen_1778256253965",
+              "type": {
+                "id": "schedule_phone_screen",
+                "name": "Phone Screen",
+                "icon": "phone"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778257377170,
+                    "message_template_id": "ef33f58db2c9",
+                    "template": {
+                      "_id": "ef33f58db2c9",
+                      "name": "15-min Phone Screening W Rubi"
+                    },
+                    "message_delay": {
+                      "text": "1 hour",
+                      "delay": 3600000,
+                      "value": "3600000",
+                      "label": "1 hour"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "sms"
+                  }
+                ],
+                "campaign_id": "14e7484fde82",
+                "move_after_meeting_scheduled": {
+                  "move_to_stage": {
+                    "id": 1778261694555,
+                    "name": "Leadership Approval",
+                    "icon": "user",
+                    "action_count": 0
+                  }
+                },
+                "message_delay": 0,
+                "questionnaire_delay": 0,
+                "target_stage_actions_enabled": true,
+                "message_template_id": "ef33f58db2c9"
+              },
+              "visible_to": []
+            },
+            "entered_previous_stage": "2026-07-28T19:39:20.031Z",
+            "stage": {
+              "id": "disqualified",
+              "name": "Not This Time",
+              "icon": "user-alt-slash",
+              "action_count": 1,
+              "query_id": "2b173964e826",
+              "type": {
+                "id": "disqualified",
+                "name": "Disqualified"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778258040194,
+                    "message_template_id": "9ea4c4d15024",
+                    "template": {
+                      "_id": "9ea4c4d15024",
+                      "name": "Disqualified INTERNS"
+                    },
+                    "message_delay": {
+                      "text": "4 hours",
+                      "delay": 14400000,
+                      "value": "14400000",
+                      "label": "4 hours"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "email"
+                  }
+                ],
+                "message_template_id": "9ea4c4d15024"
+              },
+              "visible_to": []
+            },
+            "entered_stage": "2026-08-31T15:35:18.925Z",
+            "status_was": 1778256253965,
+            "status": "disqualified",
+            "is_automated": false,
+            "acting_user": {
+              "_id": "b6f28ad65131",
+              "email_address": "rubi.nasser@awellnessacademy.com",
+              "name": "Rubi Nasser",
+              "username": "rubinasser",
+              "initial": "R"
+            },
+            "mentioned_ids": []
+          },
+          "delay": 6000,
+          "timestamp": "2026-08-31T15:35:18.930Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "64b386bc9754",
+          "type": "candidateStatusUpdated",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "position_id": "48ededd9c66e",
+            "stage_was": {
+              "id": 1778256253965,
+              "name": "DAVIE",
+              "icon": "phone",
+              "action_count": 3,
+              "query_id": "schedule_phone_screen_1778256253965",
+              "type": {
+                "id": "schedule_phone_screen",
+                "name": "Phone Screen",
+                "icon": "phone"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778257377170,
+                    "message_template_id": "ef33f58db2c9",
+                    "template": {
+                      "_id": "ef33f58db2c9",
+                      "name": "15-min Phone Screening W Rubi"
+                    },
+                    "message_delay": {
+                      "text": "1 hour",
+                      "delay": 3600000,
+                      "value": "3600000",
+                      "label": "1 hour"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "sms"
+                  }
+                ],
+                "campaign_id": "14e7484fde82",
+                "move_after_meeting_scheduled": {
+                  "move_to_stage": {
+                    "id": 1778261694555,
+                    "name": "Leadership Approval",
+                    "icon": "user",
+                    "action_count": 0
+                  }
+                },
+                "message_delay": 0,
+                "questionnaire_delay": 0,
+                "target_stage_actions_enabled": true,
+                "message_template_id": "ef33f58db2c9"
+              },
+              "visible_to": []
+            },
+            "entered_previous_stage": "2026-08-05T15:12:37.170Z",
+            "stage": {
+              "id": "disqualified",
+              "name": "Not This Time",
+              "icon": "user-alt-slash",
+              "action_count": 1,
+              "query_id": "2b173964e826",
+              "type": {
+                "id": "disqualified",
+                "name": "Disqualified"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778258040194,
+                    "message_template_id": "9ea4c4d15024",
+                    "template": {
+                      "_id": "9ea4c4d15024",
+                      "name": "Disqualified INTERNS"
+                    },
+                    "message_delay": {
+                      "text": "4 hours",
+                      "delay": 14400000,
+                      "value": "14400000",
+                      "label": "4 hours"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "email"
+                  }
+                ],
+                "message_template_id": "9ea4c4d15024"
+              },
+              "visible_to": []
+            },
+            "entered_stage": "2026-08-31T15:35:18.851Z",
+            "status_was": 1778256253965,
+            "status": "disqualified",
+            "is_automated": false,
+            "acting_user": {
+              "_id": "b6f28ad65131",
+              "email_address": "rubi.nasser@awellnessacademy.com",
+              "name": "Rubi Nasser",
+              "username": "rubinasser",
+              "initial": "R"
+            },
+            "mentioned_ids": []
+          },
+          "delay": 4000,
+          "timestamp": "2026-08-31T15:35:18.863Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "7b20662c3616",
+          "type": "candidateStatusUpdated",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "position_id": "48ededd9c66e",
+            "stage_was": {
+              "id": 1778256253965,
+              "name": "DAVIE",
+              "icon": "phone",
+              "action_count": 3,
+              "query_id": "schedule_phone_screen_1778256253965",
+              "type": {
+                "id": "schedule_phone_screen",
+                "name": "Phone Screen",
+                "icon": "phone"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778257377170,
+                    "message_template_id": "ef33f58db2c9",
+                    "template": {
+                      "_id": "ef33f58db2c9",
+                      "name": "15-min Phone Screening W Rubi"
+                    },
+                    "message_delay": {
+                      "text": "1 hour",
+                      "delay": 3600000,
+                      "value": "3600000",
+                      "label": "1 hour"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "sms"
+                  }
+                ],
+                "campaign_id": "14e7484fde82",
+                "move_after_meeting_scheduled": {
+                  "move_to_stage": {
+                    "id": 1778261694555,
+                    "name": "Leadership Approval",
+                    "icon": "user",
+                    "action_count": 0
+                  }
+                },
+                "message_delay": 0,
+                "questionnaire_delay": 0,
+                "target_stage_actions_enabled": true,
+                "message_template_id": "ef33f58db2c9"
+              },
+              "visible_to": []
+            },
+            "entered_previous_stage": "2026-08-21T19:47:00.546Z",
+            "stage": {
+              "id": "disqualified",
+              "name": "Not This Time",
+              "icon": "user-alt-slash",
+              "action_count": 1,
+              "query_id": "2b173964e826",
+              "type": {
+                "id": "disqualified",
+                "name": "Disqualified"
+              },
+              "actions": {
+                "templates": [
+                  {
+                    "_id": 1778258040194,
+                    "message_template_id": "9ea4c4d15024",
+                    "template": {
+                      "_id": "9ea4c4d15024",
+                      "name": "Disqualified INTERNS"
+                    },
+                    "message_delay": {
+                      "text": "4 hours",
+                      "delay": 14400000,
+                      "value": "14400000",
+                      "label": "4 hours"
+                    },
+                    "should_avoid_nights_and_weekends": false,
+                    "template_force_sender_name": false,
+                    "template_force_no_reply": false,
+                    "delivery_method": "email"
+                  }
+                ],
+                "message_template_id": "9ea4c4d15024"
+              },
+              "visible_to": []
+            },
+            "entered_stage": "2026-08-31T15:35:18.850Z",
+            "status_was": 1778256253965,
+            "status": "disqualified",
+            "is_automated": false,
+            "acting_user": {
+              "_id": "b6f28ad65131",
+              "email_address": "rubi.nasser@awellnessacademy.com",
+              "name": "Rubi Nasser",
+              "username": "rubinasser",
+              "initial": "R"
+            },
+            "mentioned_ids": []
+          },
+          "delay": 0,
+          "timestamp": "2026-08-31T15:35:18.862Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 PRC Internship & Practicum: Work with Adults in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "976074b4fe2e",
+          "type": "companyNotePosted",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "body": "**🤖 AI Candidate Review** (auto-generated, not a team member)\n\n**General fit impressions:** Pursuing a Doctorate in Marriage and Family Therapy at National University (4.0 GPA) after a long VA/military healthcare career, including direct work with veterans and families navigating stress, crisis, and transitions. Requesting a hybrid practicum, 10 hours/week, starting mid-September 2026 for a 3-month term at the Kendall location. **Questions to ask:** His program's field-placement contact (Dr. Emily Schmittel) is provided, which is a good sign for coordination; confirm his availability (weekday afternoons/weekends) fits the program's supervision schedule, and note he expresses interest in working with both adults and adolescents.",
+            "attachments": [],
+            "acting_user": {
+              "_id": "c33b51bf818d",
+              "email_address": "devanne.bourcier@awellnessacademy.com",
+              "name": "Devanne Bourcier",
+              "username": "devannebourcier",
+              "initial": "D"
+            },
+            "position_id": "c919b4f87e89",
+            "mentioned_ids": []
+          },
+          "timestamp": "2026-09-08T14:22:50.383Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 PRC Internship & Practicum: Work with Adults in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "1775c3013340",
+          "type": "companyNotePosted",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "body": "**🤖 AI Candidate Review** (auto-generated, not a team member)\n\n**Flag, not a real review:** This application looks like placeholder or test data rather than a genuine candidate - the bio is a generic \"computer science/software development\" blurb unrelated to counseling, the program-coordinator contact is literally \"John Doe / johndoe@email.com,\" and the requested placement dates (Nov 2023 - Dec 2024) are already in the past. Recommend confirming with your Breezy admin whether this is a test submission before spending any review time on it.",
+            "attachments": [],
+            "acting_user": {
+              "_id": "c33b51bf818d",
+              "email_address": "devanne.bourcier@awellnessacademy.com",
+              "name": "Devanne Bourcier",
+              "username": "devannebourcier",
+              "initial": "D"
+            },
+            "position_id": "c919b4f87e89",
+            "mentioned_ids": []
+          },
+          "timestamp": "2026-09-08T14:22:50.253Z",
+          "first_of_day": true
+        }
+      ]
+    },
+    {
+      "position_name": "2026 PRC Internship & Practicum: Work with Adults in a PHP/IOP Setting",
+      "candidate_name": "undefined undefined",
+      "recent_raw_entries": [
+        {
+          "_id": "3a541961df29",
+          "type": "companyNotePosted",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "body": "**🤖 AI Candidate Review** (auto-generated, not a team member)\n\n**General fit impressions:** Pursuing an M.A. in Clinical Mental Health Counseling (CACREP-accredited) at Liberty University, working toward LMHC licensure. Background is substitute teaching and chiropractic-assistant work - relevant soft skills (patience, rapport-building, working with people in discomfort) but no direct clinical or adolescent-specific experience yet. Requesting an in-person practicum, flexible schedule, 8 hours/week, January-May 2027, interested in the Boca location. **Questions to ask:** Her program's practicum office contact is provided, which is a good sign for coordination; confirm interest level in adult PHP/IOP specifically since her stated goals mention both adult and adolescent populations.",
+            "attachments": [],
+            "acting_user": {
+              "_id": "c33b51bf818d",
+              "email_address": "devanne.bourcier@awellnessacademy.com",
+              "name": "Devanne Bourcier",
+              "username": "devannebourcier",
+              "initial": "D"
+            },
+            "position_id": "c919b4f87e89",
+            "mentioned_ids": []
+          },
+          "timestamp": "2026-09-08T14:22:50.124Z",
+          "first_of_day": true
+        },
+        {
+          "_id": "e3474ed1b1c3",
+          "type": "questionnaireToCandidatePosted",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "_id": "bd503eafd3b2",
+            "name": "Student Pre-Screening Questionnaire",
+            "acting_user": {
+              "_id": "c33b51bf818d",
+              "email_address": "devanne.bourcier@awellnessacademy.com",
+              "name": "Devanne Bourcier",
+              "username": "devannebourcier",
+              "initial": "D"
+            },
+            "creation_date": "2026-09-04T15:13:21.864Z",
+            "updated_date": "2026-09-04T15:13:21.864Z",
+            "folder_id": "128f047582f1",
+            "version": 2,
+            "sections": [
+              {
+                "_id": 1725046607688,
+                "questions": [
+                  {
+                    "text": "University/College Name:",
+                    "body": "",
+                    "type": {
+                      "id": "text",
+                      "name": "Text"
+                    },
+                    "required": true,
+                    "_id": "cbccf2ecfb07"
+                  },
+                  {
+                    "text": "Degree Program",
+                    "body": "",
+                    "type": {
+                      "id": "text",
+                      "name": "Text"
+                    },
+                    "required": true,
+                    "_id": "49a8294c4133"
+                  },
+                  {
+                    "text": "What specific licensure are you currently pursuing?",
+                    "type": {
+                      "id": "text",
+                      "name": "Text"
+                    },
+                    "required": true,
+                    "_id": "c3ed529b3987"
+                  },
+                  {
+                    "text": "Program or Field Placement Coordinator Contact (Name, Number, & Email):",
+                    "type": {
+                      "id": "paragraph",
+                      "name": "Paragraph"
+                    },
+                    "required": true,
+                    "_id": "19ffb247dc31"
+                  },
+                  {
+                    "text": "Is this placement for a:",
+                    "options": [
+                      {
+                        "text": "Practicum"
+                      },
+                      {
+                        "text": "Internship"
+                      },
+                      {
+                        "text": "Both (combined practicum/internship)"
+                      }
+                    ],
+                    "type": {
+                      "id": "multiplechoice",
+                      "name": "Multiple Choice"
+                    },
+                    "required": true,
+                    "_id": "b2e000dd46cc"
+                  },
+                  {
+                    "text": "Estimated Start Date:",
+                    "type": {
+                      "id": "date",
+                      "name": "Date"
+                    },
+                    "required": true,
+                    "_id": "7a505faee543"
+                  },
+                  {
+                    "text": "Estimated End Date:",
+                    "type": {
+                      "id": "date",
+                      "name": "Date"
+                    },
+                    "required": true,
+                    "_id": "293d4df2591a"
+                  },
+                  {
+                    "text": "Total Hours Required:",
+                    "type": {
+                      "id": "text",
+                      "name": "Text"
+                    },
+                    "required": true,
+                    "_id": "da1e71fdd7b0"
+                  },
+                  {
+                    "text": "Estimated Weekly Hours:",
+                    "type": {
+                      "id": "text",
+                      "name": "Text"
+                    },
+                    "required": true,
+                    "_id": "bd3a1b964e18"
+                  },
+                  {
+                    "text": "Availability / Preferred Scheduling (Days & Times):",
+                    "type": {
+                      "id": "paragraph",
+                      "name": "Paragraph"
+                    },
+                    "required": true,
+                    "_id": "6f7708b783a7",
+                    "body": ""
+                  },
+                  {
+                    "text": "Does your program have any specific supervision requirements?",
+                    "options": [
+                      {
+                        "text": "Weekly individual supervision"
+                      },
+                      {
+                        "text": "Weekly group supervision"
+                      },
+                      {
+                        "text": "Specific licensure of supervisor required"
+                      },
+                      {
+                        "text": "Other"
+                      }
+                    ],
+                    "type": {
+                      "id": "checkboxes",
+                      "name": "Checkboxes"
+                    },
+                    "required": true,
+                    "_id": "fe2b1cb5a89d"
+                  },
+                  {
+                    "text": "Preferred modality:",
+                    "options": [
+                      {
+                        "text": "In-person"
+                      },
+                      {
+                        "text": "Telehealth"
+                      },
+                      {
+                        "text": "Hybrid (mix of in-person and virtual)"
+                      },
+                      {
+                        "text": "No preference"
+                      }
+                    ],
+                    "type": {
+                      "id": "multiplechoice",
+                      "name": "Multiple Choice"
+                    },
+                    "required": true,
+                    "_id": "0bc7117a0fa7"
+                  },
+                  {
+                    "text": "Please include a short bio introducing yourself.",
+                    "body": "<p>This may include academic background, professional goals, and what led you to this field.</p>",
+                    "type": {
+                      "id": "paragraph",
+                      "name": "Paragraph"
+                    },
+                    "required": true,
+                    "_id": "039b5577d587"
+                  },
+                  {
+                    "text": "What are your goals for this practicum/internship?",
+                    "required": true,
+                    "type": {
+                      "id": "paragraph",
+                      "name": "Paragraph"
+                    },
+                    "_id": "c9e393b24c83"
+                  },
+                  {
+                    "text": "What do you hope to learn and gain from this experience?",
+                    "required": true,
+                    "type": {
+                      "id": "paragraph",
+                      "name": "Paragraph"
+                    },
+                    "_id": "0e4a29b489b4"
+                  },
+                  {
+                    "text": "Please select which location(s) are you interested in.",
+                    "type": {
+                      "id": "multiplechoice",
+                      "name": "Multiple Choice"
+                    },
+                    "required": true,
+                    "options": [
+                      {
+                        "text": "Adolescent Wellness Academy, Davie",
+                        "actions": {
+                          "move_to": {
+                            "9969b2bb179c": {
+                              "id": 1778256253965,
+                              "name": "DAVIE",
+                              "icon": "phone",
+                              "action_count": 3,
+                              "query_id": "schedule_phone_screen_1778256253965",
+                              "type": {
+                                "id": "schedule_phone_screen",
+                                "name": "Phone Screen",
+                                "icon": "phone"
+                              },
+                              "actions": {
+                                "templates": [
+                                  {
+                                    "_id": 1778257377170,
+                                    "message_template_id": "ef33f58db2c9",
+                                    "template": {
+                                      "_id": "ef33f58db2c9",
+                                      "name": "15-min Phone Screening W Rubi"
+                                    },
+                                    "message_delay": {
+                                      "text": "1 hour",
+                                      "delay": 3600000,
+                                      "value": "3600000",
+                                      "label": "1 hour"
+                                    },
+                                    "should_avoid_nights_and_weekends": false,
+                                    "template_force_sender_name": false,
+                                    "template_force_no_reply": false,
+                                    "delivery_method": "sms"
+                                  }
+                                ],
+                                "campaign_id": "14e7484fde82",
+                                "move_after_meeting_scheduled": {
+                                  "move_to_stage": {
+                                    "id": 1778261694555,
+                                    "name": "Leadership Approval",
+                                    "icon": "user",
+                                    "action_count": 0
+                                  }
+                                },
+                                "message_delay": 0,
+                                "questionnaire_delay": 0,
+                                "target_stage_actions_enabled": true,
+                                "message_template_id": "ef33f58db2c9"
+                              },
+                              "visible_to": []
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "text": "Adolescent Wellness Academy, Kendall",
+                        "actions": {
+                          "move_to": {
+                            "9969b2bb179c": {
+                              "id": 1778256261862,
+                              "name": "KENDALL",
+                              "icon": "phone",
+                              "action_count": 3,
+                              "query_id": "schedule_phone_screen_1778256261862",
+                              "type": {
+                                "id": "schedule_phone_screen",
+                                "name": "Phone Screen",
+                                "icon": "phone"
+                              },
+                              "actions": {
+                                "templates": [
+                                  {
+                                    "_id": 1778257410065,
+                                    "message_template_id": "ef33f58db2c9",
+                                    "template": {
+                                      "_id": "ef33f58db2c9",
+                                      "name": "15-min Phone Screening W Rubi"
+                                    },
+                                    "message_delay": {
+                                      "text": "1 hour",
+                                      "delay": 3600000,
+                                      "value": "3600000",
+                                      "label": "1 hour"
+                                    },
+                                    "should_avoid_nights_and_weekends": false,
+                                    "template_force_sender_name": false,
+                                    "template_force_no_reply": false,
+                                    "delivery_method": "sms"
+                                  }
+                                ],
+                                "campaign_id": "14e7484fde82",
+                                "move_after_meeting_scheduled": {
+                                  "move_to_stage": {
+                                    "id": 1778261694555,
+                                    "name": "Leadership Approval",
+                                    "icon": "user",
+                                    "action_count": 0
+                                  }
+                                },
+                                "message_delay": 0,
+                                "questionnaire_delay": 0,
+                                "target_stage_actions_enabled": true,
+                                "message_template_id": "ef33f58db2c9"
+                              },
+                              "visible_to": []
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "text": "Adolescent Wellness Academy, Boca",
+                        "actions": {
+                          "move_to": {
+                            "9969b2bb179c": {
+                              "id": 1778256246410,
+                              "name": "BOCA",
+                              "icon": "phone",
+                              "action_count": 3,
+                              "query_id": "schedule_phone_screen_1778256246410",
+                              "type": {
+                                "id": "schedule_phone_screen",
+                                "name": "Phone Screen",
+                                "icon": "phone"
+                              },
+                              "actions": {
+                                "templates": [
+                                  {
+                                    "_id": 1778257306290,
+                                    "message_template_id": "ef33f58db2c9",
+                                    "template": {
+                                      "_id": "ef33f58db2c9",
+                                      "name": "15-min Phone Screening W Rubi"
+                                    },
+                                    "message_delay": {
+                                      "text": "1 hour",
+                                      "delay": 3600000,
+                                      "value": "3600000",
+                                      "label": "1 hour"
+                                    },
+                                    "should_avoid_nights_and_weekends": false,
+                                    "template_force_sender_name": false,
+                                    "template_force_no_reply": false,
+                                    "delivery_method": "sms"
+                                  }
+                                ],
+                                "campaign_id": "14e7484fde82",
+                                "move_after_meeting_scheduled": {
+                                  "move_to_stage": {
+                                    "id": 1778261694555,
+                                    "name": "Leadership Approval",
+                                    "icon": "user",
+                                    "action_count": 0
+                                  }
+                                },
+                                "message_delay": 0,
+                                "questionnaire_delay": 0,
+                                "target_stage_actions_enabled": true,
+                                "message_template_id": "ef33f58db2c9"
+                              },
+                              "visible_to": []
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "text": "Principles Recovery Center, Davie"
+                      }
+                    ],
+                    "has_actions": true,
+                    "_id": "1778262331322"
+                  }
+                ]
+              }
+            ],
+            "questionnaire_id": "bfc00cc87c5c",
+            "status": "sent",
+            "position_id": "c919b4f87e89",
+            "delivery_method": "email",
+            "mentioned_ids": []
+          },
+          "timestamp": "2026-09-04T15:13:21.978Z",
+          "first_of_day": false
+        },
+        {
+          "_id": "385f2e97337b",
+          "type": "candidateAdded",
+          "stream_id": "c08ef698bd78",
+          "object": {
+            "position_id": "c919b4f87e89",
+            "acting_user": {
+              "_id": "nimblebot",
+              "name": "Breezy Bot",
+              "initial": "B"
+            },
+            "mentioned_ids": []
+          },
+          "timestamp": "2026-09-04T15:13:21.847Z",
+          "first_activity": true,
+          "first_of_day": true
+        }
+      ]
+    }
+  ]
+}
