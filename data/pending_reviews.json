@@ -1,1 +1,289 @@
-[]
+[
+  {
+    "position_id": "70abb2f01e85",
+    "candidate_id": "8c5ba645deb4",
+    "name": "Lucia Mejia",
+    "review": "**Fit summary:** Weak match on paper - current and only listed role is a university enrollment/admissions counselor position, not an operations-management role, and the questionnaire's self-reported 3-4 years of behavioral-health operations experience isn't reflected anywhere in her work history. **Strengths:** Bilingual (fluent Spanish), open availability, willing to provide references. **Gaps:** No ops-manager/program-coordinator ownership role on resume; no EHR, compliance, or census/intake experience listed; no healthcare or behavioral-health employer at all in her work history. **Consistency check:** Real discrepancy - she answered \"3-4 years supporting daily operations in behavioral health/healthcare/adolescent services\" and \"2+ years with adolescents 13-17\" in the questionnaire, but her only listed job is a university admissions-counselor role with no adolescent or ops-management content. Worth asking directly where that self-reported experience actually comes from. **Tenure/timeline notes:** No tenure issue - single current role. **Recommendation:** Not a resume match, and the gap between her questionnaire answers and her actual work history should be clarified before advancing.",
+    "disqualify": false
+  },
+  {
+    "position_id": "70abb2f01e85",
+    "candidate_id": "7ec0bcf65196",
+    "name": "Cedria Parker",
+    "review": "**Fit summary:** Strong program-operations match - 15 years of program-supervisor/ops-management ownership roles in nonprofit youth services, though the setting is youth workforce/juvenile-justice/education rather than a clinical treatment center. **Strengths:** Supervised more than 10 staff at once per her questionnaire, consistent with her Program Supervisor and Interim Executive Director titles; grant/budget compliance and audit-readiness experience across multiple roles; direct youth-facing program design, community outreach, and staff-training background; long, stable tenure history. **Gaps:** No EHR system named; no dollar-figure budget ownership specified; degree is in Elementary Education rather than business/healthcare administration; experience is youth workforce/education/juvenile-justice rather than clinical behavioral health specifically. **Consistency check:** No contradictions - her stated reason for leaving (a 3,000+ person Broward County layoff) is specific and plausible. **Tenure/timeline notes:** Her most recent role (Kelly Education, March-July) is under 6 months, but she explained it was a mass layoff, not a fit or performance issue - not disqualifying. **Recommendation:** Worth a phone screen given the strong program-operations and staff-supervision track record, even though the setting isn't clinical treatment-specific.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "47d0ae099ec4",
+    "name": "Anna Sadlier",
+    "review": "**Fit summary:** Weak resume match - entire work history is competitive cheerleading coaching; no role involves direct adolescent behavioral-health observation or documentation as a job duty. **Strengths:** Genuine, specific passion for the field (she discloses her own lived experience with Borderline Personality Disorder and a completed DBT course, framing her interest in youth mental health), 6 years coaching youth, currently researching youth mental-health accessibility. **Gaps:** No behavioral-health or treatment-center employer at all; no EHR; self-reports \"less than 1 year\" of behavioral-health/adolescent-services operations experience. **Consistency check:** No contradictions - her questionnaire answers align with her coaching-only work history. **Tenure/timeline notes:** No short-stay concerns. **Recommendation:** Not a resume match against the guide's must-haves - the motivation is genuine but there's no direct-care experience to evaluate; worth a phone screen only if the team wants to gauge trainability from scratch.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "59a6f672f3b3",
+    "name": "Michael Fisher",
+    "review": "**Fit summary:** Strong direct-care match - nearly 5 continuous years as a Behavioral Health Technician across five treatment-center employers, with medication administration and daily behavioral documentation throughout. **Strengths:** Continuous BHT tenure since 2021 (Agape, Atlantic, Arete, Comprehensive Wellness, Step Behavioral Health), self-reports PHP substance-abuse, residential mental-health, and IOP experience; medication administration and crisis-intervention/de-escalation duties. **Gaps:** No role specifies an adolescent population - all listed BHT roles read as general/adult behavioral health, which is the guide's core must-have; no EHR system named explicitly. **Consistency check:** No contradictions found. **Tenure/timeline notes:** One short stay (5 months, Lead BHT at Atlantic Recovery) among five roles - not disqualifying given the surrounding tenure is solid. **Recommendation:** Worth a phone screen given the strong, continuous direct-care background - confirm directly whether any of his BHT roles served an adolescent population specifically, since none of the listed employers state that.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "67e42cbcbdf1",
+    "name": "ANTONIA MCKINNEY",
+    "review": "**Fit summary:** Reasonable but mixed match - psychiatric-support CNA work plus a military crisis-response/pediatric medical-assistant background, but no role explicitly names adolescent behavioral monitoring as a duty. **Strengths:** U.S. Navy veteran with crisis-intervention and conflict-de-escalation training; CNA Psychiatric Support role involved patient safety checks and psychiatric-condition monitoring; \"Pediatric MA\" military role suggests some pediatric clinical exposure; multiple relevant certifications (HHA, BLS, First Aid). **Gaps:** No EHR named outside \"EMR charting\" in the military role; no adolescent-specific population named in either role. **Consistency check:** She answered \"No\" to being willing to connect us with references, which is atypical for this stage and worth asking about directly rather than assuming a reason. **Tenure/timeline notes:** No short-stay concerns. **Recommendation:** Worth a phone screen for the psychiatric/crisis background, but clarify the reference-willingness answer and confirm any direct adolescent exposure.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "7eae46872e18",
+    "name": "Martin Flurry",
+    "review": "**Fit summary:** Mixed match - extensive child-welfare and case-management background (CPS worker, children's case manager, adult case manager) but no direct behavioral-health facility or treatment-center role, and a disclosed criminal history that needs to be addressed directly. **Strengths:** Years of case-management and family-engagement experience with at-risk youth and families, including a role explicitly built around adolescent/young-adult mental-health caseloads (Gulf Coast Mental Health Center). **Gaps:** No EHR; no treatment-center or direct behavioral-monitoring job duty; education section is incomplete/duplicated in the data, so his actual degree and field are unclear. **Consistency check:** He answered \"Yes\" to having been convicted of a misdemeanor, felony, or arrested - this needs to be discussed directly and factored into any background-check process before advancing, not glossed over. **Tenure/timeline notes:** No short-stay concerns beyond a brief BP oil-spill role from over a decade ago. **Recommendation:** Relevant case-management background, but the disclosed arrest/conviction history needs a direct conversation and compliance review before this goes further.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "2e4ad6375643",
+    "name": "Anne Jean",
+    "review": "**Fit summary:** Soft match - healthcare intake/administrative background with real adolescent-adjacent exposure (special-education teacher's aide supporting IEPs), but no role is built around direct behavioral observation or monitoring as the primary duty. **Strengths:** Bilingual, EMR/insurance documentation experience (Intake Coordinator role), direct one-on-one academic/behavioral support for students with diverse learning needs as a teacher's aide. **Gaps:** No treatment-center or direct-care employer; no explicit behavioral-monitoring job duty; already at Phone Screen stage without a documented BHT/technician-level role. **Consistency check:** No contradictions found. **Tenure/timeline notes:** No short-stay concerns - tenures are all a year or more. **Recommendation:** Given she's already at Phone Screen, worth continuing the conversation to confirm how her intake/IEP-support background translates to hands-on adolescent behavioral-health work, since her resume doesn't show that directly yet.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "53634c396087",
+    "name": "Alexandrea D",
+    "review": "**Fit summary:** Soft match - real EHR experience (KIPU, Labcorp) from an office-coordinator role at a healthcare organization, but that role was administrative, not direct client care, and no role names an adolescent population. **Strengths:** KIPU and Labcorp EHR experience from Office Coordinator at Delphi Health Group; supervisory responsibilities noted (scheduling, assigning work) in that same role; bilingual. **Gaps:** Most recent and longest role (Operations Manager at Ryder Last Mile) is unrelated logistics work; no direct adolescent behavioral-health duty anywhere. **Consistency check:** No contradictions found. **Tenure/timeline notes:** No short-stay concerns. **Recommendation:** The KIPU/EHR exposure is a real plus, but it comes from an administrative role, not direct care - worth a phone screen to see how she'd translate that into a hands-on technician role.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "1077c908012d",
+    "name": "Sebastian Pardo",
+    "review": "**Fit summary:** Reasonable match - currently a Behavioral Health Technician at a mental-health residential facility, plus meaningful crisis-support volunteer experience, though population age isn't specified. **Strengths:** Current BHT role (9 months) with direct mental-health and physical-care duties and EMR-based documentation; over 200 hours as a Crisis Text Line Counselor with suicide-risk-assessment training; currently pursuing a Psychology degree; explicitly states interest in working with adolescents. **Gaps:** Neither role names an adolescent-specific population; no explicit EHR system named beyond \"electronic record documentation.\" **Consistency check:** No contradictions - he's clear he's still employed and looking to move toward adolescent-focused work. **Tenure/timeline notes:** No short-stay concerns for his BHT role. **Recommendation:** Worth a phone screen given the genuine current direct-care and crisis-support background - confirm the population served at his current facility.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "6a0184a26d69",
+    "name": "Genesis Del Castillo",
+    "review": "**Fit summary:** Strong match - multiple roles directly serving at-risk youth ages 10-21 in residential and clinical treatment settings, with explicit EHR use and DCF/mandated-reporting experience. **Strengths:** Shelter Counselor for DJJ/DCF-referred youth ages 10-21; Residential Therapist providing CBT/DBT to children in Broward County using EMR for treatment plans and referrals; Clinical Therapist for ages 6+; Master's in Health Services Administration. **Gaps:** No KIPU named specifically; recent role (Harmony Developmental) ended due to grant funding loss - not a fit issue but worth a quick confirmation of what she's done since. **Consistency check:** No contradictions found. **Tenure/timeline notes:** No short-stay concerns - all roles are well over a year. **Recommendation:** Strong candidate given the direct adolescent-population treatment experience and EHR/DCF background - advance to phone screen.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "ad1e771652f0",
+    "name": "Samantha CARLISLE",
+    "review": "**Fit summary:** Weak match - background is largely administrative/case-management and outreach (WIC, TOPWA, intake screening) rather than direct behavioral observation or monitoring, and no role names an adolescent population. **Strengths:** Intake-screening experience at Henderson Behavioral Health; HIV counseling and social-work coursework in progress; over a decade of customer-facing healthcare-adjacent administrative work. **Gaps:** No direct-care or treatment-center employer; no EHR; no adolescent-specific experience. **Consistency check:** No contradictions found. **Tenure/timeline notes:** No short-stay concerns. **Recommendation:** Not a strong resume match against the guide's must-haves - the healthcare-adjacent administrative background could translate, but there's no direct evidence of hands-on adolescent behavioral support yet.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "0d2a3a6cfa13",
+    "name": "Akia Powell",
+    "review": "**Fit summary:** Weak match - background is youth sports coaching and recreational programming, not clinical or behavioral-health work. **Strengths:** Consistent youth-facing coaching and program-aide experience; conflict-resolution and structured-activity-planning skills that could transfer. **Gaps:** No behavioral-health, treatment-center, or clinical employer at all; no EHR; explicitly states she has no prior employer (\"No\" to most-recent-employer question), and her stated motivation is to gain experience rather than a specific pull toward this field. **Consistency check:** No contradictions found. **Tenure/timeline notes:** No short-stay concerns given her limited work history. **Recommendation:** Entry-level youth-adjacent background only - not a resume match on the clinical must-haves; would need to build direct-care experience before this is a strong fit.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "12e5b1748699",
+    "name": "Pamela Vail",
+    "review": "**Fit summary:** Soft but promising match - decades of stable, adolescent-facing work in credit-recovery and at-risk-student education, plus recently completed relevant training (RBT coursework, a 2-year crisis-prevention course, and CPR), though no formal behavioral-health job title yet. **Strengths:** Long, consistent tenure history working specifically with at-risk high-school students toward graduation; recently completed a Registered Behavior Technician course on her own initiative, signaling genuine, prepared interest in the field. **Gaps:** No treatment-center or clinical employer; no EHR; education section in the data is incomplete/unclear on her actual degree. **Consistency check:** No contradictions found. **Tenure/timeline notes:** No short-stay concerns - her tenure history is unusually stable across many years. **Recommendation:** Worth a phone screen - the adolescent-population experience is real and long-standing, and the recent RBT/crisis-prevention training shows she's actively preparing for this kind of work.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "f4bce5bfb29d",
+    "name": "Aysis Mehu-Byfield",
+    "review": "**Fit summary:** Too thin to assess - no work history is listed at all, and her current employer (Broward County Public Schools) has no job title or duties described. **Strengths:** Social work degree in progress; her summary describes behavior-management and crisis de-escalation experience in educational settings, though this isn't tied to a specific documented role. **Gaps:** No verifiable job history, EHR, or treatment-center experience to evaluate against the guide. **Consistency check:** No contradictions, but there isn't enough detail to check against. **Tenure/timeline notes:** Can't be assessed from the data available. **Recommendation:** Worth a phone screen specifically to fill in the basics - her current role, title, and duties - before making a real assessment.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "e342ced3aa89",
+    "name": "Altonnisha Hill",
+    "review": "**Fit summary:** Reasonably relevant but not a direct resume match - case-management and child-protection-investigation background with crisis-detection and mandated-reporting-adjacent experience, but not a treatment-center or direct behavioral-monitoring role. **Strengths:** Case Manager role built around early crisis detection and individualized treatment-plan adherence; Child Protection Investigator role involved court testimony and abuse/neglect pattern identification - both relevant to mandated-reporting judgment even without a formal DCF/mandated-reporter title. **Gaps:** No EHR; no treatment-center setting; no adolescent-specific population named. **Consistency check:** No contradictions found. **Tenure/timeline notes:** No short-stay concerns. **Recommendation:** Worth a phone screen given the crisis- and case-management-adjacent background, though it's not a direct match against the guide's clinical must-haves.",
+    "disqualify": false
+  },
+  {
+    "position_id": "07381f72ce9c",
+    "candidate_id": "dbebeded7b8e",
+    "name": "Junie Lorfils",
+    "review": "**Fit summary:** Strong match - a long, stable career alternating between Mental Health Technician roles at treatment facilities and Youth Care Specialist roles at youth-focused organizations, spanning decades. **Strengths:** Multiple long-tenured Mental Health Technician roles (Citrus Health Network, Universal Health Service, Broward Health) alongside two Youth Care Specialist roles (Youth Opportunity Investments, Rite of Passage) that are explicitly youth-focused; extremely stable tenure throughout her career. **Gaps:** No EHR named explicitly; questionnaire responses are sparse (job-duty descriptions are blank in the data), so specifics on documentation and treatment-team involvement should be confirmed directly. **Consistency check:** She's clear she's not leaving her current job and is only looking for a second position - worth confirming schedule compatibility given she works 12-hour shifts elsewhere. **Tenure/timeline notes:** No short-stay concerns - her tenure history is exceptionally long and stable across every role. **Recommendation:** Strong candidate given the combined MHT and youth-care background - advance to phone screen, and confirm scheduling compatibility given her current job.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "c2cafe8a3502",
+    "name": "James Oberhansley",
+    "review": "**Fit summary:** Strong match - 5 continuous years across multiple treatment-center roles (detox, residential, outpatient substance-use) with direct behavioral documentation, medication administration, and de-escalation throughout. **Strengths:** Current Substance Abuse Counselor role plus prior Lead Counselor, Residential Counselor, Drug and Alcohol Counselor, and BHT roles - continuous PHP/residential/detox experience since 2021; ASAM documentation, UA testing, and crisis-intervention duties; CADC and RBT certifications in progress or held. **Gaps:** No adolescent-specific population named - all roles appear to serve adults; no EHR system named specifically. **Consistency check:** He disclosed a prior arrest/conviction (\"Yes\") - this needs a direct conversation and compliance review before advancing. His stated reason for leaving (divorce/relocation) is specific and plausible. **Tenure/timeline notes:** One short stay (6 months, BHT at Enlight Treatment Center) among many roles - not disqualifying given the surrounding tenure. **Recommendation:** Strong direct-care background - worth a phone screen, but the disclosed arrest/conviction needs to be addressed directly as part of the process.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "e91fccc6602b",
+    "name": "Laquela Green",
+    "review": "**Fit summary:** Strong match - nearly 9 years in a single Behavioral Health Technician role at a residential treatment facility, with direct patient observation, vitals monitoring, and crisis-intervention duties throughout. **Strengths:** Long, stable single-employer tenure (The Retreat of Broward, 2017-2026) covering patient observation, documentation, and de-escalation for clients with a range of conditions including autism spectrum and eating disorders; already at Phone Screen stage. **Gaps:** No adolescent-specific population named; no EHR named explicitly. **Consistency check:** She disclosed a prior arrest/conviction (\"Yes\") - worth a direct conversation as part of the process. Her stated reason for leaving (\"job down sizes\") is plausible. **Tenure/timeline notes:** No short-stay concerns - nearly a decade in one role. **Recommendation:** Strong, long-tenured direct-care background - worth continuing the Phone Screen process, addressing the disclosed arrest/conviction directly.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "1e1a5dfd4704",
+    "name": "Beatrice Derastel",
+    "review": "**Fit summary:** Strong match - over 2 years in a Patient Care Technician role that includes both direct client care and staff supervision/coaching, plus nearly 9 years of prior behavioral-health floater experience. **Strengths:** Current role supervises and coaches BHT staff while also conducting medication administration and safety rounds - a rare combination of direct-care and leadership experience; nearly a decade at Aion Recovery supporting medication management and client monitoring. **Gaps:** No adolescent-specific population named; no EHR system named explicitly, though she references electronic prescription tracking. **Consistency check:** No contradictions found. **Tenure/timeline notes:** No short-stay concerns - both major roles are multi-year. **Recommendation:** Strong candidate given the combination of long direct-care tenure and staff-supervision experience - advance to phone screen.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "62d5fd4908ff",
+    "name": "Ronald Ceron",
+    "review": "**Fit summary:** Reasonable match - over 2 years directing a large residential recovery campus with crisis-response and staff-supervision duties, though his most recent role is unrelated call-center work. **Strengths:** Director role at Sober Living America managed 60-120 residents and included overdose-response and suicide-risk crisis leadership, plus supervising and training staff; bilingual. **Gaps:** No adolescent-specific population named; no EHR; his most recent job (Call Center Representative, 4 months) is unrelated to behavioral health, which is worth asking about directly. **Consistency check:** He disclosed a prior arrest/conviction (\"Yes\") - needs a direct conversation as part of the process. His stated reason for leaving his director role isn't given (only the call-center job's reason, \"company flopped\", is explained) - worth asking what prompted the move out of Sober Living America. **Tenure/timeline notes:** No short-stay concerns for the director role itself. **Recommendation:** Worth a phone screen given the substantial crisis-leadership background, addressing the disclosed arrest/conviction and the gap in his explanation for leaving the recovery-campus role.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "659114a9487c",
+    "name": "Natasha Maxwell",
+    "review": "**Fit summary:** Strong match - over 6 years as a Behavioral Health Technician in a residential setting, plus a subsequent Clinical Case Manager role serving children with mental health needs. **Strengths:** BHT role at Cove Behavioral Health (79 months) covered client monitoring, therapeutic-assignment support, and medication assistance; Clinical Case Manager role at Centerstone specifically served children with mental health needs and family referrals - directly adolescent-relevant. **Gaps:** No EHR named explicitly; most recent role (New Patient Communications Coordinator) is unrelated front-desk work, worth asking why she stepped away from clinical work. **Consistency check:** No contradictions - her stated reason for the most recent move (relocating back to South Florida) is plausible. **Tenure/timeline notes:** No short-stay concerns for her BHT and case-manager roles. **Recommendation:** Strong candidate given the long BHT tenure plus children's case-management experience - advance to phone screen.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "2a7d1b916a00",
+    "name": "Wilder Jeanpierre",
+    "review": "**Fit summary:** Too thin to assess from the data available - no formal work history is listed, only a brief questionnaire note about prior \"BHT treatment center\" patient-care experience. **Strengths:** Certificate from Atlantic Technical College; self-reports direct BHT/patient-care experience at a treatment center. **Gaps:** No employer name, dates, or duties provided anywhere in the application to verify the self-reported experience. **Consistency check:** Can't be assessed - too little detail. **Tenure/timeline notes:** Can't be assessed. **Recommendation:** Worth a phone screen specifically to get the basics (employer, dates, duties) before making any real assessment.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "05d690e735da",
+    "name": "Christine Tilme",
+    "review": "**Fit summary:** Weak match - long CNA tenure in hospice and nursing-home settings with elderly/geriatric patients, not a behavioral-health or treatment-center setting. **Strengths:** Very long, stable tenure (over 20 years combined) in direct patient care; comfortable with hands-on daily-living support and documentation. **Gaps:** No behavioral-health, substance-use, or treatment-center experience; no adolescent population; no EHR named. **Consistency check:** No contradictions found. **Tenure/timeline notes:** No short-stay concerns - exceptionally long tenure in both roles. **Recommendation:** Not a strong resume match given the geriatric/hospice focus rather than behavioral health, though the long direct-care tenure and reliability are real strengths if the team wants to consider training her into the role.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "16569896fd5b",
+    "name": "Esteban Ortiz",
+    "review": "**Fit summary:** Strong match - over 12 combined years leading Behavioral Health Technician teams and supervising residential recovery operations in substance-use treatment settings. **Strengths:** BHT Lead role at Cornerstone Recovery Center supervised BHT staff and monitored client behavior/safety for over 6 years; Transitional House Supervisor role (89 months) provided direct behavioral-health support and documented behavioral observations in a structured recovery environment. **Gaps:** No adolescent-specific population named; no EHR named explicitly. **Consistency check:** No contradictions - his stated reason for leaving (company closed) is plausible. **Tenure/timeline notes:** No short-stay concerns - both roles are exceptionally long-tenured. **Recommendation:** Strong candidate given the long tenure and leadership experience in structured treatment environments - advance to phone screen.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "1013b9ce5c2b",
+    "name": "Claudia Deus",
+    "review": "**Fit summary:** Weak match - only one brief, decades-old role (a single month in 2007) involved direct client care; the rest of her career is customer-service and medical-administrative work. **Strengths:** That single role did include medication administration and daily-living support for individuals with brain/spinal-cord injuries. **Gaps:** No recent or sustained direct-care experience; no adolescent population; no EHR; she answered \"No\" to being willing to provide references, worth asking about directly. **Consistency check:** No contradictions found, though the resume is very thin on relevant recent experience. **Tenure/timeline notes:** Can't meaningfully assess tenure pattern given how limited the relevant work history is. **Recommendation:** Not a strong resume match - the one relevant role is nearly two decades old and very brief; would need a phone screen to understand what's driving interest in this field now.",
+    "disqualify": false
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "b7d345d83c11",
+    "name": "Natalie Greene",
+    "review": "**Fit summary:** Mixed match - meaningful crisis-advocacy and intake-coordination experience (victims advocate, constituent casework) but no direct behavioral-health facility role, and her current role is nonprofit business development rather than direct care. **Strengths:** Victims Advocate role involved crisis intervention and intake support for trauma survivors at hospitals and police stations; current Interim ED/VP role is at a substance-abuse and mental-health treatment nonprofit, giving some proximity to the field; pursuing a Juris Doctor. **Gaps:** No direct client-monitoring or behavioral-documentation job duty; no EHR; no adolescent-specific population beyond a youth camp-director role from several years ago. **Consistency check:** Her stated reason for leaving her most recent role (the nonprofit wanted full-time hours as a volunteer) is specific and plausible. **Tenure/timeline notes:** Current role is only 3 months - too early to assess, but her overall history shows adequate tenure elsewhere. **Recommendation:** Relevant crisis-advocacy background, but not a direct match against the guide's treatment-center must-haves - worth a phone screen to see how her advocacy experience would translate to hands-on BHT work.",
+    "disqualify": false
+  },
+  {
+    "position_id": "abb8db6e7dfb",
+    "candidate_id": "2db97595b743",
+    "name": "Shelia Walker",
+    "review": "**Fit summary:** Far below the guide's requirements - no clinical license, no supervisory experience, and no recent clinical work; current and most recent employment is as a rideshare/dispatch driver. **Strengths:** Master's degree in Counseling and a group-home internship with at-risk youth, showing some foundational interest and training. **Gaps:** No active FL clinical license (LMHC/LCSW/LMFT); no post-licensure clinical experience; no supervisory or clinical-leadership experience; no accreditation-survey, EHR, or program-budget experience - none of the guide's must-haves are met. **Consistency check:** Her stated compensation range ($78K-$120K) is far above what her current work history would suggest, and well outside the range her actual experience supports - worth noting. **Tenure/timeline notes:** Very short recent stays (1 month at current driving job, prior 12-month driving role). **Recommendation:** Not a match for this director-level clinical role - her education is relevant but her work history doesn't reflect any post-licensure clinical practice, let alone leadership.",
+    "disqualify": false
+  },
+  {
+    "position_id": "abb8db6e7dfb",
+    "candidate_id": "2f3541bac031",
+    "name": "Kayla Kane",
+    "review": "**Fit summary:** Not a licensed-clinician match - strong healthcare operations and service-delivery background as an Occupational Therapist and clinic-operations leader, but she is not a licensed mental-health clinician (LMHC/LCSW/LMFT), which is the guide's core non-negotiable. **Strengths:** Held a \"Clinic Director\" title previously (Ivy Rehab) implementing EHR systems and improving referral volume; strong data-driven operations background (KPI dashboards, Power BI); healthcare regulatory-compliance experience. **Gaps:** Licensed as an Occupational Therapist, not a mental-health clinician - does not meet the guide's licensure must-have; no adolescent mental-health or PHP/IOP-specific experience. **Consistency check:** No contradictions found. **Tenure/timeline notes:** No short-stay concerns. **Recommendation:** Strong operations leader, but not eligible against this guide's core licensure requirement - worth flagging for a different operations-focused role rather than this one, unless the requirement can flex.",
+    "disqualify": false
+  },
+  {
+    "position_id": "abb8db6e7dfb",
+    "candidate_id": "89fa9c244d56",
+    "name": "Darlene Ifill-Taylor, MD",
+    "review": "**Fit summary:** Exceptionally strong match - a psychiatrist with direct Adolescent PHP program leadership experience and years of multi-site clinical directorship. **Strengths:** Led and grew an Adolescent PHP program at Novant Health; over 6 years as Medical Director of her own integrative psychiatry practice; supervised PMHNPs and multidisciplinary teams across multiple prior roles; Child and Adolescent Psychiatry fellowship training; extensive EHR (CPRS) and compliance/chart-audit experience from her VA role. **Gaps:** None significant against this guide - she exceeds the licensure and leadership must-haves given she's a psychiatrist rather than the LMHC/LCSW/LMFT baseline the guide lists, though this is a strength, not a gap. **Consistency check:** Her stated compensation ($300K) is well above what this role likely budgets for - worth clarifying expectations directly and early, since a mismatch here could be a dealbreaker either way. **Tenure/timeline notes:** No short-stay concerns - long, stable tenure throughout. **Recommendation:** Outstanding clinical-leadership match with direct adolescent PHP experience - advance to phone screen, but address compensation expectations directly and early given how far above range she's indicated.",
+    "disqualify": false
+  },
+  {
+    "position_id": "abb8db6e7dfb",
+    "candidate_id": "06bb395824b6",
+    "name": "Michelle Benton",
+    "review": "**Fit summary:** Strong match - current Clinical Programs Director overseeing residential/PRTF-level programming with direct compliance and fiscal responsibility. **Strengths:** Nearly 4 years directing all agency programming, supervising direct-care staff and case managers, and owning fiscal/compliance objectives at Children's Homes of Iredell; prior Psychiatric Residential Treatment Facility operations-and-compliance oversight role referencing specific regulatory frameworks. **Gaps:** Licensure type isn't stated in the data (a B.A./M.A. in psychology/counseling is listed, but no specific LMHC/LCSW/LMFT credential is named) - worth confirming directly; no adolescent-specific population named, though residential youth-services settings suggest likely overlap. **Consistency check:** She disclosed a prior arrest/conviction (\"Yes\") - needs a direct conversation as part of the process. Her stated reason for leaving (\"open to greener pastures\" while still employed) is straightforward. **Tenure/timeline notes:** No short-stay concerns. **Recommendation:** Strong operational and compliance background - advance to phone screen, confirming her specific clinical license and addressing the disclosed arrest/conviction directly.",
+    "disqualify": false
+  },
+  {
+    "position_id": "abb8db6e7dfb",
+    "candidate_id": "c3b65966c166",
+    "name": "Nzinga Cates",
+    "review": "**Fit summary:** Strong clinical match - a licensed clinical mental-health counselor (LCMHC, NC) with over a decade of adolescent- and trauma-focused clinical experience, though her recent work is private-practice ownership rather than a multi-site or PHP/IOP director role. **Strengths:** Ph.D. in Forensic Psychology, LCMHC license, delivered therapy to adolescents with trauma histories and behavioral disorders (Harborcreek Youth Services), provided clinical supervision and leadership to a multidisciplinary team (Hope Advancement). **Gaps:** Current role (10+ years as a solo private-practice owner) doesn't show recent multi-site or PHP/IOP program-level operational leadership, accreditation-survey experience, or program census/budget ownership - the guide's core must-haves beyond licensure. **Consistency check:** She answered \"No\" to being willing to connect us with references - worth asking about directly. **Tenure/timeline notes:** No short-stay concerns. **Recommendation:** Strong clinical credentials and adolescent-treatment background, but her recent experience is solo private practice rather than program-level operational leadership - worth a phone screen to gauge her readiness to step into a director-level operational role.",
+    "disqualify": false
+  },
+  {
+    "position_id": "abb8db6e7dfb",
+    "candidate_id": "a52aea9a0c7b",
+    "name": "Jacqueline Brown",
+    "review": "**Fit summary:** Outstanding match - currently a Clinical Operations Director overseeing RTC, PHP, and IOP programs specifically for adolescents, with explicit P&L ownership and payer/compliance experience. **Strengths:** Current role (Newport Healthcare, 55 months) drives operational KPIs across RTC/PHP/IOP levels of care for adolescents and owns program P&L including budget forecasting; prior STRTP Head of Service role achieved zero contract deficiencies during her tenure and managed Medi-Cal/county/private-insurance payer relations; strong progression through clinical-leadership roles over 13+ years. **Gaps:** Specific licensure isn't named in the data (a counseling-psychology background is listed but no explicit LMHC/LCSW/LMFT credential) - worth confirming directly. **Consistency check:** No contradictions - her stated reason for leaving (company changes and growth opportunities, while still currently employed there) is straightforward. **Tenure/timeline notes:** No short-stay concerns - strong, progressive tenure throughout. **Recommendation:** Exceptional match given direct adolescent RTC/PHP/IOP operational leadership and P&L ownership - advance to phone screen, confirming her specific clinical licensure.",
+    "disqualify": false
+  },
+  {
+    "position_id": "2ffecbf54808",
+    "candidate_id": "49de1a9a04cd",
+    "name": "Tamra Wood",
+    "review": "**Fit summary:** Strong general match for the talent pool - over 20 years across admissions, case management, and residential-treatment roles, most recently seeking an admissions-coordinator-type position. **Strengths:** Admissions Specialist experience (Monte Nido) conducting intake/biopsychosocial assessments and EMR documentation; multiple Case Manager/Group Facilitator roles completing biopsychosocial assessments and coordinating care transitions; long personal-recovery journey (22 years) that she volunteers as part of her professional motivation. **Gaps:** No adolescent-specific experience named - her background is adult treatment/admissions. **Consistency check:** No contradictions found. **Tenure/timeline notes:** No short-stay concerns - consistent multi-year tenures throughout. **Recommendation:** Strong fit for the talent pool given her extensive admissions and case-management background - worth reaching out if an admissions-coordinator-type opening comes up.",
+    "disqualify": false
+  },
+  {
+    "position_id": "48ededd9c66e",
+    "candidate_id": "0d230ad17ac8",
+    "name": "Rose Karambu",
+    "review": "**General fit impressions:** Counseling Psychology graduate with real, relevant counseling-practicum experience (person-centered and CBT approaches, psycho-education, mental-health outreach) at a hospital and university setting abroad. Currently finalizing her licensure board registration in Kenya as a Counseling Psychologist. Requesting a telehealth-only placement at 35 hours/week starting September 2026 through March 2027. **Questions to ask:** Confirm supervision requirements on her end (her program contact field was left blank), and clarify whether a fully telehealth placement fits the internship program's supervision and hands-on requirements, since the program structure generally expects in-person practicum hours.",
+    "disqualify": false
+  },
+  {
+    "position_id": "48ededd9c66e",
+    "candidate_id": "1bd32d94a5fc",
+    "name": "Aneika Turnbull",
+    "review": "**General fit impressions:** Currently pursuing an MS in Clinical Mental Health Counseling at Walden University, with a healthcare background as a Medical Assistant (EMR documentation, patient care, HIPAA compliance) across two employers. Specifically states interest in child/adolescent and family counseling. Requesting an in-person practicum, evenings preferred, 10-15 hours/week, starting March 2027. **Questions to ask:** Her program's Office of Field Experience contact is provided, which is a good sign for coordination; confirm the evening-only availability works with the internship program's typical scheduling.",
+    "disqualify": false
+  },
+  {
+    "position_id": "c919b4f87e89",
+    "candidate_id": "2256a9b0ab7d",
+    "name": "Kate Melendy McCool",
+    "review": "**General fit impressions:** Pursuing an M.A. in Clinical Mental Health Counseling (CACREP-accredited) at Liberty University, working toward LMHC licensure. Background is substitute teaching and chiropractic-assistant work - relevant soft skills (patience, rapport-building, working with people in discomfort) but no direct clinical or adolescent-specific experience yet. Requesting an in-person practicum, flexible schedule, 8 hours/week, January-May 2027, interested in the Boca location. **Questions to ask:** Her program's practicum office contact is provided, which is a good sign for coordination; confirm interest level in adult PHP/IOP specifically since her stated goals mention both adult and adolescent populations.",
+    "disqualify": false
+  },
+  {
+    "position_id": "c919b4f87e89",
+    "candidate_id": "719768588ca0",
+    "name": "Jane Smith",
+    "review": "**Flag, not a real review:** This application looks like placeholder or test data rather than a genuine candidate - the bio is a generic \"computer science/software development\" blurb unrelated to counseling, the program-coordinator contact is literally \"John Doe / johndoe@email.com,\" and the requested placement dates (Nov 2023 - Dec 2024) are already in the past. Recommend confirming with your Breezy admin whether this is a test submission before spending any review time on it.",
+    "disqualify": false
+  },
+  {
+    "position_id": "c919b4f87e89",
+    "candidate_id": "2b92ff2fb2c4",
+    "name": "Eddie",
+    "review": "**General fit impressions:** Pursuing a Doctorate in Marriage and Family Therapy at National University (4.0 GPA) after a long VA/military healthcare career, including direct work with veterans and families navigating stress, crisis, and transitions. Requesting a hybrid practicum, 10 hours/week, starting mid-September 2026 for a 3-month term at the Kendall location. **Questions to ask:** His program's field-placement contact (Dr. Emily Schmittel) is provided, which is a good sign for coordination; confirm his availability (weekday afternoons/weekends) fits the program's supervision schedule, and note he expresses interest in working with both adults and adolescents.",
+    "disqualify": false
+  },
+  {
+    "position_id": "d540d93d12d2",
+    "candidate_id": "03df721643dc",
+    "name": "ORSON VARGAS",
+    "review": "**General fit impressions:** 10+ years of multi-industry full-cycle recruiting experience, bilingual English/Spanish, with a recent stint doing high-volume sales recruiting (40+ hires/month). Background spans healthcare, sales, IT, and hospitality recruiting rather than behavioral-health-specific sourcing. **Questions to ask:** Ask directly about any healthcare or behavioral-health-specific recruiting experience, since his listed background is broad multi-industry staffing rather than clinical or direct-care hiring; his stated compensation ask ($50K) is on the lower end, worth confirming it still fits.",
+    "disqualify": false
+  },
+  {
+    "position_id": "d540d93d12d2",
+    "candidate_id": "858e7161c12f",
+    "name": "Tiffanie Bailey",
+    "review": "**General fit impressions:** Currently a full-cycle recruiter (3 months in role) with a psychology degree in progress, explicitly stating she wants to move her recruiting career toward something aligned with her psychology background. Experience spans candidate sourcing, screening, and onboarding, plus a research-assistant stint in psychology. **Questions to ask:** Her recruiting tenure at any one employer is short (3-4 months each across her last two recruiting roles) - worth asking directly what's driving the frequent moves; her stated interest in aligning recruiting with her psychology background is a genuine plus worth exploring in a screen.",
+    "disqualify": false
+  },
+  {
+    "position_id": "d540d93d12d2",
+    "candidate_id": "8d7bccf7a99d",
+    "name": "Wendy Cardwell",
+    "review": "**General fit impressions:** Background is billing, insurance-claims quality assurance, and community relations - no recruiting experience listed at all. She disclosed a prior arrest/conviction and stated she's currently unemployed and \"really need[s] a job.\" **Questions to ask:** Given there's no recruiting background in her work history, ask directly what draws her to this specific role; the disclosed arrest/conviction needs a direct conversation and compliance review before any further steps.",
+    "disqualify": false
+  }
+]
