@@ -1,0 +1,1989 @@
+{
+  "new_roles": [
+    {
+      "_id": "a6cf9ac42d96",
+      "type": {
+        "id": "partTime",
+        "name": "Part-Time"
+      },
+      "state": "published",
+      "name": "Virtual Intake Coordinator - Adolescent PHP/IOP",
+      "friendly_id": "a6cf9ac42d96-virtual-intake-coordinator-adolescent-php-iop",
+      "experience": null,
+      "location": {
+        "country": {
+          "name": "United States",
+          "id": "US"
+        },
+        "state": {
+          "id": "FL",
+          "name": "Florida"
+        },
+        "city": "Davie",
+        "primary": true,
+        "streetAddress": {
+          "location": "4343 S State Rd 7 Davie, FL 33314",
+          "streetAddress": "4343 S State Rd 7",
+          "components": [
+            {
+              "short_name": "33314",
+              "long_name": "33314",
+              "types": [
+                "postal_code"
+              ]
+            },
+            {
+              "short_name": "US",
+              "long_name": "US",
+              "types": [
+                "country"
+              ]
+            },
+            {
+              "short_name": "Davie",
+              "long_name": "Davie",
+              "types": [
+                "locality"
+              ]
+            },
+            {
+              "short_name": "FL",
+              "long_name": "FL",
+              "types": [
+                "administrative_area_level_1"
+              ]
+            }
+          ]
+        },
+        "is_remote": true,
+        "remote_details": {
+          "value": "remote-location",
+          "label": "Fully remote, within chosen location(s)"
+        },
+        "name": "Davie, FL",
+        "id": "ad227b70efbd"
+      },
+      "education": null,
+      "department": "Adolescent Wellness Academy - Virtual",
+      "requisition_id": "AWA-VRT-WC-09112026",
+      "description": "<h1><strong>Virtual Intake Coordinator</strong></h1><p>\nRemote in FL&nbsp;| Part-Time | Schedule 3pm-7pm | $17/hour, $19/hour upon completion of training</p>\n<p><strong>About the Role</strong><br>\nThis is a virtual coordinator role supporting AWA's adolescent program with a focus on intakes and administrative support. You keep the program organized and moving by managing intake documentation, coordinating schedules, supporting virtual sessions, and communicating with families throughout the admissions process. Spanish fluency is required for this role.</p><p><em>\nBackgrounds that translate well: Psychology/Counseling Graduate Studies · Behavioral Health · Case Management · Education · Administrative Support</em></p>\n<p><strong>What You'll Do</strong></p>\n<ul>\n<li>Process intakes, upload sign-in sheets, prepare welcome kits, and maintain census records</li>\n<li>Coordinate scheduling for new admissions, including psych and IEP appointments</li>\n<li>Communicate with parents and families by phone and email in English and Spanish on intake logistics and progress updates</li>\n<li>Monitor and redirect adolescent clients (ages 13–17) via chat during virtual group sessions and transitions</li>\n<li>Provide real-time tech support to clients during virtual sessions (Zoom, breakout rooms, chat)</li>\n<li>Track attendance and maintain accurate program records</li>\n<li>Complete same-day documentation, including wellness check-ins as needed</li>\n<li>Escalate safety concerns, disclosures, and behavioral flags to the clinical team immediately</li>\n</ul>\n<p><strong>What We're Looking For</strong><br><em>\nRequired</em></p>\n<ul>\n<li>Bilingual required: English and Spanish</li>\n<li>Experience in a clinical, educational, administrative, or community mental health setting</li>\n<li>Comfortable supporting virtual group sessions and managing basic tech troubleshooting (Zoom, breakout rooms)</li>\n<li>Strong organizational and documentation skills</li>\n<li>Emotionally regulated, professional, and consistent under pressure</li>\n<li>Understands the limits of a non-clinical role — escalates appropriately, never makes independent clinical decisions</li>\n</ul>\n<p>AWA is an adolescent mental health organization operating PHP and IOP programs in South Florida. We exist to serve teens and families at their most critical moments — and this role is at the center of that work every day.<br></p>\n\n<p><strong><strong>Learn More:&nbsp;</strong></strong><a href=\"https://adolescentwellnessacademy.com/\" class=\"editor-link\" dir=\"ltr\" data-faitracker-click-bind=\"true\"><span>Adolescent Wellness Academy</span></a></p>",
+      "category": null,
+      "application_form": {
+        "name": "required",
+        "headline": "optional",
+        "summary": "optional",
+        "profile_photo": "optional",
+        "address": "required",
+        "salary": "hidden",
+        "email_address": "required",
+        "phone_number": "required",
+        "resume": "required",
+        "work_history": "optional",
+        "education": "optional",
+        "cover_letter": "optional",
+        "preferred_location": "hidden",
+        "questionnaire_in_experience": true
+      },
+      "creator_id": "c33b51bf818d",
+      "creation_date": "2026-09-11T20:30:49.742Z",
+      "updated_date": "2026-09-11T20:43:04.577Z",
+      "questionnaire_id": "f362c75cc342",
+      "all_users": [
+        "c33b51bf818d",
+        "99b44f51e79a",
+        "d1c3149fdaef",
+        "65ebc6affdb2"
+      ],
+      "all_admins": [
+        "c33b51bf818d",
+        "99b44f51e79a",
+        "d1c3149fdaef",
+        "65ebc6affdb2"
+      ],
+      "pipeline_id": "default",
+      "candidate_type": "all",
+      "tags": [
+        "devanne",
+        "AWA virtual"
+      ],
+      "org_type": "position",
+      "bias_enabled": false,
+      "salary": {
+        "from": 17,
+        "to": 19,
+        "period": "Hourly",
+        "currency": "USD"
+      }
+    }
+  ],
+  "talent_pool": [
+    {
+      "_id": "9303edb5dcae",
+      "meta_id": "f97b935e7e1f",
+      "address": "Florida, US",
+      "creation_date": "2026-09-08T18:51:50.372Z",
+      "education": [
+        {
+          "school_name": "University And College of Natural Health",
+          "field_of_study": "Holistic Health and Nutrition",
+          "degree": "Ph.D.",
+          "end_date": {
+            "year": 2027
+          }
+        },
+        {
+          "school_name": "St. Thomas University",
+          "field_of_study": "Mental Health Counseling",
+          "degree": "Master's Degree",
+          "end_date": {
+            "year": 2019
+          }
+        },
+        {
+          "school_name": "Florida International University",
+          "field_of_study": "Sociology",
+          "degree": "Bachelor's Degree",
+          "end_date": {
+            "year": 2014
+          }
+        }
+      ],
+      "email_address": "willindak@outlook.com",
+      "followed_by": [],
+      "headline": "BEHAVIORAL HEALTH CARE MANAGER @ Centene",
+      "initial": "W",
+      "name": "Willinda Zella Kavrik",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "3057738143",
+      "questionnaire": [
+        {
+          "body": "",
+          "text": "What type of position are you hoping to find, and what interests you about that work?",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "76cfa759d5b3",
+          "response": "I would love a position that I am able to help people and utilize my holistic knowledge and mental health education to help create positive habits that they can use throughout their adulthood."
+        },
+        {
+          "text": "What makes you interested in joining Adolescent Wellness Academy?",
+          "required": false,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "b7f10fcd8cc7",
+          "body": "",
+          "response": "I want to be a part of something that makes a difference especially with the youth."
+        },
+        {
+          "text": "What experience do you have supporting adolescents, families, or individuals receiving behavioral health services?",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "c3f9bb6c2081",
+          "body": "",
+          "response": "I interned at an at-risk high school in Opalocka, I have worked within the community as a therapist and have also provided therapy in a school setting."
+        },
+        {
+          "text": "Is there anything specific you would like our People & Culture team to consider when reviewing your application?",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "909357995c3d",
+          "body": "",
+          "response": "I am a mother and that will always come first."
+        }
+      ],
+      "resume": {
+        "file_name": "Willinda_Kavrik_Resume.pdf?key=73f37f44-710f-451d-b54e-a8a487ded1a3",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/2ffecbf54808/candidate/9303edb5dcae/resume",
+        "error": false,
+        "_id": "a28c2d5f88bc73e2212bc02e9d915df7"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": "applied",
+        "name": "Applied",
+        "type": {
+          "id": "applied",
+          "name": "Applied",
+          "icon": "user"
+        }
+      },
+      "summary": "Seasoned Mental Health Counselor with 10 years of diverse experience in therapeutic roles. Skilled in CBT, TF-CBT, and creating personalized treatment plans for varied populations. Seeking a position that utilizes learned skills and teaches new ones.",
+      "tags": [],
+      "updated_date": "2026-09-09T11:26:07.859Z",
+      "work_history": [
+        {
+          "title": "BEHAVIORAL HEALTH CARE MANAGER",
+          "company_name": "Centene",
+          "summary": "Developed and implemented individualized care plans for clients, enhancing treatment outcomes. * Coordinated multidisciplinary team meetings to ensure comprehensive patient care and collaboration. * Monitored client progress and adjusted treatment strategies based on behavioral health assessments. * Provided training and mentorship to junior staff on best practices in behavioral health management.",
+          "is_current": true,
+          "duration": {
+            "months": 17,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2024
+          },
+          "end_date": {
+            "year": 2028,
+            "month": 3
+          },
+          "location": {
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2024-09-01",
+          "date_end": "2028-03-01"
+        },
+        {
+          "title": "THERAPIST",
+          "company_name": "Better Help",
+          "summary": "Provides confidential, online counseling and therapeutic services to a diverse client base, utilizing evidence-based practices to address mental health issues and promote emotional well-being with BetterHelp.",
+          "is_current": false,
+          "duration": {
+            "months": 9,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 11,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2024
+          },
+          "date_start": "2023-11-01",
+          "date_end": "2024-08-01"
+        },
+        {
+          "title": "OUTPATIENT THERAPIST",
+          "company_name": "Invo Healthcare",
+          "summary": "Delivered individualized therapy to students, adapting sessions for inperson and telehealth environments to meet diverse needs. * Implemented evidence-based practices to support student mental health and academic success.",
+          "is_current": false,
+          "duration": {
+            "months": 3,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 8,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 11,
+            "year": 2023
+          },
+          "location": {
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2023-08-01",
+          "date_end": "2023-11-01"
+        },
+        {
+          "title": "CLINICIAN",
+          "company_name": "The Clinical and Forensic Institute",
+          "summary": "Conduct comprehensive psychological assessments and provide evidence-based therapeutic interventions for a diverse client population within a multidisciplinary team at The Clinical and Forensic Institute. * Provide court ordered therapy for individuals including anger management, CBT, and CPT.",
+          "is_current": false,
+          "duration": {
+            "months": 13,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 7,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2024
+          },
+          "location": {
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2023-07-01",
+          "date_end": "2024-08-01"
+        },
+        {
+          "title": "COUNSELOR",
+          "company_name": "Country Club Middle School",
+          "summary": "* Delivered comprehensive counseling services to students, encompassing individual, group, and family therapy sessions. * Facilitated the emotional and social development of students within the educational environment.",
+          "is_current": false,
+          "duration": {
+            "months": 11,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2021
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2022
+          },
+          "location": {
+            "city": "Miami",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2021-06-01",
+          "date_end": "2022-05-01"
+        },
+        {
+          "title": "OUTPATIENT THERAPIST",
+          "company_name": "Chrysalis",
+          "summary": "Administered comprehensive mental health therapy across multiple settings, including schools, homes, and via telehealth, ensuring accessibility and adaptability to clients' needs. * Implemented a variety of evidence-based therapeutic techniques, including Cognitive Behavioral Therapy (CBT) and Cognitive Processing Therapy (CPT), to effectively address clients' psychological conditions. * Conducted detailed psychological assessments and collaborated with clients to develop tailored treatment plans, promoting measurable improvements in mental health outcomes.",
+          "is_current": false,
+          "duration": {
+            "months": 36,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2019
+          },
+          "end_date": {
+            "month": 1,
+            "year": 2022
+          },
+          "location": {
+            "city": "Fort Lauderdale",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2019-01-01",
+          "date_end": "2022-01-01"
+        },
+        {
+          "title": "COUNSELING INTERN",
+          "company_name": "North Park High School",
+          "summary": "* Delivered individual and group counseling services to support at-risk students' emotional and psychological well-being. * Facilitated family counseling sessions to enhance student support systems and promote educational success.",
+          "is_current": false,
+          "duration": {
+            "months": 24,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 1,
+            "year": 2019
+          },
+          "location": {
+            "city": "Miami",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2017-01-01",
+          "date_end": "2019-01-01"
+        },
+        {
+          "title": "DIRECT SUPPORT STAFF",
+          "company_name": "His House Childrens Home",
+          "summary": "Administered prescribed medication and maintained a secure, nurturing environment for children in state custody, ensuring their daily needs were met with compassion. * Facilitated transportation and managed essential household duties, including meal preparation and maintaining cleanliness, to provide a stable living situation.",
+          "is_current": false,
+          "duration": {
+            "months": 11,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2014
+          },
+          "end_date": {
+            "month": 12,
+            "year": 2014
+          },
+          "location": {
+            "city": "Miami",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2014-01-01",
+          "date_end": "2014-12-01"
+        },
+        {
+          "title": "DIRECT SUPPORT STAFF",
+          "company_name": "Arc of Broward",
+          "summary": "* Assisted individuals with special needs in daily living activities, including personal care and emotional expression, to enhance their quality of life and independence. * Facilitated skill development in areas such as literacy and creative arts, contributing to the personal growth and educational advancement of clients.",
+          "is_current": false,
+          "duration": {
+            "months": 12,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2011
+          },
+          "end_date": {
+            "month": 1,
+            "year": 2012
+          },
+          "location": {
+            "city": "Tamarac",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2011-01-01",
+          "date_end": "2012-01-01"
+        }
+      ],
+      "bias_status": "applicant",
+      "_eligible_for_outreach": true,
+      "_exclusion_reason": null
+    },
+    {
+      "_id": "0622cbbf0415",
+      "meta_id": "ba43ba66c1fb",
+      "cover_letter": "With a Bachelor of Science in Psychology and extensive experience as a certified Registered Behavior Technician (RBT) and Special Education (ESE) teacher, I am thrilled to apply for the Adolescent Services Manager position at AWA.\n\nMy career has centered on supporting adolescents through structured, safe, and compassionate environments. Whether managing daily program workflows, guiding behavior intervention plans, or collaborating closely with clinical therapists and families, I focus heavily on consistency and clear boundaries. Furthermore, my background as an independent program director and business owner has given me hands-on experience leading teams, overseeing documentation compliance, and handling day-to-day administrative needs.\n\nI would welcome the chance to bring my clinical background, leadership experience, and passion for adolescent mental health to your team in Davie. Thank you for your time and consideration.\n\nSincerely,\n\nAimee",
+      "creation_date": "2026-09-04T23:42:03.735Z",
+      "education": [],
+      "email_address": "aimeesanders75@gmail.com",
+      "followed_by": [],
+      "initial": "A",
+      "name": "Aimee Sanders",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "+13058018663",
+      "questionnaire": [
+        {
+          "text": "Which of the following options are you available to work?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "12:00PM to 8:00PM",
+              "enabledActions": []
+            },
+            {
+              "text": "10AM to 6:00PM",
+              "enabledActions": []
+            },
+            {
+              "text": "I am available for both"
+            }
+          ],
+          "_id": "1787921310480",
+          "body": "<p><span style=\"\">Please note: this role is Monday-Friday.</span></p>",
+          "response": "10AM to 6:00PM"
+        },
+        {
+          "text": "How would you describe your level of Spanish fluency?",
+          "options": [
+            {
+              "text": "Basic",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational",
+              "enabledActions": []
+            },
+            {
+              "text": "Fluent or bilingual",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "Basic"
+        },
+        {
+          "text": "What compensation range would you be comfortable considering for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "$50 an hour"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Please provide information about your most recent employer.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Please provide your most recent employer’s company name, your official job title, dates of employment, and primary responsibilities.</span></p>",
+          "_id": "07aec06c63d4",
+          "response": "Company Name: Milieu Children's Center / Private Special Education Tutoring \n\nOfficial Job Title: Special Education Tutor / Behavioral Interventionist\n\nDates of Employment: 2025 – August 2026\n\nPrimary Responsibilities:\n\nDeliver targeted reading, language arts, and behavioral intervention programs aligned with structured educational standards to students with diverse learning profiles.\n\nImplement individualized behavioral intervention plans, manage emotional and behavioral dysregulation, and track progress using empirical data collection methods.\n\nCoordinate closely with families, educators, and support specialists to ensure consistent, client-centered care and structured support.\n\nMy work directly translates to maintaining a safe, structured, and consistent environment where adolescents and children can succeed.\n\nProviding individualized behavioral support and managing daily program routines mirrors the oversight, structure, and staff-to-client consistency required to lead an adolescent mental health program."
+        },
+        {
+          "text": "What prompted you to leave your most recent position? Please provide a brief, specific explanation.",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787672143853",
+          "body": "",
+          "response": "My position was surplused due to a low student-to-teacher ratio, which resulted in subsequent staffing adjustments and a shift in enrollment numbers. Because of these reduced staffing allocations, my role was eliminated despite my strong performance and positive student outcomes."
+        },
+        {
+          "text": "If you advance to the final stage, we will select prior supervisors to contact as references. Would you be willing and able to personally connect us with at least three of the references we select?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Yes",
+              "enabledActions": []
+            },
+            {
+              "text": "No",
+              "enabledActions": []
+            }
+          ],
+          "_id": "1787672186517",
+          "body": "",
+          "response": "Yes"
+        },
+        {
+          "body": "<p><br></p>",
+          "text": "Please attach any relevant licenses, certifications, awards, or other credentials you would like us to consider.",
+          "required": false,
+          "type": {
+            "id": "file",
+            "name": "File Attachment"
+          },
+          "_id": "4f808a4ea91b"
+        },
+        {
+          "text": "How many years of experience do you have supporting daily operations in behavioral health, healthcare, or adolescent services?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Less than 1 year",
+              "enabledActions": []
+            },
+            {
+              "text": "1–2 years",
+              "enabledActions": []
+            },
+            {
+              "text": "3–4 years",
+              "enabledActions": []
+            },
+            {
+              "text": "5 or more years",
+              "enabledActions": []
+            }
+          ],
+          "_id": "1778260536022",
+          "body": "<p><br></p>",
+          "response": "5 or more years"
+        },
+        {
+          "text": "What experience do you have working directly with adolescents ages 13–17?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "2 or more years",
+              "enabledActions": []
+            },
+            {
+              "text": "1–2 years",
+              "enabledActions": []
+            },
+            {
+              "text": "Less than 1 year",
+              "enabledActions": []
+            },
+            {
+              "text": "Experience with a different age group",
+              "enabledActions": []
+            },
+            {
+              "text": "No direct experience",
+              "enabledActions": []
+            }
+          ],
+          "_id": "1778260616985",
+          "body": "<p><br></p>",
+          "response": "2 or more years"
+        },
+        {
+          "text": "How many employees have you directly supervised at one time?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": false,
+          "options": [
+            {
+              "text": "None"
+            },
+            {
+              "text": "1–5 employees"
+            },
+            {
+              "text": "6–10 employees"
+            },
+            {
+              "text": "More than 10 employees"
+            }
+          ],
+          "_id": "1787925632743",
+          "body": "",
+          "response": "6–10 employees"
+        }
+      ],
+      "resume": {
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/2ffecbf54808/candidate/0622cbbf0415/resume",
+        "file_name": "1788563787587-AimeeSanders.pdf?key=a2cb411f-3d1c-434b-9665-2d79a788c436"
+      },
+      "source": {
+        "id": "ziprecruiter",
+        "name": "ziprecruiter"
+      },
+      "stage": {
+        "id": 1788361573586,
+        "name": "AWA",
+        "type": {
+          "id": "other",
+          "name": "Other",
+          "icon": "list-ul"
+        }
+      },
+      "summary": "Bringing a robust foundation in adolescent behavioral support, educational program leadership, and clinical psychology, I offer a comprehensive skill set that aligns directly with the Adolescent Services Manager position at AWA. Holding a Bachelor of Science in Psychology, I possess a strong theoretical understanding of human behavior, emotional regulation, and developmental psychology. Professionally, my extensive experience as a certified Registered Behavior Technician (RBT) and Special Education (ESE) teacher has equipped me with direct expertise in managing complex behavioral needs, maintaining safe and structured environments, and fostering positive connections with adolescents. Furthermore, my background as a business owner and educational program director demonstrates proven leadership in managing daily program workflows, directing support teams, overseeing documentation compliance, and partnering closely with families and multi-disciplinary professionals to ensure a consistent, high-quality client experience.",
+      "tags": [],
+      "updated_date": "2026-09-08T14:53:06.655Z",
+      "work_history": [],
+      "bias_status": "applicant",
+      "_eligible_for_outreach": true,
+      "_exclusion_reason": null
+    },
+    {
+      "_id": "49de1a9a04cd",
+      "meta_id": "71a7416e3a54",
+      "cover_letter": "Dear Hiring Manager,\nAs a compassionate and detail-oriented mental health professional with over 20 years of experience in behavioral health, I was excited to see the admissions coordinator position at Adolescent Wellness Academy. With a proven track record in admissions coordination, client assessments, case management, and supporting individuals and families through recovery, I am eager to bring my empathy, clinical insight, and organizational strengths to your team.\nFrom 2014 to 2024, I held progressive roles in residential treatment and case management, including serving as Admissions Specialist at Monte Nido, where I managed the full admission process — from initial inquiries and biopsychosocial assessments to insurance coordination and client transitions. I later provided direct care as a Case Manager and Group Facilitator at Recovery is a Beach and Rise Malibu, conducting assessments (including PHQ-9 and GAD-7), developing individualized care plans, facilitating groups, and ensuring seamless coordination with multidisciplinary teams. After welcoming my son in late 2024, I chose to take dedicated time off of work to care for my family. I am now fully refreshed and excited to return to the field with even greater enthusiasm and commitment.\nMy personal recovery of 22 years continues to fuel my dedication to meeting clients and families with genuine understanding and hope. Whether building rapport with clients and their loved ones, highlighting and explaining the benefits of a particular treatment program, actively listening, collaborating with clinical teams, or maintaining thorough documentation, I bring both professional expertise and heartfelt empathy to every interaction. I am confident my combination of direct admissions experience, case management, group facilitation, strong communication skills, and recovery-informed perspective would enable me to contribute meaningfully from day one.\nThank you for considering my application. I look forward to the possibility of speaking with you soon.",
+      "creation_date": "2026-09-07T16:27:39.189Z",
+      "education": [
+        {
+          "school_name": "California State University",
+          "field_of_study": "Psychology",
+          "degree": "Bachelor of Arts",
+          "end_date": {
+            "year": 2009
+          },
+          "summary": "graduated in 2009"
+        }
+      ],
+      "email_address": "tamrad1984@gmail.com",
+      "followed_by": [],
+      "headline": "Case Manager and Group Facilitator @ Beach",
+      "initial": "T",
+      "name": "Tamra Wood",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "805-208-7871",
+      "questionnaire": [
+        {
+          "body": "",
+          "text": "What type of position are you hoping to find, and what interests you about that work?",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "76cfa759d5b3",
+          "response": "virtual admissions coordinator. I am interested in an admissions coordinator position because I enjoy being that warm and empathetic voice on the line that meets people where they are at and provides encouragement and support on taking that courageous first step into treatment. First impressions are vital and the admissions coordinator position really sets the tone for the whole treatment experience and can play a very important role in an individual choosing which program they will attend."
+        },
+        {
+          "text": "What makes you interested in joining Adolescent Wellness Academy?",
+          "required": false,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "_id": "b7f10fcd8cc7",
+          "body": "",
+          "response": "supporting individuals and their families during some of their toughest days is so important and is very purposeful and fulfilling work. Adolescent Wellness Academy has a great reputation and reviews that support the efficacy of the program."
+        },
+        {
+          "text": "What experience do you have supporting adolescents, families, or individuals receiving behavioral health services?",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "c3f9bb6c2081",
+          "body": "",
+          "response": "I have over 20 years of experience in behavioral health supporting individuals and their families in varying roles such as admissions coordination, client assessments, case management, and group facilitation."
+        },
+        {
+          "text": "Is there anything specific you would like our People & Culture team to consider when reviewing your application?",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "909357995c3d",
+          "body": "",
+          "response": "My personal recovery of 22 years continues to fuel my dedication to meeting clients and families with genuine understanding and hope. Whether building rapport with clients and their loved ones, highlighting and explaining the benefits of a particular treatment program, actively listening, collaborating with clinical teams, or maintaining thorough documentation, I bring both professional expertise and heartfelt empathy to every interaction. I am confident my combination of direct admissions experience, case management, group facilitation, strong communication skills, and recovery-informed perspective would enable me to contribute meaningfully from day one."
+        }
+      ],
+      "resume": {
+        "file_name": "Tamra-W.-Resume-9-7-2026.pdf?key=4b039eff-9185-4b8a-8db3-4e8b37b286d3",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/2ffecbf54808/candidate/49de1a9a04cd/resume",
+        "error": false,
+        "_id": "c6aa63b849597e5c6980cb7cdf6d5980"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": "applied",
+        "name": "Applied",
+        "type": {
+          "id": "applied",
+          "name": "Applied",
+          "icon": "user"
+        }
+      },
+      "summary": "over 20 years of experience in behavioral health,From 2014 to 2024, I held progressive roles in residential treatment and case management, including serving as Admissions Specialist at Monte Nido, where I managed the full admission process — from initial inquiries and biopsychosocial assessments to insurance coordination and client transitions. I later provided direct care as a Case Manager and Group Facilitator at Recovery is a Beach and Rise Malibu, conducting assessments (including PHQ-9 and GAD-7), developing individualized care plans, facilitating groups, and ensuring seamless coordination with multidisciplinary teams.",
+      "tags": [],
+      "updated_date": "2026-09-08T14:22:49.720Z",
+      "work_history": [
+        {
+          "title": "Case Manager and Group Facilitator",
+          "company_name": "Beach",
+          "summary": "Lead and facilitated groups on varying topics within mental health and addiction. Completed biopsychosocial assessments and other assessments such as the PHQ-9 and GAD-7 for each client. * Evaluated clients' needs, strengths, and challenges to determine appropriate services and level of care. * Developed individualized and comprehensive care plans that addressed clients' needs and goals. * Connected clients with relevant service providers, coordinated appointments, and ensured seamless transition between services. * Obtained records from outside professionals. * Tracked client progress and evaluated the effectiveness of care plans. * Maintained clear and consistent communication with clients, families, and other professionals involved in care. * Maintained accurate, timely, and thorough case records and documentation. * Followed up with alumni for 90 days after discharge from treatment. * Completed chart audits weekly to ensure all necessary documentation was completed. * Communicated with staff regarding incomplete documentation and follow up items needed to maintain complete EMR * Provided support and guidance during crisis. * Worked effectively with multidisciplinary teams to ensure holistic client care. * Assisted with the admissions phone line when needed.",
+          "is_current": false,
+          "duration": {
+            "months": 10,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2024
+          },
+          "end_date": {
+            "month": 11,
+            "year": 2024
+          },
+          "location": {
+            "city": "Ventura",
+            "state": "CA",
+            "country_code": "US"
+          },
+          "date_start": "2024-01-01",
+          "date_end": "2024-11-01"
+        },
+        {
+          "title": "Case Manager and Group Facilitator",
+          "company_name": "Rise Malibu",
+          "summary": "* Lead and facilitated groups on varying topics within addiction and mental health * Completed biopsychosocial assessments and intakes for each client * Evaluated clients' needs, strengths, and challenges to determine appropriate services and level of care. * Developed individualized and comprehensive care plans that addressed clients' needs and goals. * Connected clients with relevant service providers, coordinated appointments, and ensured seamless transition between services. * Obtained records from outside professionals. * Tracked client progress and evaluated the effectiveness of care plans. * Maintained clear and consistent communication with clients, families, and other professionals involved in care. * Maintained accurate, timely, and thorough case records. * Provided support and guidance during crisis. * Worked effectively with multidisciplinary teams to ensure holistic client care. * Followed up with alumni for 90 days post-treatment. * Completed chart audits weekly to ensure all necessary documentation was completed. * Communicated with staff regarding incomplete documentation and follow up items needed to maintain complete EMR",
+          "is_current": false,
+          "duration": {
+            "months": 14,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 11,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 1,
+            "year": 2024
+          },
+          "location": {
+            "city": "Malibu",
+            "state": "CA",
+            "country_code": "US"
+          },
+          "date_start": "2022-11-01",
+          "date_end": "2024-01-01"
+        },
+        {
+          "title": "Residential Advocate",
+          "company_name": "Avalon Malibu",
+          "summary": "Tracked client movement on and off the facility by documenting times and destinations of clients. Consulted with psychiatrists about client medication changes, issues with medicine compliance and efficacy of medications. Completed client intakes. Oriented client to rules and policies of the facility. Consulted with medical doctors about client withdrawal and detox symptoms. Supervised client administration of medication. Supported and encouraged client participation in the treatment program. Consulted with treatment team regarding client behavior, progress, and any non-compliance Facilitated groups and provided detailed documentation in the EMR.",
+          "is_current": false,
+          "duration": {
+            "months": 64,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 7,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 11,
+            "year": 2022
+          },
+          "location": {
+            "city": "Malibu",
+            "state": "CA",
+            "country_code": "US"
+          },
+          "date_start": "2017-07-01",
+          "date_end": "2022-11-01"
+        },
+        {
+          "title": "Residential Advisor",
+          "company_name": "Cliffside Malibu",
+          "summary": "Tracked client movement on and off the facility by documenting times and destinations of clients. Consulted with psychiatrists about client medication changes, issues with medicine compliance and efficacy of medications. Completed client intakes. Oriented client to rules and policies of the facility. Consulted with medical doctors about client withdrawal and detox symptoms. Supervised client administration of medication. Supported and encouraged client participation in the treatment program. Consulted with treatment team regarding client behavior, progress, and any non-compliance",
+          "is_current": false,
+          "duration": {
+            "months": 9,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 7,
+            "year": 2016
+          },
+          "end_date": {
+            "month": 4,
+            "year": 2017
+          },
+          "location": {
+            "city": "Malibu",
+            "state": "CA",
+            "country_code": "US"
+          },
+          "date_start": "2016-07-01",
+          "date_end": "2017-04-01"
+        },
+        {
+          "title": "Admissions Specialist",
+          "company_name": "Monte Nido",
+          "summary": "Took initial calls for potential clients and their family members in order to begin the admission process. Answered all questions regarding the program to potential clients, loved ones, and referral sources while emphasizing and selling the elements of the program that set it apart from other treatment facilities Conducted intake assessments and bio psychosocial assessments on potential clients. Documented every phone call in detail in the EMR and managed communication with active leads and admission inquiries. Assessed treatment eligibility and appropriate level of care based on admissions criteria, clinical presentation, and insurance policies. Reviewed insurance benefits with potential client and/or the financially responsible party and negotiated payment arrangements when needed. Facilitated admissions into proper treatment program by following admission protocols/processes and with communication with the medical team and clinical director. Spoke to prospective clients' current professionals to gather information in order to determine the appropriate level of care and present information to insurance. Managed referral responsibilities to other treatment programs when appropriate. Completed all administrative tasks for admission including filling out necessary forms, communication with clinical staff, and following up with client consistently until admittance into facility.",
+          "is_current": false,
+          "duration": {
+            "months": 22,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 7,
+            "year": 2014
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2016
+          },
+          "location": {
+            "city": "Malibu",
+            "state": "CA",
+            "country_code": "US"
+          },
+          "date_start": "2014-07-01",
+          "date_end": "2016-05-01"
+        },
+        {
+          "title": "Residential Advisor",
+          "company_name": "Cliffside Malibu",
+          "summary": "Tracked client movement on and off the facility by documenting times and destinations of clients. Consulted with psychiatrists about client medication changes, issues with medicine compliance and efficacy of medications. Completed client intakes. Oriented client to rules and policies of the facility. Consulted with medical doctors about client withdrawal and detox symptoms. Supervised client administration of medication. Supported and encouraged client participation in the treatment program. Consulted with treatment team regarding client behavior, progress, and any non-compliance.",
+          "is_current": false,
+          "duration": {
+            "months": 76,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 3,
+            "year": 2008
+          },
+          "end_date": {
+            "month": 7,
+            "year": 2014
+          },
+          "location": {
+            "city": "Malibu",
+            "state": "CA",
+            "country_code": "US"
+          },
+          "date_start": "2008-03-01",
+          "date_end": "2014-07-01"
+        }
+      ],
+      "bias_status": "applicant",
+      "_eligible_for_outreach": true,
+      "_exclusion_reason": null
+    },
+    {
+      "_id": "8be56c05c91e",
+      "meta_id": "109591785264",
+      "cover_letter": "Dear Hiring Manager,\n\nI am excited to apply for the Adolescent Services Manager position at AWA. With several years of experience leading youth programs, supervising staff, coordinating daily operations, and creating structured and supportive environments for adolescents, I believe my background in education and youth program management would translate well to this role.\n\nIn my current role as an Assistant Director with New York Edge, I help oversee the daily operations of a large after-school program serving more than 500 middle school students. I supervise and coach staff, coordinate schedules and staffing coverage, support program implementation, and step into a site leadership role when the Program Director is unavailable. This experience has strengthened my ability to manage competing priorities, maintain structure, address challenges in real time, and ensure that both staff and students have the support they need to be successful.\n\nA significant part of my role involves working directly with adolescents and creating an environment where students feel supported while clear expectations and boundaries are maintained. I have experience responding to behavioral concerns, communicating with families and staff, addressing incidents appropriately, and following established policies and safety procedures. I understand the importance of remaining calm and solutions-focused when unexpected situations arise, while also ensuring consistency and accountability across a team.\n\nI also bring strong organizational and administrative skills. From managing staff schedules and daily program logistics to monitoring attendance, coordinating activities, communicating with multiple stakeholders, and ensuring that program expectations are followed, I am accustomed to keeping complex youth programs running smoothly. I take pride in anticipating potential challenges, identifying solutions, and creating systems that allow both staff and students to have a positive and consistent experience.\n\nMy educational background further supports my interest in this position. I hold a Bachelor's degree in Psychology and a Master's degree in School Counseling, which have given me a strong foundation in adolescent development, social-emotional needs, communication, and creating supportive environments for young people. While my professional background has been primarily in education and youth programming rather than clinical mental health services, I am particularly drawn to AWA's focus on providing adolescents and families with a structured, compassionate environment in which they can grow.\n\nI would welcome the opportunity to bring my leadership experience, organizational skills, and passion for supporting adolescents to AWA. Thank you for considering my application. I look forward to the opportunity to discuss how my experience could contribute to your team and the adolescents and families you serve.\n\nSincerely,\n\nLeyla Eskinova",
+      "creation_date": "2026-08-29T07:15:07.920Z",
+      "education": [
+        {
+          "school_name": "Alfred University",
+          "field_of_study": "Education",
+          "degree": "Master of Science in Education",
+          "start_date": {
+            "year": null
+          },
+          "end_date": {
+            "year": 2019
+          }
+        },
+        {
+          "school_name": "St. Francis College",
+          "field_of_study": "Psychology",
+          "degree": "B.A.",
+          "start_date": {
+            "year": null
+          },
+          "end_date": {
+            "year": 2017
+          }
+        }
+      ],
+      "email_address": "ldereyayla@gmail.com",
+      "followed_by": [],
+      "headline": "Assistant Director @ New York Edge",
+      "initial": "L",
+      "name": "Leyla Eskinova",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "+1 917 789 0683",
+      "questionnaire": [
+        {
+          "text": "Which of the following options best supports your schedule?",
+          "type": {
+            "id": "checkboxes",
+            "name": "Checkboxes"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "12:00PM to 8:00PM",
+              "enabledActions": []
+            },
+            {
+              "text": "10AM to 6:00PM",
+              "enabledActions": []
+            }
+          ],
+          "_id": "1787921310480",
+          "body": "<p><span style=\"\">Please note: this role is Monday-Friday.</span></p>",
+          "responses": [
+            null,
+            true
+          ]
+        },
+        {
+          "text": "How would you describe your level of Spanish fluency?",
+          "options": [
+            {
+              "text": "Basic",
+              "enabledActions": []
+            },
+            {
+              "text": "Conversational",
+              "enabledActions": []
+            },
+            {
+              "text": "Fluent or bilingual",
+              "enabledActions": []
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "5006856ff101",
+          "body": "",
+          "response": "Basic"
+        },
+        {
+          "text": "What compensation range would you be comfortable considering for this position?",
+          "type": {
+            "id": "text",
+            "name": "Text"
+          },
+          "required": true,
+          "_id": "ca6dd7cfcf6a",
+          "body": "<p>Please provide a specific amount or a range.</p>",
+          "response": "60,000-65,000"
+        },
+        {
+          "text": "Have you ever been convicted of a misdemeanor, felony or arrested?",
+          "options": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ],
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "_id": "58bdb2f795f7",
+          "body": "",
+          "response": "No"
+        },
+        {
+          "text": "Please provide information about your most recent employer.",
+          "required": true,
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "body": "<p><span style=\"\">Please provide your most recent employer’s company name, your official job title, dates of employment, and primary responsibilities.</span></p>",
+          "_id": "07aec06c63d4",
+          "response": "My most recent employer is a non profit organization called New York Edge. My official job title is Assistant Director. I have been employed at New York Edge since May of 2021 and my last day was August 7th 2026. My reason for leaving is because my husband and I are moving to South Florida. My primary responsibilities are as follows; supervised and coached a cross-functional after-school staff (counselors, educational specialists, activity specialists) to deliver consistent student support and high-quality programming. Served as Acting Site Lead during the Program Director’s absence, maintaining daily operations, staffing, and student supervision in alignment with the Program Manager. Coordinated daily staffing coverage by managing schedules and providing on-site coverage for absences to keep programming fully staffed and on time. Oversaw day-to-day program execution, ensuring activities were prepared, organized, and running smoothly across all program areas. Fostered a positive youth development culture by reinforcing teamwork, fair play, and sportsmanship with students and staff. Partnered with the Program Director through daily operational updates, surfacing wins and gaps and driving continuous program improvements.\nConducted daily check-ins with activity specialists to gather feedback, provide coaching, and offer real-time support (including emotional support as needed). Supported attendance and student data management in DYCD Connect, ensuring accurate intake, timely updates, and well-organized records (contacts, emergency info, schedules). Built and maintained Google Sheets attendance trackers to support monitoring, reporting, and operational follow-through. De-escalated and resolved student and staff conflicts using calm, solutions-focused communication.\nCommunicated with parents/guardians to address concerns, answer questions, and align on solutions that supported student success."
+        },
+        {
+          "text": "What prompted you to leave your most recent position? Please provide a brief, specific explanation.",
+          "type": {
+            "id": "paragraph",
+            "name": "Paragraph"
+          },
+          "required": true,
+          "_id": "1787672143853",
+          "body": "",
+          "response": "The reason why I left my current job at New York Edge was because my husband and I have decided to move to South Florida from Brooklyn NY."
+        },
+        {
+          "text": "If you advance to the final stage, we will select prior supervisors to contact as references. Would you be willing and able to personally connect us with at least three of the references we select?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Yes",
+              "enabledActions": []
+            },
+            {
+              "text": "No",
+              "enabledActions": []
+            }
+          ],
+          "_id": "1787672186517",
+          "body": "",
+          "response": "Yes"
+        },
+        {
+          "body": "<p><br></p>",
+          "text": "Please attach any relevant licenses, certifications, awards, or other credentials you would like us to consider.",
+          "required": false,
+          "type": {
+            "id": "file",
+            "name": "File Attachment"
+          },
+          "_id": "4f808a4ea91b"
+        },
+        {
+          "text": "How many years of experience do you have supporting daily operations in behavioral health, healthcare, or adolescent services?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "Less than 1 year",
+              "enabledActions": []
+            },
+            {
+              "text": "1–2 years",
+              "enabledActions": []
+            },
+            {
+              "text": "3–4 years",
+              "enabledActions": []
+            },
+            {
+              "text": "5 or more years",
+              "enabledActions": []
+            }
+          ],
+          "_id": "1778260536022",
+          "body": "<p><br></p>",
+          "response": "5 or more years"
+        },
+        {
+          "text": "What experience do you have working directly with adolescents ages 13–17?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": true,
+          "options": [
+            {
+              "text": "2 or more years",
+              "enabledActions": []
+            },
+            {
+              "text": "1–2 years",
+              "enabledActions": []
+            },
+            {
+              "text": "Less than 1 year",
+              "enabledActions": []
+            },
+            {
+              "text": "Experience with a different age group",
+              "enabledActions": []
+            },
+            {
+              "text": "No direct experience",
+              "enabledActions": []
+            }
+          ],
+          "_id": "1778260616985",
+          "body": "<p><br></p>",
+          "response": "Experience with a different age group"
+        },
+        {
+          "text": "How many employees have you directly supervised at one time?",
+          "type": {
+            "id": "multiplechoice",
+            "name": "Multiple Choice"
+          },
+          "required": false,
+          "options": [
+            {
+              "text": "None"
+            },
+            {
+              "text": "1–5 employees"
+            },
+            {
+              "text": "6–10 employees"
+            },
+            {
+              "text": "More than 10 employees"
+            }
+          ],
+          "_id": "1787925632743",
+          "body": "",
+          "response": "More than 10 employees"
+        }
+      ],
+      "resume": {
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/2ffecbf54808/candidate/8be56c05c91e/resume",
+        "file_name": "1787986168430-LeylaEskinovaResumeManager.pdf?key=57ea1377-ddfb-495b-9780-f653178c6128",
+        "_id": "d23745617b0a0761445f8027ad984dce"
+      },
+      "source": {
+        "id": "indeed-sponsored-jobs",
+        "name": "Indeed Sponsored Jobs"
+      },
+      "stage": {
+        "id": 1788361573586,
+        "name": "AWA",
+        "type": {
+          "id": "other",
+          "name": "Other",
+          "icon": "list-ul"
+        }
+      },
+      "summary": "Adolescent and youth program professional with 5+ years of experience leading daily program operations, supervising and coaching staff, coordinating schedules and coverage, supporting student needs, and maintaining safe, structured environments. Experienced working with adolescents, families, school partners, and multidisciplinary teams. Holds a Master of Science in Education in School Counseling, with hands-on experience providing social-emotional support, counseling documentation, conflict de-escalation, and student/family communication.",
+      "tags": [],
+      "updated_date": "2026-09-04T19:03:45.208Z",
+      "work_history": [
+        {
+          "title": "Assistant Director",
+          "company_name": "New York Edge",
+          "summary": "Supervise and coach a cross-functional after-school team of counselors, educational specialists, and activity specialists, setting expectations and supporting consistent, high-quality student services. * Serve as Acting Site Lead in the Program Director's absence, maintaining daily operations, staffing, student supervision, and program continuity. * Coordinate staff schedules and daily coverage, responding to absences and changing program needs to keep services fully staffed and on schedule. * Oversee day-to-day program flow across multiple activity areas, anticipating operational challenges and resolving issues in real time. * Conduct daily staff check-ins to provide guidance, gather feedback, identify concerns, and offer real-time support, including emotional support when needed. * De-escalate and resolve student and staff conflicts using calm, solutions-focused communication while maintaining appropriate boundaries and expectations. * Communicate with parents and guardians to address concerns, answer questions, and develop solutions that support student success. * Maintain accurate attendance, intake, emergency-contact, scheduling, and student records in DYCD Connect build Google Sheets trackers for monitoring and reporting. * Ensure compliance with DYCD, DOE, and DOHMH requirements and SACC licensing responsibilities reinforce building entry/exit and student-safety procedures. * Lead off-site trips while ensuring student safety, staff readiness, and adherence to established protocols. * Partner with program leadership through daily operational updates, identifying gaps and opportunities for continuous improvement.",
+          "is_current": true,
+          "duration": {
+            "months": 63,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 2021
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2026
+          },
+          "location": {
+            "city": "Brooklyn",
+            "state": "NY",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Counseling Intern",
+          "company_name": "It Takes A Village Academy",
+          "summary": "* Provided 1:1 counseling and social-emotional support to students with IEPs, aligning support with individualized academic and developmental goals. * Documented counseling sessions and progress notes in SESIS to support student records, IEP tracking, reporting, and compliance. * Supported students and families through academic planning, college/career advising, financial-aid processes, and postsecondary application requirements. * Reviewed student records and schedules and documented advising notes and follow-ups in ATS.",
+          "is_current": false,
+          "duration": {
+            "months": 8,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 10,
+            "year": 2018
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2019
+          },
+          "location": {
+            "city": "Brooklyn",
+            "state": "NY",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Assistant Teacher",
+          "company_name": "Little Snowflakes DayCare",
+          "summary": "Supported safe, attentive supervision and daily routines for infants and toddlers, maintaining consistent structure and ageappropriate care. * Facilitated developmental activities and maintained a clean, sanitary environment in accordance with safety practices.",
+          "is_current": false,
+          "duration": {
+            "months": 6,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 2,
+            "year": 2018
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2018
+          },
+          "location": {
+            "city": "Brooklyn",
+            "state": "NY",
+            "country_code": "US"
+          }
+        },
+        {
+          "title": "Intern",
+          "company_name": "The Aaron School",
+          "summary": "Developed anger-management lesson materials with the school psychologist and supported social-skills activities and classroom needs. * Observed play therapy sessions and provided 1:1 academic and behavioral support to students.",
+          "is_current": false,
+          "duration": {
+            "months": 1,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 7,
+            "year": 2016
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2016
+          },
+          "location": {
+            "city": "New York",
+            "state": "NY",
+            "country_code": "US"
+          }
+        }
+      ],
+      "bias_status": "applicant",
+      "_eligible_for_outreach": true,
+      "_exclusion_reason": null
+    },
+    {
+      "_id": "066fa8a486aa",
+      "meta_id": "2ef4f80940fc",
+      "creation_date": "2026-08-14T13:58:19.545Z",
+      "education": [
+        {
+          "school_name": "Florida Atlantic University",
+          "field_of_study": "Psychology and Criminal Justice",
+          "degree": "Bachelor of Arts in Psychology and Criminal Justice"
+        }
+      ],
+      "email_address": "modelinelubin@outlook.com",
+      "followed_by": [],
+      "headline": "Registered Behavior Technician @ ",
+      "initial": "M",
+      "name": "Modeline Lubin",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "7544224932",
+      "resume": {
+        "file_name": "ABA-Resume.pdf?key=dd677548-2c20-4a3c-8abb-a6bdcdb8f588",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/2ffecbf54808/candidate/066fa8a486aa/resume",
+        "error": false,
+        "_id": "297ee2952ebf3171b5471a33d57955c5"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": 1788361573586,
+        "name": "AWA",
+        "type": {
+          "id": "other",
+          "name": "Other",
+          "icon": "list-ul"
+        }
+      },
+      "summary": "Detail-oriented and highly organized professional with direct experience in the Applied Behavior Analysis (ABA) ecosystem and a strong background in administrative operations. Proven ability to verify compliance, manage confidential data systems, and deliver exceptional professional communication. Seeking to leverage hands-on familiarity with clinical roles and data tracking to efficiently manage provider credentialing and paneling compliance at Butterfly Effects.",
+      "tags": [],
+      "updated_date": "2026-09-03T21:52:44.029Z",
+      "work_history": [
+        {
+          "title": "Registered Behavior Technician",
+          "company_name": "",
+          "summary": "* Maintained strict compliance with behavioral intervention plans (BIPs) and clinical regulatory standards for insurance documentation. * Collected, audited, and recorded accurate behavioral data daily using Artemis data collection software. * Adapted seamlessly to high-expectation, fast-paced compliance environments while ensuring error-free client tracking.",
+          "is_current": false,
+          "duration": {
+            "months": 0,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 2025
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2025
+          },
+          "location": {
+            "city": "Deerfield Beach",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2025-05-01",
+          "date_end": "2025-05-01"
+        },
+        {
+          "title": "Front Desk Assistant",
+          "company_name": "FAU Housing Department",
+          "summary": "Responsible for verifying sensitive student information, cross-referencing databases, and maintaining building access logs. * Audited and controlled physical and digital keys/credentials to maintain strict security protocols. * Managed critical incident documentation, drafting precise and objective Incident Reports for upper-level administrative review.",
+          "is_current": false,
+          "duration": {
+            "months": 7,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 1,
+            "year": 2024
+          },
+          "location": {
+            "city": "Boca Raton",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2023-06-01",
+          "date_end": "2024-01-01"
+        },
+        {
+          "title": "Call Center Agent",
+          "company_name": "FAU Housing Department",
+          "summary": "* Managed high volumes of inquiries, providing detailed admissions, documentation, and procedural criteria to applicants. * Audited and verified applicant inquiries, accurately routing files and information to specific university departments. * Maintained high standards of clear, professional phone communication and data integrity.",
+          "is_current": false,
+          "duration": {
+            "months": 9,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 8,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 5,
+            "year": 2023
+          },
+          "location": {
+            "city": "Boca Raton",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2022-08-01",
+          "date_end": "2023-05-01"
+        }
+      ],
+      "bias_status": "applicant",
+      "_eligible_for_outreach": true,
+      "_exclusion_reason": null
+    },
+    {
+      "_id": "dc874d5cb68d",
+      "meta_id": "77a61785a63d",
+      "creation_date": "2026-08-18T23:14:50.895Z",
+      "education": [
+        {
+          "school_name": "Walden University",
+          "field_of_study": "MS Clinical Mental Health Counseling",
+          "degree": "Master of Science in Clinical Mental Health Counseling",
+          "start_date": {
+            "year": null
+          },
+          "end_date": {
+            "year": 2026
+          }
+        },
+        {
+          "school_name": "Florida Atlantic University",
+          "field_of_study": "BS General Studies",
+          "degree": "Bachelor of General Studies",
+          "start_date": {
+            "year": null
+          },
+          "end_date": {
+            "year": 2020
+          }
+        }
+      ],
+      "email_address": "pietrzakj1001@gmail.com",
+      "followed_by": [],
+      "headline": "Student Intern Therapist @ Inside Out Therapy Center",
+      "initial": "J",
+      "name": "Jessica Pietrzak",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "9546466616",
+      "resume": {
+        "file_name": "JP..pdf?key=fb9ab47b-bae3-40bc-838d-e4c8127d2429",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/2ffecbf54808/candidate/dc874d5cb68d/resume",
+        "error": false,
+        "_id": "bbbadb8a28a35eb431bc331dc5534a75"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": "applied",
+        "name": "Applied",
+        "type": {
+          "id": "applied",
+          "name": "Applied",
+          "icon": "user"
+        }
+      },
+      "summary": "Compassionate and dedicated Mental Health Counseling Professional with a Master of Science in Clinical Mental Health Counseling. Extensive training in individual counseling, group facilitation, treatment planning, case conceptualization, and clinical documentation. Experienced in working with diverse client populations across the lifespan in both individual and group counseling settings. Committed to ethical practice, cultural competence, and evidence-based interventions. Seeking a position as a Masters Level Therapist or Registered Mental Health Counselor Intern where I can continue developing my clinical expertise while providing highquality mental health services.",
+      "tags": [],
+      "updated_date": "2026-09-03T21:52:43.906Z",
+      "work_history": [
+        {
+          "title": "Student Intern Therapist",
+          "company_name": "Inside Out Therapy Center",
+          "summary": "* Provided individual counseling services to children, adolescents, and adults under the supervision of a Licensed Mental Health Counselor. * Completed over 250 direct client counseling hours as part of graduate practicum and internship training. * Worked with clients experiencing anxiety, depression, suicidal ideation, relationship concerns, life transitions, and other mental health challenges. * Conducted intake assessments and gathered clinical information to assist with diagnosis, treatment planning, and case conceptualization. * Developed and implemented individualized treatment plans based on client needs and counseling goals. * Maintained timely and accurate clinical documentation, including progress notes and treatment plan updates, in accordance with ethical and legal standards. * Co-facilitated group counseling sessions and psychoeducational groups. * Participated in weekly individual supervision and faculty-led group supervision to strengthen clinical skills and ensure quality client care. * Applied evidence-based counseling interventions while demonstrating cultural competence, ethical decision-making, and professional counselor identity development.",
+          "is_current": false,
+          "duration": {
+            "months": 9,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 11,
+            "year": 2025
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2026
+          },
+          "date_start": "2025-11-01",
+          "date_end": "2026-08-01"
+        },
+        {
+          "title": "Volunteer",
+          "company_name": "Lauren Orozco LMHC",
+          "summary": "* Assisted in organizing substance abuse recovery and support groups. * Supported group facilitation activities that encouraged client engagement and peer support. * Promoted a safe and supportive environment for individuals in recovery. * Encouraged healthy coping strategies, confidence building, and self-esteem development. * Observed and learned group counseling dynamics and therapeutic communication techniques.",
+          "is_current": false,
+          "duration": {
+            "months": 3,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 1,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 4,
+            "year": 2022
+          },
+          "location": {
+            "city": "Davie",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2022-01-01",
+          "date_end": "2022-04-01"
+        }
+      ],
+      "bias_status": "applicant",
+      "_eligible_for_outreach": true,
+      "_exclusion_reason": null
+    },
+    {
+      "_id": "05fe220a7690",
+      "meta_id": "a8f551a44a36",
+      "creation_date": "2026-08-24T20:37:17.799Z",
+      "education": [
+        {
+          "school_name": "Galen College of Nursing",
+          "field_of_study": "Nursing",
+          "degree": "Associate Degree in Nursing",
+          "start_date": {
+            "year": 2023
+          },
+          "end_date": {
+            "year": 2025
+          }
+        },
+        {
+          "school_name": "Sheridan Technical College",
+          "field_of_study": "",
+          "degree": "Certificate",
+          "start_date": {
+            "year": 2021
+          },
+          "end_date": {
+            "year": 2022
+          }
+        }
+      ],
+      "email_address": "charalycia@gmail.com",
+      "followed_by": [],
+      "headline": "Licensed Practical Nurse @ Recovery Unplugged Mental Health and Derox",
+      "initial": "C",
+      "name": "Charnee Henry",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "3475677756",
+      "resume": {
+        "file_name": "Charnee-Henry-Resume-2026-RU.pdf?key=67b2fbe2-e62c-4a4a-bf49-7ee320235b4b",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/2ffecbf54808/candidate/05fe220a7690/resume",
+        "error": false,
+        "_id": "8d6be5fd5e65351c4a7ca4268b7d5766"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": 1788361552114,
+        "name": "PRC",
+        "type": {
+          "id": "other",
+          "name": "Other",
+          "icon": "list-ul"
+        }
+      },
+      "summary": "Dedicated and compassionate Licensed Practical Nurse with progressive experience across correctional health and outpatient behavioral health settings. Skilled in IV therapy, medication administration, phlebotomy, and patient monitoring. Proven ability to deliver precise, patient-centered care within high-acuity and fast-paced environments. Adept at collaborating with multidisciplinary teams and committed to maintaining the highest standards of clinical practice and documentation. LICENSURE & CERTIFICATIONS * Licensed Practical Nurse - State of Florida, License #5257350 * IV Therapy Certified * Basic Life Support (BLS) - American Heart Association",
+      "tags": [],
+      "updated_date": "2026-09-03T21:52:43.801Z",
+      "work_history": [
+        {
+          "title": "Licensed Practical Nurse",
+          "company_name": "Recovery Unplugged Mental Health and Derox",
+          "summary": "* Administer prescribed medications and IV-based treatments, including ketamine therapy, in a specialized outpatient setting. * Monitor and document patients' vital signs throughout treatment sessions, escalating changes to the RN or attending physician. * Maintain accurate, compliant medical records and treatment documentation in accordance with facility regulations. * Collaborate closely with physicians, RNs, and support staff to implement and adjust individualized care plans. * Provide compassionate patient education and emotional support throughout the treatment process.",
+          "is_current": false,
+          "duration": {
+            "months": 8,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2025
+          },
+          "end_date": {
+            "month": 2,
+            "year": 2026
+          },
+          "location": {
+            "city": "Sunrise",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2025-06-01",
+          "date_end": "2026-02-01"
+        },
+        {
+          "title": "Licensed Practical Nurse",
+          "company_name": "KC Wellness",
+          "summary": "Provides skilled home health nursing care including patient assessments, medication administration, wound care, vital sign monitoring, patient education, care coordination, and accurate EMR documentation while collaborating with physicians and the interdisciplinary team.",
+          "is_current": true,
+          "duration": {
+            "months": 15,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 2025
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2026
+          },
+          "location": {
+            "city": "Oakland Park",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2025-05-01",
+          "date_end": "2026-08-01"
+        },
+        {
+          "title": "Licensed Practical Nurse",
+          "company_name": "Centurion Health",
+          "summary": "* Deliver comprehensive nursing care within scope of practice under RN and physician supervision in a high-security correctional environment. * Administer vaccines, IV fluids, injections, and oral medications perform phlebotomy, wound care, EKGs, and peak flow testing. * Assist RN during weekly new-inmate intake assessments, including vital signs, health history review, and medication reconciliation. * Support therapeutic interventions for chronic medical conditions and acute psychiatric needs. * Collaborate with interdisciplinary healthcare team for comprehensive patient management, reporting, and continuity of care.",
+          "is_current": false,
+          "duration": {
+            "months": 26,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 11,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 1,
+            "year": 2026
+          },
+          "location": {
+            "city": "Doral",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2023-11-01",
+          "date_end": "2026-01-01"
+        },
+        {
+          "title": "Health Unit Coordinator",
+          "company_name": "Memorial Healthcare System",
+          "summary": "* Managed patient flow and coordinated medical record documentation across a busy inpatient unit. * Provided critical administrative support to physicians and nursing staff, ensuring efficient unit operations. * Served as a key communication liaison between clinical staff, patients, and ancillary departments.",
+          "is_current": false,
+          "duration": {
+            "months": 58,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 5,
+            "year": 2018
+          },
+          "end_date": {
+            "month": 3,
+            "year": 2023
+          },
+          "date_start": "2018-05-01",
+          "date_end": "2023-03-01"
+        }
+      ],
+      "bias_status": "applicant",
+      "_eligible_for_outreach": true,
+      "_exclusion_reason": null
+    },
+    {
+      "_id": "9e26e23c6abc",
+      "meta_id": "d2cf4de15eb0",
+      "creation_date": "2026-08-26T02:02:49.145Z",
+      "education": [
+        {
+          "school_name": "Florida Atlantic University",
+          "field_of_study": "Social Work",
+          "degree": "Master of Social Work",
+          "start_date": {
+            "year": 2022
+          },
+          "end_date": {
+            "year": 2024
+          }
+        },
+        {
+          "school_name": "Touro College",
+          "field_of_study": "Psychology",
+          "degree": "Bachelor of Arts in Psychology",
+          "start_date": {
+            "year": 2017
+          },
+          "end_date": {
+            "year": 2021
+          }
+        },
+        {
+          "school_name": "Machon Alte Seminary",
+          "field_of_study": "Talmudic Theory",
+          "degree": "Unknown Degree",
+          "start_date": {
+            "year": 2015
+          },
+          "end_date": {
+            "year": 2016
+          }
+        }
+      ],
+      "email_address": "tamargerber97@gmail.com",
+      "followed_by": [],
+      "headline": "Family Support Specialist @ JAFCO",
+      "initial": "T",
+      "name": "Tamar Gerber",
+      "origin": "applied",
+      "overall_score": {
+        "very_good": [],
+        "good": [],
+        "neutral": [],
+        "poor": [],
+        "very_poor": [],
+        "scored_count": 0,
+        "average_score": null
+      },
+      "phone_number": "9547783488",
+      "resume": {
+        "file_name": "Tamar-Gerber-Resume.pdf?key=3df8c947-866c-465d-b9bf-009854d34931",
+        "url": "https://api.breezy.hr/v3/company/c08ef698bd78/position/2ffecbf54808/candidate/9e26e23c6abc/resume",
+        "error": false,
+        "_id": "36f9402e6096061b3afcd74586ed7bb4"
+      },
+      "source": {
+        "id": "portal",
+        "name": "Career Portal"
+      },
+      "stage": {
+        "id": 1788361573586,
+        "name": "AWA",
+        "type": {
+          "id": "other",
+          "name": "Other",
+          "icon": "list-ul"
+        }
+      },
+      "tags": [],
+      "updated_date": "2026-09-03T21:52:43.690Z",
+      "work_history": [
+        {
+          "title": "Family Support Specialist",
+          "company_name": "JAFCO",
+          "summary": "Implemented trauma-informed care strategies for children with disabilities residing in the emergency shelter Guided parents through complex systems to access necessary resources and services Managed clinical case files and provided support to parents of children with special needs Facilitated supportive counseling sessions for parents and children, fostering emotional wellbeing and family resilience",
+          "is_current": false,
+          "duration": {
+            "months": 17,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2023
+          },
+          "end_date": {
+            "month": 11,
+            "year": 2024
+          },
+          "location": {
+            "city": "Sunrise",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2023-06-01",
+          "date_end": "2024-11-01"
+        },
+        {
+          "title": "Social Work Intern",
+          "company_name": "JAFCO",
+          "summary": "Conducted individual sessions and facilitated groups for children in the emergency shelter Observed and participated in case conceptualizations and social work meetings",
+          "is_current": false,
+          "duration": {
+            "months": 7,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2022
+          },
+          "end_date": {
+            "month": 4,
+            "year": 2023
+          },
+          "location": {
+            "city": "Sunrise",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2022-09-01",
+          "date_end": "2023-04-01"
+        },
+        {
+          "title": "Medical Legal Screening Assessor",
+          "company_name": "",
+          "summary": "(Remote) Conducts pre-screening interviews with motor vehicle accident victims Obtains pertinent medical, psychiatric, and social history of each client Interviews family members and friends of the client to obtain collateral information Writes reports for psychiatrist, determining clients' eligibility for catastrophic impairment or long-term disability",
+          "is_current": true,
+          "duration": {
+            "months": 106,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 7,
+            "year": 2026
+          },
+          "location": {
+            "city": "Toronto",
+            "state": "ON",
+            "country_code": "CA"
+          },
+          "date_start": "2017-09-01",
+          "date_end": "2026-07-01"
+        },
+        {
+          "title": "Medical Legal Intern",
+          "company_name": "",
+          "summary": "File clerk and medical records technician at a psychiatric medical-legal office Observed psychiatric medical/legal assessments with motor vehicle accident victims",
+          "is_current": false,
+          "duration": {
+            "months": 2,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 6,
+            "year": 2017
+          },
+          "end_date": {
+            "month": 8,
+            "year": 2017
+          },
+          "location": {
+            "city": "Toronto",
+            "state": "ON",
+            "country_code": "CA"
+          },
+          "date_start": "2017-06-01",
+          "date_end": "2017-08-01"
+        },
+        {
+          "title": "Assistant Director and Program Administrator",
+          "company_name": "Friendship Circle",
+          "summary": "Coordinated weekly events for children and young adults with special needs Trained volunteers on FC protocols and paired them with children with special needs",
+          "is_current": false,
+          "duration": {
+            "months": 9,
+            "calculated": true
+          },
+          "start_date": {
+            "month": 9,
+            "year": 2016
+          },
+          "end_date": {
+            "month": 6,
+            "year": 2017
+          },
+          "location": {
+            "city": "Parkland",
+            "state": "FL",
+            "country_code": "US"
+          },
+          "date_start": "2016-09-01",
+          "date_end": "2017-06-01"
+        }
+      ],
+      "bias_status": "applicant",
+      "_eligible_for_outreach": true,
+      "_exclusion_reason": null
+    }
+  ]
+}
