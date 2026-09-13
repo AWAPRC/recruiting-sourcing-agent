@@ -1242,6 +1242,149 @@
       "stage_status": null,
       "stage_ok": null,
       "posted_date": "2026-09-13T18:37:53.326Z"
+    },
+    {
+      "candidate": "Diana Jeudi",
+      "candidate_id": "52389afaeb79",
+      "position_id": "07381f72ce9c",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": false,
+      "stage_status": null,
+      "stage_ok": null,
+      "posted_date": "2026-09-13T18:59:04.095Z"
+    },
+    {
+      "candidate": "Brisa Sastre",
+      "candidate_id": "a3129f1fe386",
+      "position_id": "07381f72ce9c",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": false,
+      "stage_status": null,
+      "stage_ok": null,
+      "posted_date": "2026-09-13T18:59:04.203Z"
+    },
+    {
+      "candidate": "EDRIC WELDON",
+      "candidate_id": "d9ceb1b17c2c",
+      "position_id": "70abb2f01e85",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": false,
+      "stage_status": null,
+      "stage_ok": null,
+      "posted_date": "2026-09-13T18:59:04.295Z"
+    },
+    {
+      "candidate": "Edwin Cordon",
+      "candidate_id": "a8029f907f76",
+      "position_id": "d540d93d12d2",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": false,
+      "stage_status": null,
+      "stage_ok": null,
+      "posted_date": "2026-09-13T18:59:04.454Z"
+    },
+    {
+      "candidate": "Renae Marston",
+      "candidate_id": "b55bf40e7672",
+      "position_id": "d540d93d12d2",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-13T18:59:04.714Z"
+    },
+    {
+      "candidate": "Aileen Carmona",
+      "candidate_id": "d90f5ec169b2",
+      "position_id": "d540d93d12d2",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-13T18:59:05.048Z"
+    },
+    {
+      "candidate": "NICOLE INTRANOVA",
+      "candidate_id": "a6915fe86742",
+      "position_id": "d540d93d12d2",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": false,
+      "stage_status": null,
+      "stage_ok": null,
+      "posted_date": "2026-09-13T18:59:05.156Z"
+    },
+    {
+      "candidate": "Nicolette Rose",
+      "candidate_id": "221f6d9e8ef2",
+      "position_id": "d540d93d12d2",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": false,
+      "stage_status": null,
+      "stage_ok": null,
+      "posted_date": "2026-09-13T18:59:05.263Z"
+    },
+    {
+      "candidate": "Anthony Perdigao",
+      "candidate_id": "877f180b95eb",
+      "position_id": "d540d93d12d2",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": false,
+      "stage_status": null,
+      "stage_ok": null,
+      "posted_date": "2026-09-13T18:59:05.384Z"
+    },
+    {
+      "candidate": "Manuchka Joseph",
+      "candidate_id": "83a97a29e020",
+      "position_id": "d540d93d12d2",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": false,
+      "stage_status": null,
+      "stage_ok": null,
+      "posted_date": "2026-09-13T18:59:05.522Z"
+    },
+    {
+      "candidate": "Charles M",
+      "candidate_id": "da5e14f193e1",
+      "position_id": "d540d93d12d2",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": false,
+      "stage_status": null,
+      "stage_ok": null,
+      "posted_date": "2026-09-13T18:59:05.700Z"
+    },
+    {
+      "candidate": "Vita Dellegrazie",
+      "candidate_id": "4072159890f5",
+      "position_id": "d540d93d12d2",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-13T18:59:05.972Z"
+    },
+    {
+      "candidate": "Fanny Salgado",
+      "candidate_id": "b2bcaba5d257",
+      "position_id": "d540d93d12d2",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": false,
+      "stage_status": null,
+      "stage_ok": null,
+      "posted_date": "2026-09-13T18:59:06.075Z"
     }
   ]
 }
