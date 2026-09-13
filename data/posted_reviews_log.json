@@ -1385,6 +1385,17 @@
       "stage_status": null,
       "stage_ok": null,
       "posted_date": "2026-09-13T18:59:06.075Z"
+    },
+    {
+      "candidate": "Aga Lachowska",
+      "candidate_id": "6e466e59e46b",
+      "position_id": "d540d93d12d2",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": false,
+      "stage_status": null,
+      "stage_ok": null,
+      "posted_date": "2026-09-13T19:12:42.990Z"
     }
   ]
 }
