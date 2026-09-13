@@ -16,6 +16,7 @@ const OUT_DIR = path.join(__dirname, "..", "data");
 
 const TARGET_STAGE_PATTERNS = [
   /applied/i,
+  /video\s*screen/i,
   /phone\s*screen/i,
   /\bpii\b/i,
   /personal\s*impact/i,
