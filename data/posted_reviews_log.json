@@ -2452,6 +2452,72 @@
       "stage_status": 204,
       "stage_ok": true,
       "posted_date": "2026-09-15T12:52:33.550Z"
+    },
+    {
+      "candidate": "Maria Delzell",
+      "candidate_id": "442b31ac144d",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T19:19:12.672Z"
+    },
+    {
+      "candidate": "Paula Sánchez Sánchez",
+      "candidate_id": "fedc89ae7175",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T19:19:13.045Z"
+    },
+    {
+      "candidate": "Daniel Otey",
+      "candidate_id": "ace7441b0151",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T19:19:13.293Z"
+    },
+    {
+      "candidate": "Kiara McFarland",
+      "candidate_id": "89872d0b72ec",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T19:19:13.670Z"
+    },
+    {
+      "candidate": "Andrea Estefania Laboy Rivera",
+      "candidate_id": "cccb1be20827",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T19:19:13.941Z"
+    },
+    {
+      "candidate": "HANNAH PRICHARD",
+      "candidate_id": "f933c1e5b16f",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T19:19:14.208Z"
     }
   ]
 }
