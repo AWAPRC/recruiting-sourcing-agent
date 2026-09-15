@@ -2287,6 +2287,171 @@
       "stage_status": null,
       "stage_ok": null,
       "posted_date": "2026-09-15T11:39:41.069Z"
+    },
+    {
+      "candidate": "Paula Clair",
+      "candidate_id": "1fba3cc8ffa4",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:15.127Z"
+    },
+    {
+      "candidate": "Frank Perez",
+      "candidate_id": "820c49fa965e",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:16.808Z"
+    },
+    {
+      "candidate": "PAULA CANARTE",
+      "candidate_id": "b726aeed183b",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:19.576Z"
+    },
+    {
+      "candidate": "Anthony Garcia",
+      "candidate_id": "726c0170d2c0",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:21.954Z"
+    },
+    {
+      "candidate": "Jean Belvue Felissaint",
+      "candidate_id": "296d4977e263",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:24.428Z"
+    },
+    {
+      "candidate": "Dakotah Siler",
+      "candidate_id": "17e428111396",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:26.358Z"
+    },
+    {
+      "candidate": "SNIGDHA AGUAN",
+      "candidate_id": "2841dd45e5cf",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:26.668Z"
+    },
+    {
+      "candidate": "Kayla Lawrence",
+      "candidate_id": "877603dbd622",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:26.878Z"
+    },
+    {
+      "candidate": "Angely Urena",
+      "candidate_id": "da888ada50b4",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:27.134Z"
+    },
+    {
+      "candidate": "Katiuska Pagan",
+      "candidate_id": "a39f62ea6c9e",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:29.459Z"
+    },
+    {
+      "candidate": "leilani fyffe",
+      "candidate_id": "15659fa6f382",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:29.942Z"
+    },
+    {
+      "candidate": "Migdalia Vargas",
+      "candidate_id": "44b0990d6cba",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:30.388Z"
+    },
+    {
+      "candidate": "Zulmary Rodriguez Ofray",
+      "candidate_id": "b4d5de60cc03",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:30.688Z"
+    },
+    {
+      "candidate": "KEREN BADIA",
+      "candidate_id": "95f628dffe63",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:33.059Z"
+    },
+    {
+      "candidate": "Judah Wolford",
+      "candidate_id": "b4d4cf547fd0",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T12:52:33.550Z"
     }
   ]
 }
