@@ -2738,6 +2738,171 @@
       "stage_status": 204,
       "stage_ok": true,
       "posted_date": "2026-09-15T19:44:29.560Z"
+    },
+    {
+      "candidate": "Anita Christina Maldonado",
+      "candidate_id": "e9aa0c3eed71",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:49:57.891Z"
+    },
+    {
+      "candidate": "Melissa Rodrigue",
+      "candidate_id": "22a872196bc1",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:49:58.806Z"
+    },
+    {
+      "candidate": "Sabrina Yalangozian",
+      "candidate_id": "e66c4e597397",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:49:59.195Z"
+    },
+    {
+      "candidate": "Ibad Ansari",
+      "candidate_id": "d9ab8320e07a",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:49:59.409Z"
+    },
+    {
+      "candidate": "Linnea Scott",
+      "candidate_id": "cefb97f4878c",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:49:59.617Z"
+    },
+    {
+      "candidate": "Mya Ratliff",
+      "candidate_id": "e0c895c736ac",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:50:00.362Z"
+    },
+    {
+      "candidate": "Toriana Allen",
+      "candidate_id": "f61e742cb070",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:50:01.527Z"
+    },
+    {
+      "candidate": "Megan Toale",
+      "candidate_id": "1774695ce385",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:50:01.850Z"
+    },
+    {
+      "candidate": "McCade Emmett",
+      "candidate_id": "ff3ba6a7ade2",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:50:04.189Z"
+    },
+    {
+      "candidate": "LaMia Hagler",
+      "candidate_id": "8617de79e1fc",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:50:06.145Z"
+    },
+    {
+      "candidate": "Mon'Yae Fields",
+      "candidate_id": "5646d4cea8ee",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:50:06.377Z"
+    },
+    {
+      "candidate": "Beth Wolowicz",
+      "candidate_id": "3e8bbd6cf831",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:50:07.600Z"
+    },
+    {
+      "candidate": "Diedra Lee",
+      "candidate_id": "a4843bd4c409",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:50:07.886Z"
+    },
+    {
+      "candidate": "Inandi Loy",
+      "candidate_id": "4af6ac53b568",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:50:11.158Z"
+    },
+    {
+      "candidate": "Ceola Gilchrist",
+      "candidate_id": "e983dfb90997",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-15T20:50:13.256Z"
     }
   ]
 }
