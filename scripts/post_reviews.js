@@ -1,9 +1,11 @@
 // Generic reviewer-posting script (any open role, any batch).
 // Reads data/pending_reviews.json, an array of:
-//   { position_id, candidate_id, name, review, disqualify }
+//   { position_id, candidate_id, name, review, disqualify, move_to_stage_id? }
 // For every entry: posts the AI-labeled review to the Discussion/Stream feed.
 // If disqualify === true, also moves the candidate to that role's Disqualified
 // stage (DQ_STAGE_ID below - confirmed identical across every role in scope).
+// If move_to_stage_id is set (and disqualify is not true), moves the candidate
+// to that explicit stage instead (e.g. moving someone to a "B Players" bucket).
 const fs = require('fs');
 const path = require('path');
 const { BreezyClient } = require('./breezy_client');
@@ -61,6 +63,9 @@ async function moveStage(token, company, positionId, candidateId, stageId) {
     let stageRes = null;
     if (item.disqualify) {
       stageRes = await moveStage(token, company, item.position_id, item.candidate_id, DQ_STAGE_ID);
+      console.log('Stage move status:', stageRes.status);
+    } else if (item.move_to_stage_id) {
+      stageRes = await moveStage(token, company, item.position_id, item.candidate_id, item.move_to_stage_id);
       console.log('Stage move status:', stageRes.status);
     }
 
