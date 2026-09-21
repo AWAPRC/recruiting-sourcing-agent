@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "position_id": "a6cf9ac42d96",
+    "candidate_id": "9a377117478c",
+    "name": "Rhiannon Dumond",
+    "review": "Strong fit on experience (referral coordinator / medical assistant background, 28mo avg tenure, Florida-based) but does not speak Spanish. Keeping in Applied per current screening rules; flagging for awareness.",
+    "disqualify": false
+  },
+  {
+    "position_id": "a6cf9ac42d96",
+    "candidate_id": "a36fafa1212e",
+    "name": "Mervin Stephen",
+    "review": "Solid tenure (19.7mo avg) and relevant case management background, Florida-based, but does not speak Spanish. Keeping in Applied per current screening rules; flagging for awareness.",
+    "disqualify": false
+  },
+  {
+    "position_id": "a6cf9ac42d96",
+    "candidate_id": "fe1d0a791deb",
+    "name": "Wanda Siqueira",
+    "review": "Only Basic Spanish fluency, below the Conversational minimum. Keeping in Applied per current screening rules (Applied stage = comment, not disqualify); flagging for awareness.",
+    "disqualify": false
+  },
+  {
+    "position_id": "a6cf9ac42d96",
+    "candidate_id": "ddce6db0d85c",
+    "name": "Ayesha Tahir",
+    "review": "Disqualifying: no Spanish fluency, and background is dental/clinical (General Dentist, Associate Health Client Relations) with no adolescent, mental health, or remote-work experience to meet the Video Screen exemption bar.",
+    "disqualify": true
+  },
+  {
+    "position_id": "90654c8a703c",
+    "candidate_id": "0a6d09d523d5",
+    "name": "Justin Walters",
+    "review": "Disqualifying: located in Maryland, outside our approved remote-hire states (FL, UT, KS, AZ, TX). No work history on file to evaluate further. (Duplicate application also found under this same name/role.)",
+    "disqualify": true
+  },
+  {
+    "position_id": "90654c8a703c",
+    "candidate_id": "4d53d892e9b6",
+    "name": "Justin Walters",
+    "review": "Disqualifying: duplicate application (see other entry for this candidate). Located in Maryland, outside our approved remote-hire states.",
+    "disqualify": true
+  },
+  {
+    "position_id": "34e6df6e1c91",
+    "candidate_id": "a78730f0fad6",
+    "name": "Padrina Gelin",
+    "review": "Disqualifying: average job tenure of 4.3 months, below our 6-month minimum. Work history is largely hospitality/restaurant with limited healthcare exposure (2-month stint at Baptist Health).",
+    "disqualify": true
+  },
+  {
+    "position_id": "4cc04907edf2",
+    "candidate_id": "108e99c5dd5c",
+    "name": "April Agostini",
+    "review": "Disqualifying: located in Pennsylvania, outside our approved remote-hire states (FL, UT, KS, AZ, TX). Strong clinical background (Masters in Human Services Counseling, outpatient/telehealth therapist experience) but location rules this candidate out.",
+    "disqualify": true
+  },
+  {
+    "position_id": "4cc04907edf2",
+    "candidate_id": "b15732591fd6",
+    "name": "ShaVanety Jones, SSP, NCSP",
+    "review": "Disqualifying: located in Tacoma, Washington, outside our approved remote-hire states (FL, UT, KS, AZ, TX).",
+    "disqualify": true
+  },
+  {
+    "position_id": "4cc04907edf2",
+    "candidate_id": "ead4cb392729",
+    "name": "Cristi Cohen",
+    "review": "Florida-based, solid tenure and background, good fit overall. No Spanish fluency on file, which is a plus for this role but not required.",
+    "disqualify": false
+  },
+  {
+    "position_id": "4cc04907edf2",
+    "candidate_id": "f0fc4ead48b1",
+    "name": "Taylor Crouse, MT-BC",
+    "review": "Strong clinical background (Master of Music Therapy, MT-BC credential, behavioral health experience at Palm Point Behavioral Health and Tallahassee Memorial). Address on file is incomplete and does not confirm state of residence -- please reply with your current state so we can continue your application.",
+    "disqualify": false
+  }
+]
