@@ -22,13 +22,20 @@ const NO_PATTERNS = /\b(no thanks|not interested|no longer|pass|not right now)\b
 
   const client = new BreezyClient(EMAIL, PASSWORD);
   const token = await client.getToken();
-  const company = await client.getCompanyId();
+  // Fixed 2026-09-21: try every company on the account (AWA + PRC), not just
+  // the first one, since outreach may have gone to candidates in either org
+  // and sent_outreach.json doesn't currently record which company each is in.
+  const companies = await client.listCompanies();
 
   const results = [];
   for (const s of sentData.sent) {
-    const url = `https://api.breezy.hr/v3/company/${company}/position/${s.position_id}/candidate/${s.candidate_id}/stream`;
-    const res = await fetch(url, { headers: { Authorization: token } });
-    const stream = await res.json();
+    let stream = null;
+    for (const co of companies) {
+      const url = `https://api.breezy.hr/v3/company/${co._id}/position/${s.position_id}/candidate/${s.candidate_id}/stream`;
+      const res = await fetch(url, { headers: { Authorization: token } });
+      if (res.ok) { stream = await res.json(); break; }
+    }
+    if (!stream) continue;
     const newMessages = (Array.isArray(stream) ? stream : []).filter(
       (m) => new Date(m.timestamp) > new Date(s.last_checked || s.sent_date)
     );

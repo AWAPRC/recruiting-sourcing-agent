@@ -77,6 +77,27 @@ class BreezyClient {
     console.error("DEBUG resolved companyId:", JSON.stringify(this.company));
     return this.company;
   }
+  // Returns EVERY company on the account (AWA + PRC), not just the first one.
+  // Use this (plus listPositionsAllCompanies) for anything that needs to scan
+  // the whole account instead of a single hardcoded company.
+  async listCompanies() {
+    if (this.companies) return this.companies;
+    const cs = await this.api("GET", "/companies");
+    this.companies = cs;
+    return this.companies;
+  }
+  // Positions across ALL companies on the account, each tagged with
+  // company_id so downstream candidate/stream calls hit the right company.
+  async listPositionsAllCompanies(stateFilter) {
+    const companies = await this.listCompanies();
+    const qs = stateFilter ? `?state=${encodeURIComponent(stateFilter)}` : "";
+    const all = [];
+    for (const co of companies) {
+      const positions = await this.api("GET", `/company/${co._id}/positions${qs}`);
+      for (const p of positions) all.push({ ...p, company_id: co._id, company_name: co.name });
+    }
+    return all;
+  }
   async api(method, p, body, retries = 5) {
     const token = await this.getToken();
     for (let attempt = 0; attempt <= retries; attempt++) {
@@ -96,20 +117,20 @@ class BreezyClient {
     const qs = stateFilter ? `?state=${encodeURIComponent(stateFilter)}` : "";
     return this.api("GET", `/company/${company}/positions${qs}`);
   }
-  async getPosition(positionId) {
-    const company = await this.getCompanyId();
+  async getPosition(positionId, companyId) {
+    const company = companyId || (await this.getCompanyId());
     return this.api("GET", `/company/${company}/position/${positionId}`);
   }
-  async listCandidates(positionId) {
-    const company = await this.getCompanyId();
+  async listCandidates(positionId, companyId) {
+    const company = companyId || (await this.getCompanyId());
     return this.api("GET", `/company/${company}/position/${positionId}/candidates`);
   }
-  async getCandidate(positionId, candidateId) {
-    const company = await this.getCompanyId();
+  async getCandidate(positionId, candidateId, companyId) {
+    const company = companyId || (await this.getCompanyId());
     return this.api("GET", `/company/${company}/position/${positionId}/candidate/${candidateId}`);
   }
-  async getCandidateStream(positionId, candidateId) {
-    const company = await this.getCompanyId();
+  async getCandidateStream(positionId, candidateId, companyId) {
+    const company = companyId || (await this.getCompanyId());
     return this.api("GET", `/company/${company}/position/${positionId}/candidate/${candidateId}/stream`);
   }
 }

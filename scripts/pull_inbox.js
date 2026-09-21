@@ -17,8 +17,10 @@ const cutoff = new Date(Date.now() - DAYS * 24 * 60 * 60 * 1000);
 
 (async () => {
   const client = new BreezyClient(process.env.BREEZY_EMAIL, process.env.BREEZY_PASSWORD);
-  const positions = await client.listPositions(); // defaults to open positions per listPositions()
-  console.log(`Found ${positions.length} open position(s).`);
+  // Scans BOTH companies on the account (AWA + PRC), not just the first one -
+  // fixed 2026-09-21 after Devanne caught unread messages we were missing.
+  const positions = await client.listPositionsAllCompanies();
+  console.log(`Found ${positions.length} open position(s) across ${new Set(positions.map(p => p.company_id)).size} compan${new Set(positions.map(p => p.company_id)).size === 1 ? 'y' : 'ies'}.`);
 
   const needsReply = [];
   let candidateCount = 0;
@@ -26,7 +28,7 @@ const cutoff = new Date(Date.now() - DAYS * 24 * 60 * 60 * 1000);
   for (const pos of positions) {
     let candidates;
     try {
-      candidates = await client.listCandidates(pos._id);
+      candidates = await client.listCandidates(pos._id, pos.company_id);
     } catch (e) {
       console.error(`  failed to list candidates for ${pos.name}: ${e.message}`);
       continue;
@@ -35,7 +37,7 @@ const cutoff = new Date(Date.now() - DAYS * 24 * 60 * 60 * 1000);
       candidateCount++;
       let stream;
       try {
-        stream = await client.getCandidateStream(pos._id, c._id);
+        stream = await client.getCandidateStream(pos._id, c._id, pos.company_id);
       } catch (e) {
         continue; // no stream / not accessible
       }
@@ -66,6 +68,7 @@ const cutoff = new Date(Date.now() - DAYS * 24 * 60 * 60 * 1000);
 
       const body = (last.object && (last.object.body || last.object.text)) || last.body || last.text || "";
       needsReply.push({
+        company_name: pos.company_name,
         position_id: pos._id,
         position_name: pos.name,
         candidate_id: c._id,
@@ -85,7 +88,7 @@ const cutoff = new Date(Date.now() - DAYS * 24 * 60 * 60 * 1000);
     outFile,
     JSON.stringify({ pulled_at: new Date().toISOString(), days: DAYS, candidates_scanned: candidateCount, needs_reply: needsReply }, null, 2)
   );
-  console.log(`Scanned ${candidateCount} candidates across ${positions.length} positions.`);
+  console.log(`Scanned ${candidateCount} candidates across ${positions.length} positions (both companies).`);
   console.log(`${needsReply.length} thread(s) need a reply (last inbound message within ${DAYS} days).`);
   console.log(`Wrote ${outFile}`);
 })().catch((e) => {
