@@ -3,9 +3,8 @@
 //   { position_id, candidate_id, name, review, disqualify, move_to_stage_id? }
 // For every entry: posts the AI-labeled review to the Discussion/Stream feed.
 // If disqualify === true, also moves the candidate to that role's Disqualified
-// stage (DQ_STAGE_ID below - confirmed identical across every role in scope).
-// If move_to_stage_id is set (and disqualify is not true), moves the candidate
-// to that explicit stage instead (e.g. moving someone to a "B Players" bucket).
+// stage. If move_to_stage_id is set (and disqualify is not true), moves the
+// candidate to that explicit stage instead (e.g. a "B Players" bucket).
 const fs = require('fs');
 const path = require('path');
 const { BreezyClient } = require('./breezy_client');
@@ -17,11 +16,46 @@ const PENDING_PATH = path.join(__dirname, '..', 'data', 'pending_reviews.json');
 const LOG_PATH = path.join(__dirname, '..', 'data', 'posted_reviews_log.json');
 const AI_LABEL = '**🤖 AI Candidate Review** (auto-generated, not a team member)\n\n';
 
-// Confirmed via discovery run 2026-09-02: every in-scope open role (Adolescent
-// Mental Health Technician, Adolescent Services Manager, Business Development &
-// Outreach Representative, Behavioral Health Recruiter, Behavioral Health
-// Technician) uses this same stage id for "❌ DQ – Role Fit".
-const DQ_STAGE_ID = 1776873797711;
+// Fallback only: confirmed via discovery run 2026-09-02 that this stage id
+// ("❌ DQ – Role Fit") is shared by every role that existed at that time.
+// DO NOT rely on this alone for new roles - 4cc04907edf2 (Virtual Creative
+// Group Facilitator, added after that discovery run) uses a DIFFERENT stage
+// id ("Disqualified", 1765824096294), which silently 500'd on every
+// auto-disqualify stage-move for that role on 2026-09-18 and 2026-09-21
+// (comment posted fine, stage move failed) until this fix. As of
+// 2026-09-23 the script instead resolves each position's real disqualify
+// stage id live from its pipeline and only falls back to this constant if
+// that lookup fails.
+const FALLBACK_DQ_STAGE_ID = 1776873797711;
+
+// Per-position disqualify-stage cache so we only hit the pipeline API once
+// per position even across many candidates in the same batch.
+const dqStageCache = {};
+
+async function resolveDqStageId(client, company, positionId) {
+  if (dqStageCache[positionId]) return dqStageCache[positionId];
+  try {
+    const position = await client.api('GET', `/company/${company}/position/${positionId}`);
+    const pipelineId = position.pipeline_id || (position.pipeline && position.pipeline._id);
+    if (!pipelineId) throw new Error('no pipeline_id on position');
+    const pipeline = await client.api('GET', `/company/${company}/pipeline/${pipelineId}`);
+    const stages = pipeline.stages || pipeline.stage_list || [];
+    // Prefer a stage explicitly typed "disqualified"; among those prefer one
+    // named like our standard "❌ DQ – Role Fit" stage, else take whichever
+    // disqualified-type stage exists (every pipeline should have exactly one).
+    const disqualifyStages = stages.filter((s) => s.type && s.type.id === 'disqualified');
+    let chosen = disqualifyStages.find((s) => /dq.*role fit/i.test(s.name || ''));
+    if (!chosen) chosen = disqualifyStages[0];
+    if (!chosen) throw new Error('no disqualified-type stage found in pipeline');
+    dqStageCache[positionId] = chosen.id;
+    console.log(`Resolved disqualify stage for position ${positionId}: ${chosen.id} ("${chosen.name}")`);
+    return chosen.id;
+  } catch (e) {
+    console.log(`WARNING: could not resolve disqualify stage for position ${positionId} (${e.message}). Falling back to ${FALLBACK_DQ_STAGE_ID}, which may be wrong for this role.`);
+    dqStageCache[positionId] = FALLBACK_DQ_STAGE_ID;
+    return FALLBACK_DQ_STAGE_ID;
+  }
+}
 
 async function postComment(token, company, positionId, candidateId, body) {
   const url = `https://api.breezy.hr/v3/company/${company}/position/${positionId}/candidate/${candidateId}/stream`;
@@ -62,8 +96,9 @@ async function moveStage(token, company, positionId, candidateId, stageId) {
 
     let stageRes = null;
     if (item.disqualify) {
-      stageRes = await moveStage(token, company, item.position_id, item.candidate_id, DQ_STAGE_ID);
-      console.log('Stage move status:', stageRes.status);
+      const stageId = await resolveDqStageId(client, company, item.position_id);
+      stageRes = await moveStage(token, company, item.position_id, item.candidate_id, stageId);
+      console.log('Stage move status:', stageRes.status, stageRes.status >= 400 ? stageRes.text.slice(0, 300) : '');
     } else if (item.move_to_stage_id) {
       stageRes = await moveStage(token, company, item.position_id, item.candidate_id, item.move_to_stage_id);
       console.log('Stage move status:', stageRes.status);
