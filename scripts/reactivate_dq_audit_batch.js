@@ -16,7 +16,6 @@ const APPLIED_STAGE_ID = 'applied';
 const CANDIDATES = [
   // Business Development & Outreach Representative
   { positionId: '90654c8a703c', candidateId: '1ee3d34239ad', name: 'Deshmuck Kethavath' },
-  { positionId: '90654c8a703c', candidateId: '1909a9a050dc', name: 'Adam Lance Leibowitz' },
   { positionId: '90654c8a703c', candidateId: 'b7d345d83c11', name: 'Natalie Greene' },
   { positionId: '90654c8a703c', candidateId: '6c6917a0cd17', name: 'Viola Tombeau' },
   // Behavioral Health Technician (PRC Adult Program)

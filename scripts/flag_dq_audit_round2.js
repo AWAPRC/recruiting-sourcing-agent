@@ -14,26 +14,19 @@ const APPLIED_STAGE_ID = 'applied';
 
 const CANDIDATES = [
   // BH/recovery ops leaders (Adolescent Services Manager)
-  { positionId: '70abb2f01e85', candidateId: '1f559c94f002', name: 'David Salamon' },
   { positionId: '70abb2f01e85', candidateId: '6b26abe51c1b', name: 'E. Michelle Cohen' },
   { positionId: '70abb2f01e85', candidateId: 'c71d4767cdcc', name: 'Christopher Rublino' },
   { positionId: '70abb2f01e85', candidateId: '3a7b0bd9201a', name: 'Andrew Parker' },
   { positionId: '70abb2f01e85', candidateId: '8e0fcdda6370', name: 'Ted Monticello' },
-  { positionId: '70abb2f01e85', candidateId: '7d4a40d1855b', name: 'Chelssea McAllister' },
-  { positionId: '70abb2f01e85', candidateId: '1e0765c38edb', name: 'Raymond Massey' },
   { positionId: '70abb2f01e85', candidateId: '311ae9500edb', name: 'Ana Christina Lazo' },
   { positionId: '70abb2f01e85', candidateId: '998b08838451', name: 'Nadine Smith-Johnson' },
   // Human-services leaders (Adolescent Services Manager)
-  { positionId: '70abb2f01e85', candidateId: 'd8c4c5d0664c', name: 'Carlene Gooden' },
   { positionId: '70abb2f01e85', candidateId: '8e446d41003d', name: 'Brianna Vella' },
   { positionId: '70abb2f01e85', candidateId: '4f3c411f10ea', name: 'Perry Egelsky' },
-  { positionId: '70abb2f01e85', candidateId: 'e38c88bf436f', name: 'Guerline Anderson' },
   // Healthcare-facility ops managers (Adolescent Services Manager)
   { positionId: '70abb2f01e85', candidateId: 'b145eba85ab0', name: 'Rick Peraza' },
   { positionId: '70abb2f01e85', candidateId: '63c46f679dbb', name: 'Antonella Santiago' },
   { positionId: '70abb2f01e85', candidateId: 'cfcdf142118a', name: 'Marika Simpson' },
-  { positionId: '70abb2f01e85', candidateId: '4d89f3e6bdd0', name: 'Ileana Madera' },
-  { positionId: '70abb2f01e85', candidateId: '438614d1a448', name: 'Nelly Cossio' },
   // BH Recruiter additions
   { positionId: 'd540d93d12d2', candidateId: '83a97a29e020', name: 'Manuchka Joseph' },
   { positionId: 'd540d93d12d2', candidateId: 'e55c3ec9b903', name: 'Richard Johnson' },
