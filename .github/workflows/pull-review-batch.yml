@@ -1,11 +1,17 @@
 name: Pull Review Batch from Breezy
 
-# Manually triggered. Pulls every OPEN position and every candidate in Applied, Phone
-# Screening, PII, or A-Player stages across ALL open roles, and commits the result back
-# to the repo for Claude to review against each role's hiring guide.
+# Runs automatically every morning (13:05 UTC) and can also be triggered manually.
+# Pulls every OPEN position and every candidate in Applied, Phone Screening, PII,
+# or A-Player stages across ALL open roles, and commits the result back to the
+# repo for Claude to review against each role hiring guide.
 
 on:
   workflow_dispatch: {}
+  schedule:
+    # Runs every day at 13:05 UTC (~9:05am ET), 5 minutes after daily-check.yml,
+    # so the candidate review batch is always fresh before Devanne's morning
+    # scheduled check-in (which fires at 14:00 UTC).
+    - cron: '5 13 * * *'
 
 permissions:
   contents: write
