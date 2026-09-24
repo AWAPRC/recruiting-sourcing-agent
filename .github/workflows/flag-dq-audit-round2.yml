@@ -1,4 +1,4 @@
-name: Flag DQ audit round 2 (comment only, one-off 2026-09-24)
+name: Reactivate DQ audit round 2 (one-off 2026-09-24)
 
 on:
   workflow_dispatch: {}
@@ -24,7 +24,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/dq_audit_flagged_round2.json
-          git diff --staged --quiet || git commit -m "Log DQ-audit round 2 flags (comment only)"
+          git diff --staged --quiet || git commit -m "Log DQ-audit round 2 reactivations"
           for i in 1 2 3 4 5; do
             git push && break
             echo "Push rejected (attempt $i/5) - fetching and rebasing before retry..."
