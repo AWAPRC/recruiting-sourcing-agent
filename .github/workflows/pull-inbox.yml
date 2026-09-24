@@ -35,4 +35,10 @@ jobs:
           git add data/
           git diff --staged --quiet || git commit -m "Pull Breezy inbox $(date -u +%Y-%m-%d)"
           git pull --rebase
-          git push
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "Push rejected (attempt $i/5) - fetching and rebasing before retry..."
+            git fetch origin main
+            git rebase origin/main
+            sleep $((i * 3))
+          done
