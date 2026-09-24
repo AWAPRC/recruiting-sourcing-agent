@@ -1,0 +1,92 @@
+{
+  "reverted": [
+    {
+      "candidate": "Adam Lance Leibowitz",
+      "candidate_id": "1909a9a050dc",
+      "position_id": "90654c8a703c",
+      "dq_stage_id": 1776873797711,
+      "stage_status": 204,
+      "stage_ok": true,
+      "comment_status": 200,
+      "comment_ok": true,
+      "reverted_date": "2026-09-24T04:15:43.468Z"
+    },
+    {
+      "candidate": "David Salamon",
+      "candidate_id": "1f559c94f002",
+      "position_id": "70abb2f01e85",
+      "dq_stage_id": 1776873797711,
+      "stage_status": 204,
+      "stage_ok": true,
+      "comment_status": 200,
+      "comment_ok": true,
+      "reverted_date": "2026-09-24T04:15:44.486Z"
+    },
+    {
+      "candidate": "Chelssea McAllister",
+      "candidate_id": "7d4a40d1855b",
+      "position_id": "70abb2f01e85",
+      "dq_stage_id": 1776873797711,
+      "stage_status": 204,
+      "stage_ok": true,
+      "comment_status": 200,
+      "comment_ok": true,
+      "reverted_date": "2026-09-24T04:15:44.819Z"
+    },
+    {
+      "candidate": "Raymond Massey",
+      "candidate_id": "1e0765c38edb",
+      "position_id": "70abb2f01e85",
+      "dq_stage_id": 1776873797711,
+      "stage_status": 204,
+      "stage_ok": true,
+      "comment_status": 200,
+      "comment_ok": true,
+      "reverted_date": "2026-09-24T04:15:45.133Z"
+    },
+    {
+      "candidate": "Carlene Gooden",
+      "candidate_id": "d8c4c5d0664c",
+      "position_id": "70abb2f01e85",
+      "dq_stage_id": 1776873797711,
+      "stage_status": 204,
+      "stage_ok": true,
+      "comment_status": 200,
+      "comment_ok": true,
+      "reverted_date": "2026-09-24T04:15:45.393Z"
+    },
+    {
+      "candidate": "Guerline Anderson",
+      "candidate_id": "e38c88bf436f",
+      "position_id": "70abb2f01e85",
+      "dq_stage_id": 1776873797711,
+      "stage_status": 204,
+      "stage_ok": true,
+      "comment_status": 200,
+      "comment_ok": true,
+      "reverted_date": "2026-09-24T04:15:45.616Z"
+    },
+    {
+      "candidate": "Ileana Madera",
+      "candidate_id": "4d89f3e6bdd0",
+      "position_id": "70abb2f01e85",
+      "dq_stage_id": 1776873797711,
+      "stage_status": 204,
+      "stage_ok": true,
+      "comment_status": 200,
+      "comment_ok": true,
+      "reverted_date": "2026-09-24T04:15:45.924Z"
+    },
+    {
+      "candidate": "Nelly Cossio",
+      "candidate_id": "438614d1a448",
+      "position_id": "70abb2f01e85",
+      "dq_stage_id": 1776873797711,
+      "stage_status": 204,
+      "stage_ok": true,
+      "comment_status": 200,
+      "comment_ok": true,
+      "reverted_date": "2026-09-24T04:15:46.159Z"
+    }
+  ]
+}
