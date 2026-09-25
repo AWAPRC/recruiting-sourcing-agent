@@ -1616,5 +1616,80 @@
     "position_id": "d540d93d12d2",
     "last_reviewed": "2026-09-24T02:53:51.000Z",
     "note": "Manually reactivated via 2026-09-24 DQ audit round 2 - excluded from automated review pipeline"
+  },
+  "26f3952cad8c": {
+    "name": "Robert Robert",
+    "position_id": "34e6df6e1c91",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "51768f6f587d": {
+    "name": "Keith Gulley",
+    "position_id": "34e6df6e1c91",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "8b5cebce2482": {
+    "name": "carline dalberiste",
+    "position_id": "34e6df6e1c91",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "c5d22d6bee52": {
+    "name": "Tamikia Greene",
+    "position_id": "abb8db6e7dfb",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "ce13fca8fea0": {
+    "name": "Byron Coley",
+    "position_id": "abb8db6e7dfb",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "3cfa246e8e27": {
+    "name": "DEBORAH SANTO",
+    "position_id": "a6cf9ac42d96",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "07f0d9252313": {
+    "name": "Mariana Sugey",
+    "position_id": "a6cf9ac42d96",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "198cf23cf058": {
+    "name": "Brittany Martin",
+    "position_id": "a6cf9ac42d96",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "e75b546591bb": {
+    "name": "Alexa Muir",
+    "position_id": "a6cf9ac42d96",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "e50cfb689115": {
+    "name": "Alicia Navarro",
+    "position_id": "a6cf9ac42d96",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "eb2386ae742b": {
+    "name": "Jacqueline Escalante",
+    "position_id": "a6cf9ac42d96",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "0412ad873ed4": {
+    "name": "Paula Villella",
+    "position_id": "a6cf9ac42d96",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "11f1ba3e48fe": {
+    "name": "Deborah  Cosma",
+    "position_id": "a6cf9ac42d96",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "61691f1b8dd1": {
+    "name": "Cherisse Diaz",
+    "position_id": "55ec57af17a6",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
+  },
+  "b1c4e7992c5f": {
+    "name": "Edwin Cordon",
+    "position_id": "55ec57af17a6",
+    "last_reviewed": "2026-09-25T14:23:57.000Z"
   }
 }
