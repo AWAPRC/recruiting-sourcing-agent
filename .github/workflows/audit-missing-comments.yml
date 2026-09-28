@@ -1,0 +1,41 @@
+name: Audit missing comments (one-off, 2026-09-28)
+
+# Sweeps every OPEN role (both AWA and PRC) and flags any candidate whose
+# discussion feed has zero comments/notes on it at all. Read-only - makes no
+# changes to Breezy, just writes a report to data/.
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with: { node-version: '24' }
+
+      - name: Run missing-comments audit
+        env:
+          BREEZY_EMAIL:    ${{ secrets.BREEZY_EMAIL }}
+          BREEZY_PASSWORD: ${{ secrets.BREEZY_PASSWORD }}
+        run: node scripts/audit_missing_comments.js
+
+      - name: Commit pulled data back
+        run: |
+          git config user.name  "recruiting-agent-bot"
+          git config user.email "recruiting-agent-bot@users.noreply.github.com"
+          git add data/ || true
+          git commit -m "Missing-comments audit $(TZ=America/New_York date +'%F %H:%M ET')" || echo "no changes"
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "Push rejected (attempt $i/5) - fetching and rebasing before retry..."
+            git fetch origin main
+            git rebase origin/main
+            sleep $((i * 3))
+          done
