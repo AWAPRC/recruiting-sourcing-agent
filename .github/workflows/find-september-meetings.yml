@@ -1,0 +1,41 @@
+name: Find September meetings with no note (one-off, 2026-09-28)
+
+# Narrows the 199 zero-comment candidates down to just the ones Devanne had
+# an actual meeting/interview with in September but never left a note for.
+# Read-only - makes no changes to Breezy.
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with: { node-version: '24' }
+
+      - name: Find September meetings with no note
+        env:
+          BREEZY_EMAIL:    ${{ secrets.BREEZY_EMAIL }}
+          BREEZY_PASSWORD: ${{ secrets.BREEZY_PASSWORD }}
+        run: node scripts/find_september_meetings.js
+
+      - name: Commit pulled data back
+        run: |
+          git config user.name  "recruiting-agent-bot"
+          git config user.email "recruiting-agent-bot@users.noreply.github.com"
+          git add data/ || true
+          git commit -m "Find September meetings with no note $(TZ=America/New_York date +'%F %H:%M ET')" || echo "no changes"
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "Push rejected (attempt $i/5) - fetching and rebasing before retry..."
+            git fetch origin main
+            git rebase origin/main
+            sleep $((i * 3))
+          done
