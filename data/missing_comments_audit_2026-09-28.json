@@ -1,0 +1,1599 @@
+{
+  "pulled_at": "2026-09-28T22:41:30.680Z",
+  "candidates_scanned": 494,
+  "positions_scanned": 10,
+  "flagged": [
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "ce9b03d57a5c",
+      "name": "Jesse Lino",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "649c5e38e498",
+      "name": "Arlene Walsh",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "aaa2c0166f5a",
+      "name": "Alana Isabel Toro",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "86ae9a823b58",
+      "name": "DOMONIQUE GAUSE",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "f5ed95cca046",
+      "name": "Wanda Sanchez-Loli",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 8
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "cdbed4f80c8e",
+      "name": "Heath Martin",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "02a4e30b9fab",
+      "name": "Amy Granados Diaz",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "3829bfe9f873",
+      "name": "Timothy Leistner",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "53d6a78fcaa7",
+      "name": "Shanika bazile",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "05ac4c152b1c",
+      "name": "LeAnn Cintron",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "96f6f499b1f6",
+      "name": "AMNERIS ALMODÓVAR",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "e4645ef4ca1c",
+      "name": "Nia Morales",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "989168174bc8",
+      "name": "Espinosa Alejandra",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 5
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "219522d64cfc",
+      "name": "Kim Saint Louis",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "fa1f5a878709",
+      "name": "Rio Infinity",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "32573d47e2ac",
+      "name": "Daniela Gutierrez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "950a29f38732",
+      "name": "Kristin Scales",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "99ea47ddbd5d",
+      "name": "Dayana Lopez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "9844cdab4fcc",
+      "name": "Mario Morffy",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "e9cd93da1c4f",
+      "name": "Cristina Mai",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "61de40989e3c",
+      "name": "Kelsie Claudette Mathis",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "e63870d317e5",
+      "name": "Phillipa Amaris",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "b89ccbb3850c",
+      "name": "Shannon Campbell",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "bcf10467a994",
+      "name": "JA BELY POLA N C O",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "c65543baf54f",
+      "name": "Michelle Ann Lavern Baugh",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "9fbfd7dac555",
+      "name": "Curtis Daley",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 5
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "fdec927b556a",
+      "name": "Darell Bellamy",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "520621e8d614",
+      "name": "Lawanda Hamon",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "6dca3a684e4f",
+      "name": "Michael Harrison",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "0fa791181756",
+      "name": "Nadirah Wilds",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "d3b226cfac93",
+      "name": "Tamoy Allman",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "a481cd35d8b8",
+      "name": "Octavia Johnson",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "acb4a7f856e9",
+      "name": "Nathaniel Gedeus",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "6cc4a6f17ce5",
+      "name": "Alecia Hailstock",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "0100818d45d8",
+      "name": "Ramona Swaby",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "3db057c214e6",
+      "name": "Erica Johnson",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "d60f07851da2",
+      "name": "Wilnie Chery",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "45d3f7b0ad0e",
+      "name": "Makeda Blake",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "efa256af5853",
+      "name": "Marivette Perez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "fb10ce5ebe13",
+      "name": "Dayana Correa",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "a99a27a9e515",
+      "name": "Nelson Bogren",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "7822dcd6beb0",
+      "name": "ZUANEISHA DAVIS",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "1377536dd4e2",
+      "name": "Keana Duarte",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "e4f5accf316c",
+      "name": "Amber Ortiz",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "4a4e24a6c5c9",
+      "name": "Rachel Dagenhart",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "d648e67092b6",
+      "name": "Sheana Grant",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "cc71d62455b1",
+      "name": "Alicia Gordon",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "6c0a3445b5b2",
+      "name": "Jennifer Lima",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "c83730f4b9e2",
+      "name": "Taiwania Wheat-Colin",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "64f58211f63e",
+      "name": "Yisel Reyes",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "98f03adcb72a",
+      "name": "Mareo Hood",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "673dca32cdeb",
+      "name": "Lindsey Thorne",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "5f1d0763f387",
+      "name": "Ryan Solomon (CSM) CSPO",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "3a6bb5542bd4",
+      "name": "Omar Fabelo",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "11fc50afd6cf",
+      "name": "Hayshah Blot",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "42b51db69844",
+      "name": "JACKIE JONES",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "7d1d3d2a6dc8",
+      "name": "Yolene T. Lofton",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "cbf5fe50ecc0",
+      "name": "Helsa Guillaume Clarke",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "acd9360d6b66",
+      "name": "JANAY HARRISON",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 2
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "27b55bfcde0a",
+      "name": "Judith Diegue",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "106592d0e96b",
+      "name": "Daniel Gerjets",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "489f92ea7aa0",
+      "name": "Sandra Cowell",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "dd2d595bfa96",
+      "name": "Anthony Gaines",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "fbe01c224674",
+      "name": "Hesterline Hall",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "ce14e24d9db9",
+      "name": "Marcos Rodriguez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "84ead779b2a7",
+      "name": "Shoshana Pollack-Grindler",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "e76cd8a6d7f9",
+      "name": "Landon Zackery-Marshall",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "397a6f099f84",
+      "name": "ALEX MILLER",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "4107431ec50d",
+      "name": "Melanie Brewster",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "aedc39827d44",
+      "name": "APRIL FERGUSON",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "0a09300437ed",
+      "name": "Mia Williams",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "01c3d06ccd2a",
+      "name": "Nana Mensah Jr",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "392256b33beb",
+      "name": "Quentin McQueen",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "7dbedb1e6c5c",
+      "name": "Carnesha Davis",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "491bca017c1f",
+      "name": "Piero Ballen",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "a92b29637e8a",
+      "name": "Abdelhamys Mazon",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "77bef283186c",
+      "name": "Maria Lily Alvarez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "9139504702c9",
+      "name": "Mr. Josie Martinez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "08a8d1204dd1",
+      "name": "Amanda Torres",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "5c9406ed5c04",
+      "name": "Tony Johnson",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "eb471f0e650d",
+      "name": "ira goodstadt",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "503af68c9a90",
+      "name": "Ayinde Reid",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "ada9b006e150",
+      "name": "John jones",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "d94fdaa7aed2",
+      "name": "Melissa Cerame-Suthard",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "e0c19cb8b063",
+      "name": "Elizabeth Gedeus",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "7547713e3bc2",
+      "name": "Val B",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "31f9c2bed473",
+      "name": "Joseph Enriquez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "9cf7586d8c5d",
+      "name": "JUSTIN SIO",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "1d373557d4a7",
+      "name": "Jeff Blaisdell",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "f8ebfe45e066",
+      "name": "Yadir Yero",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "90df74110c8d",
+      "name": "Roxane Lopez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "5b3c38e13867",
+      "name": "REMI OJUMU",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "ad18e5eacedc",
+      "name": "Lisa Kerr",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "a580947a89b4",
+      "name": "Brandon Render",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "fee899177a3b",
+      "name": "Sydney Feil",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "5baf0a834a01",
+      "name": "Julio Cordero",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "fd8f603752c2",
+      "name": "Shaydie Theogene",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "d442bd56485b",
+      "name": "Dustin Velez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "45227048e484",
+      "name": "Hayley Waisome",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "70c1f8be3564",
+      "name": "Jamaurie Lockett",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "a50e95d801ea",
+      "name": "Geraldine Hippolyte",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "39a4f86212ba",
+      "name": "Emidel Torres",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "85f2994a91f6",
+      "name": "Shavette McNair",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "ece9cd0c7628",
+      "name": "Tonya Holm",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "c5c2b8b6826a",
+      "name": "Sasha-Gay Hylton",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "a835fe1b1b50",
+      "name": "Sabrina Anselmi",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "2431b94d5aba",
+      "name": "Kailey Aspen",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "c19fb52fbd5c",
+      "name": "Giseptte Nuñez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "cb6c9e802838",
+      "name": "Kamran Kafi Keramati",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "1a5032ecf01a",
+      "name": "KIM SNYDER",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "09212d72c7ea",
+      "name": "ROGGER OJEDA",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "0d1c7454c616",
+      "name": "Sophia Linton",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "eb3e7080b084",
+      "name": "DAVID A. SALAMON",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "03e7da8e54e3",
+      "name": "Dexter",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "2f216706bf05",
+      "name": "Florence Esper",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "a38e72a8beba",
+      "name": "LUIS RODRIGUEZ",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "30bc484995e2",
+      "name": "Dawne Garcia",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "5b723c9bbf16",
+      "name": "Shelita Knighton",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "2e9b059de3aa",
+      "name": "Rasheen Douglas",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "81b6b908db7c",
+      "name": "Maraya Montero",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "b43c77f9cb6b",
+      "name": "Dave Armstrong",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "ec1553dbf83e",
+      "name": "ROBERTO MEJIAS",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "b9d152ab9d4c",
+      "name": "KATREENA NIEBLA",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "caee2be525e3",
+      "name": "Morna A. Sanoy",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "be43b58b6861",
+      "name": "Dorothy Rodriguez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "d9b0c1c0f99d",
+      "name": "Robyn Fulford",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "c085972031e4",
+      "name": "MICHELLE TAVERAS",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "4ea3e843c57b",
+      "name": "Sofia Lucien",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "4cd3736a5105",
+      "name": "ANDY RICHARDS",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "a4b0b53ec48c",
+      "name": "Taresha Garrett",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "309a0d838c5d",
+      "name": "Geysil G Tapia",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "adc382ee7277",
+      "name": "Athina Ann Thomas",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "70abb2f01e85",
+      "position_name": "Adolescent Services Manager",
+      "candidate_id": "a299a4853fe7",
+      "name": "Sanjida Nahar Bristy",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "2ffecbf54808",
+      "position_name": "Join Our Talent Network!",
+      "candidate_id": "8f28f6d6e21e",
+      "name": "Yenired Gonzalez",
+      "stage": "AWA",
+      "stream_length": 4
+    },
+    {
+      "position_id": "90654c8a703c",
+      "position_name": "Business Development Representative – Substance Use Treatment",
+      "candidate_id": "f18f348f021a",
+      "name": "Lance Byrd",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "90654c8a703c",
+      "position_name": "Business Development Representative – Substance Use Treatment",
+      "candidate_id": "261b61278070",
+      "name": "Beckie Halaska",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 7
+    },
+    {
+      "position_id": "90654c8a703c",
+      "position_name": "Business Development Representative – Substance Use Treatment",
+      "candidate_id": "1ec12749de17",
+      "name": "Priya Ramanathan",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "90654c8a703c",
+      "position_name": "Business Development Representative – Substance Use Treatment",
+      "candidate_id": "9183a392765a",
+      "name": "Bronsen Stoltz",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "90654c8a703c",
+      "position_name": "Business Development Representative – Substance Use Treatment",
+      "candidate_id": "be839686175f",
+      "name": "Daniel Jones",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "90654c8a703c",
+      "position_name": "Business Development Representative – Substance Use Treatment",
+      "candidate_id": "f5da42477df4",
+      "name": "Charlie Young",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "90654c8a703c",
+      "position_name": "Business Development Representative – Substance Use Treatment",
+      "candidate_id": "82f1d98cd854",
+      "name": "Parker Roberts",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "90654c8a703c",
+      "position_name": "Business Development Representative – Substance Use Treatment",
+      "candidate_id": "d5f3388e9ffa",
+      "name": "Ethan White",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "90654c8a703c",
+      "position_name": "Business Development Representative – Substance Use Treatment",
+      "candidate_id": "8254fd4a1bb5",
+      "name": "Jennifer Smith",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "90654c8a703c",
+      "position_name": "Business Development Representative – Substance Use Treatment",
+      "candidate_id": "5a806f4fd3bf",
+      "name": "Steve Ahone",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "56695a6a197b",
+      "name": "Sophil Lewis",
+      "stage": "Screening",
+      "stream_length": 8
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "e07a52fcbd5b",
+      "name": "DAHIDEE ESPRONCEDA",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 7
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "b17f8f1f593c",
+      "name": "Katherine Raab",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "c54c7040456a",
+      "name": "Riley Ramirez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "ef156b68584c",
+      "name": "Morgan Moore",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "3ac6f52e7c62",
+      "name": "Terry Bright",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 7
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "6a8b2a886e89",
+      "name": "Dahidee Espronceda",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "341408a9a1cd",
+      "name": "Octavia Johnson",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "ed7273779f5d",
+      "name": "Alexa Garter",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "1bba75eef0a3",
+      "name": "Neldine Monestime",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "50d8d08dc5a1",
+      "name": "Danielle Hunter",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "084fcb817938",
+      "name": "Elena Halfhill",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "b440e77902ad",
+      "name": "Chloe Thompson",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "34e6df6e1c91",
+      "position_name": "Behavioral Health Technician",
+      "candidate_id": "87963945baa0",
+      "name": "Jasmine Guercin",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "1c1a9545c85c",
+      "name": "Marta Garcia",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "110b53e3dd56",
+      "name": "Letticia Timngum",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "8e90c0b448ff",
+      "name": "Melanie Nunez-Allen",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "ca2e23170d4f",
+      "name": "Jessica DiBiasio",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "f61d122a6abc",
+      "name": "JACQUELINE INGRAM-HALL",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "297eb5be2684",
+      "name": "Isabella Garay",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "10d1b0535402",
+      "name": "Juan Plascencia",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "3b133bf32cca",
+      "name": "YEON JU KIM",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "e2157a42c89b",
+      "name": "Marilyn Vega",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "2f19b58c5ac0",
+      "name": "Jasmine Flores",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "3055efc485be",
+      "name": "Amanda Laura Sime",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "c2cb5ac933c6",
+      "name": "Zaira Campos",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "b069cfc1bed4",
+      "name": "Donielle Taggart",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "6ecebc859e08",
+      "name": "Michelle Raudez",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "ad06494d3a3d",
+      "name": "Michelle Gonzalez",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "e1ef968da520",
+      "name": "Christian Alvarez",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "d050b05bc7a5",
+      "name": "Amanda Gomez",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "4799326f26bd",
+      "name": "Kallista Welty",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "283867a9a621",
+      "name": "Gretel veloso Perez",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "e638f86a7237",
+      "name": "Emillie N. González Nieves",
+      "stage": "Screening",
+      "stream_length": 5
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "6bd5f4133136",
+      "name": "Amanda Stair",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "274f677eaed2",
+      "name": "Luke Garcia",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 7
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "4f2abece92ca",
+      "name": "Christine Pham",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "06c2dabd3ef3",
+      "name": "Tyler Suran",
+      "stage": "❌ DQ - Org Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "bd69e62a3a8d",
+      "name": "Lauren Bonilla",
+      "stage": "❌ DQ - Org Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "88dbc4727476",
+      "name": "Roxanna Quinones-Cruz",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 4
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "38e3afc385bc",
+      "name": "Carlos Lopez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "190756bdb2e8",
+      "name": "Willianny casañas",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "7493cefce758",
+      "name": "Jaelen Neal",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 7
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "cbf903827ce4",
+      "name": "TIFFANY ANTOINE",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 6
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "4341dd66f103",
+      "name": "Carina Cruz",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "390732f789cd",
+      "name": "Rosa Flores",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "f6bd9d7d0deb",
+      "name": "Christina Hall",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "11dcf538f1a7",
+      "name": "Melina Morales",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "109043f8396c",
+      "name": "Kyle Jones",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "b89e57ec1e8d",
+      "name": "Harry Respass",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "a6cf9ac42d96",
+      "position_name": "Mental Health Program Coordinator - Virtual",
+      "candidate_id": "f32f3afd8e18",
+      "name": "Denise Gonzalez",
+      "stage": "❌ DQ – Role Fit",
+      "stream_length": 3
+    },
+    {
+      "position_id": "d9fe0ac1513b",
+      "position_name": "Lead Mental Health Technician – Adolescents (Bilingual)",
+      "candidate_id": "b2aa37f88fcf",
+      "name": "Ryan Mcgovern",
+      "stage": "Applied",
+      "stream_length": 2
+    },
+    {
+      "position_id": "eba7dd2d646b",
+      "position_name": "2027 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_id": "952b6873420d",
+      "name": "Adriana gallat",
+      "stage": "Pre-Auth",
+      "stream_length": 4
+    },
+    {
+      "position_id": "eba7dd2d646b",
+      "position_name": "2027 AWA Internship & Practicum: Work with Adolescents in a PHP/IOP Setting",
+      "candidate_id": "fcf77f6ccb27",
+      "name": "Brianna Robinson",
+      "stage": "DAVIE",
+      "stream_length": 3
+    },
+    {
+      "position_id": "135171b76561",
+      "position_name": "Behavioral Health Recruiter",
+      "candidate_id": "c7db85f19db2",
+      "name": "Kennedi Fennell",
+      "stage": "Disqualified",
+      "stream_length": 4
+    }
+  ]
+}
