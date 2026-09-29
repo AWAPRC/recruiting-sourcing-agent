@@ -1029,7 +1029,7 @@
     "last_reviewed": "2026-09-15T19:19:12.672Z"
   },
   "fedc89ae7175": {
-    "name": "Paula Sánchez Sánchez",
+    "name": "Paula S\u00e1nchez S\u00e1nchez",
     "position_id": "a6cf9ac42d96",
     "last_reviewed": "2026-09-15T19:19:13.045Z"
   },
@@ -1808,5 +1808,55 @@
     "name": "Jasmine Flores",
     "position_id": "a6cf9ac42d96",
     "last_reviewed": "2026-09-29T02:39:41.823Z"
+  },
+  "deae5a694c39": {
+    "name": "Shamaya Rivera",
+    "position_id": "135171b76561",
+    "last_reviewed": "2026-09-29T15:31:38.624950Z"
+  },
+  "6cb75c13ff04": {
+    "name": "Justin Babinec",
+    "position_id": "135171b76561",
+    "last_reviewed": "2026-09-29T15:31:38.624950Z"
+  },
+  "58287cf8f7eb": {
+    "name": "Nonye Olivia Ogba",
+    "position_id": "135171b76561",
+    "last_reviewed": "2026-09-29T15:31:38.624950Z"
+  },
+  "9133b4d4a388": {
+    "name": "Tamika Boyce",
+    "position_id": "135171b76561",
+    "last_reviewed": "2026-09-29T15:31:38.624950Z"
+  },
+  "b71c60447a83": {
+    "name": "Ashneel Shankar",
+    "position_id": "135171b76561",
+    "last_reviewed": "2026-09-29T15:31:38.624950Z"
+  },
+  "5636fdd2d12f": {
+    "name": "Isaac Camacho",
+    "position_id": "135171b76561",
+    "last_reviewed": "2026-09-29T15:31:38.624950Z"
+  },
+  "1abeb5168a25": {
+    "name": "MICHAEL TAPIA",
+    "position_id": "d9fe0ac1513b",
+    "last_reviewed": "2026-09-29T15:31:38.624950Z"
+  },
+  "96af683674d3": {
+    "name": "Maria Mejia",
+    "position_id": "d9fe0ac1513b",
+    "last_reviewed": "2026-09-29T15:31:38.624950Z"
+  },
+  "b2aa37f88fcf": {
+    "name": "Ryan Mcgovern",
+    "position_id": "d9fe0ac1513b",
+    "last_reviewed": "2026-09-29T15:31:38.624950Z"
+  },
+  "56695a6a197b": {
+    "name": "Sophil Lewis",
+    "position_id": "34e6df6e1c91",
+    "last_reviewed": "2026-09-29T15:31:38.624950Z"
   }
 }
