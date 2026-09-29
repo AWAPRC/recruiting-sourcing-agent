@@ -1,16 +1,21 @@
 #!/usr/bin/env node
-// audit_applied_stage.js (one-off, 2026-09-29, v2) — Devanne wants to clean
-// up EVERY stage that sits before Phone Screening for a given role: Applied,
-// Video/initial Screen, B Players, A Players - not just the literal
-// "Applied" stage_id. v1 of this script only checked "applied" and missed
-// the A/B Players triage stages that sit between Applied and Phone
-// Screening in this pipeline (per Devanne's recruiting_metrics stage order:
-// Applied -> Video Screen -> B Players -> A Players -> Phone Screen -> ...).
-// v2 resolves the position's actual pipeline stage order and audits every
-// stage up to (not including) the first stage whose name matches "phone
-// screen", so it adapts per-role instead of hardcoding stage names/ids.
-// Pulls full profile + full stage-change history for every candidate
-// currently sitting in any of those stages. Read-only; makes no changes.
+// audit_applied_stage.js (one-off, 2026-09-29, v3) — v1/v2 both failed to
+// find anyone: v1 only checked the literal "applied" stage_id (missing A/B
+// Players), and v2's pipeline-fetch approach came back empty because
+// position.pipeline_id is literally the string "default" here, not a real
+// pipeline resource id - GET /pipeline/default doesn't return a usable
+// stage list for this account. Per debug_pipeline_shape.json, each
+// candidate already carries its OWN current stage inline as
+// {id, name, type:{id,name}} from listCandidates() - no separate pipeline
+// fetch is needed at all. v3 uses that directly and matches on stage NAME
+// (case-insensitive) against Devanne's "before phone screening" stages:
+// Applied, Screening, B Players, A Players - explicitly excluding "Phone
+// Screen" itself even though Breezy groups "Screening" and "Phone Screen"
+// under the same type id (schedule_phone_screen) - they are different named
+// stages and Devanne treats "Screening" as pre-phone-screen. Personal
+// Impact and anything else is excluded (it happens after phone screening).
+// Pulls full profile + full stage-change history for every matching
+// candidate. Read-only; makes no changes to Breezy.
 //
 // Usage: node scripts/audit_applied_stage.js <position_id>
 const fs = require("fs");
@@ -23,6 +28,7 @@ if (!POSITION_ID) {
   process.exit(1);
 }
 const DATA_DIR = path.join(__dirname, "..", "data");
+const TARGET_STAGE_NAMES = new Set(["applied", "screening", "b players", "a players"]);
 
 (async () => {
   const client = new BreezyClient(process.env.BREEZY_EMAIL, process.env.BREEZY_PASSWORD);
@@ -31,35 +37,22 @@ const DATA_DIR = path.join(__dirname, "..", "data");
   const position = await client.api("GET", `/company/${company}/position/${POSITION_ID}`);
   console.log(`Position: ${position.name} (${POSITION_ID})`);
 
-  const pipelineId = position.pipeline_id || (position.pipeline && position.pipeline._id);
-  if (!pipelineId) throw new Error("no pipeline_id on position");
-  const pipeline = await client.api("GET", `/company/${company}/pipeline/${pipelineId}`);
-  const stages = pipeline.stages || pipeline.stage_list || [];
-  const stageMap = {};
-  for (const s of stages) stageMap[s.id] = { name: s.name, type_id: s.type && s.type.id };
-
-  console.log("Pipeline stage order:");
-  stages.forEach((s, i) => console.log(`  [${i}] ${s.id} - "${s.name}" (type: ${s.type && s.type.id})`));
-
-  const phoneScreenIdx = stages.findIndex((s) => /phone\s*screen/i.test(s.name || ""));
-  if (phoneScreenIdx === -1) {
-    console.log('WARNING: no stage matching "phone screen" found in pipeline - auditing every non-disqualified, non-hired stage instead.');
-  }
-  const preScreenStageIds = new Set(
-    stages
-      .filter((s, i) => {
-        const typeId = s.type && s.type.id;
-        if (typeId === "disqualified" || typeId === "hired") return false;
-        if (phoneScreenIdx === -1) return true;
-        return i < phoneScreenIdx;
-      })
-      .map((s) => s.id)
-  );
-  console.log(`Stages counted as "before phone screening": ${[...preScreenStageIds].map((id) => stageMap[id].name).join(", ")}`);
-
   const candidates = await client.listCandidates(POSITION_ID, company);
-  const preScreen = candidates.filter((c) => c.stage && preScreenStageIds.has(c.stage.id));
-  console.log(`${preScreen.length} candidate(s) currently in a pre-phone-screening stage.`);
+
+  // Build a best-effort stage_id -> {name, type_id} map from whatever stages
+  // are actually in use right now (for resolving historical stage-change
+  // events later), since there's no separate pipeline resource to fetch.
+  const stageMap = {};
+  for (const c of candidates) {
+    if (c.stage && c.stage.id != null) {
+      stageMap[c.stage.id] = { name: c.stage.name, type_id: c.stage.type && c.stage.type.id };
+    }
+  }
+  console.log("Stages currently in use for this position:");
+  for (const [id, s] of Object.entries(stageMap)) console.log(`  ${id} - "${s.name}" (type: ${s.type_id})`);
+
+  const preScreen = candidates.filter((c) => c.stage && TARGET_STAGE_NAMES.has((c.stage.name || "").toLowerCase()));
+  console.log(`\n${preScreen.length} candidate(s) currently in a pre-phone-screening stage (Applied/Screening/B Players/A Players).`);
 
   const results = [];
   for (const c of preScreen) {
@@ -84,7 +77,7 @@ const DATA_DIR = path.join(__dirname, "..", "data");
         const obj = e.object || {};
         const rawStageId =
           obj.stage_id || obj.to_stage_id || (obj.stage && obj.stage.id) || (obj.to && obj.to.id) || obj.new_stage_id || null;
-        const resolved = rawStageId && stageMap[rawStageId];
+        const resolved = rawStageId != null && stageMap[rawStageId];
         return {
           timestamp: e.timestamp,
           raw_object: obj,
@@ -114,7 +107,7 @@ const DATA_DIR = path.join(__dirname, "..", "data");
   }
 
   const outFile = path.join(DATA_DIR, `applied_stage_audit_${POSITION_ID}_2026-09-29.json`);
-  fs.writeFileSync(outFile, JSON.stringify({ pulled_at: new Date().toISOString(), position_id: POSITION_ID, position_name: position.name, pre_screen_stage_names: [...preScreenStageIds].map((id) => stageMap[id].name), candidates: results }, null, 2));
+  fs.writeFileSync(outFile, JSON.stringify({ pulled_at: new Date().toISOString(), position_id: POSITION_ID, position_name: position.name, target_stage_names: [...TARGET_STAGE_NAMES], candidates: results }, null, 2));
   console.log(`\nWrote ${outFile} with ${results.length} candidates.`);
 })().catch((e) => {
   console.error("ERROR:", e.message);
