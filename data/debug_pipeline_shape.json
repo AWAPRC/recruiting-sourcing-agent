@@ -1,0 +1,204 @@
+{
+  "position": {
+    "_id": "a6cf9ac42d96",
+    "type": {
+      "id": "partTime",
+      "name": "Part-Time"
+    },
+    "state": "published",
+    "name": "Mental Health Program Coordinator - Virtual",
+    "friendly_id": "a6cf9ac42d96-mental-health-program-coordinator-virtual",
+    "experience": null,
+    "location": {
+      "country": {
+        "name": "United States",
+        "id": "US"
+      },
+      "state": {
+        "id": "FL",
+        "name": "Florida"
+      },
+      "primary": true,
+      "is_remote": true,
+      "remote_details": {
+        "value": "remote-location",
+        "label": "Fully remote, within chosen location(s)"
+      },
+      "name": "United States"
+    },
+    "education": null,
+    "department": "Adolescent Wellness Academy - Virtual",
+    "requisition_id": "AWA-VRT-WC-09112026",
+    "description": "<h1>Adolescent Mental Health Program Coordinator</h1>\n<p><strong>Spanish Required | Remote in Florida | Part-Time | $17/hour during training; $19/hour after training</strong></p>\n<h2>About the Role</h2>\n<p>Adolescent Wellness Academy (AWA) is looking for a bilingual coordinator to support teens and families entering our virtual mental health program. You’ll help families navigate intake, keep records and schedules organized, and support adolescents during virtual group sessions.</p>\n<p>This is a <strong>non-clinical role</strong> with close collaboration across our admissions and clinical teams. It’s a strong fit for someone with experience in behavioral health, case management, education, or mental health administration who is organized, calm under pressure, and comfortable communicating with families in English and Spanish.</p>\n<h2>What You’ll Do</h2>\n<ul><li>Guide families through intake logistics, paperwork, scheduling, and program updates</li><li>Maintain intake documents, attendance, census records, and other program records</li><li>Coordinate new admission appointments, including psychiatric and IEP appointments</li><li>Support virtual sessions by monitoring chat, helping teens navigate transitions, and troubleshooting Zoom</li><li>Complete same-day administrative documentation and wellness check-ins as assigned</li><li>Promptly alert the clinical team to safety concerns, disclosures, or changes in client behavior</li></ul>\n<h2>What We’re Looking For</h2>\n<ul><li>Fluency in <strong>English and Spanish</strong></li><li>Experience in a behavioral health, clinical, educational, or related administrative setting</li><li>Strong communication, organization, and documentation skills</li><li>Comfort working with adolescents ages 13–17 and supporting virtual groups</li><li>Sound judgment about the boundaries of a non-clinical role and when to escalate concerns</li></ul>\n<p>AWA provides PHP and IOP mental health services for adolescents in South Florida. In this role, you’ll help create a welcoming, organized experience for teens and families from their first steps into care.</p>\n<p><strong><strong>Learn More:&nbsp;</strong></strong><a href=\"https://adolescentwellnessacademy.com/\" class=\"editor-link\" dir=\"ltr\" data-faitracker-click-bind=\"true\">Adolescent Wellness Academy</a></p>",
+    "category": null,
+    "application_form": {
+      "name": "required",
+      "headline": "optional",
+      "summary": "optional",
+      "profile_photo": "optional",
+      "address": "required",
+      "salary": "hidden",
+      "email_address": "required",
+      "phone_number": "required",
+      "resume": "required",
+      "work_history": "optional",
+      "education": "optional",
+      "cover_letter": "optional",
+      "preferred_location": "hidden",
+      "questionnaire_in_experience": true
+    },
+    "creator_id": "c33b51bf818d",
+    "creation_date": "2026-09-11T20:30:49.742Z",
+    "updated_date": "2026-09-24T04:21:53.327Z",
+    "questionnaire_id": "f362c75cc342",
+    "all_users": [
+      "c33b51bf818d",
+      "99b44f51e79a",
+      "d1c3149fdaef",
+      "65ebc6affdb2"
+    ],
+    "all_admins": [
+      "c33b51bf818d",
+      "99b44f51e79a",
+      "d1c3149fdaef",
+      "65ebc6affdb2"
+    ],
+    "pipeline_id": "default",
+    "candidate_type": "all",
+    "tags": [
+      "devanne",
+      "AWA virtual"
+    ],
+    "org_type": "position",
+    "bias_enabled": false,
+    "salary": {
+      "from": 17,
+      "to": 19,
+      "period": "Hourly",
+      "currency": "USD"
+    }
+  },
+  "pipelineId": "default",
+  "candidates_sample": [
+    {
+      "name": "Aliyah Carranza",
+      "stage": {
+        "id": 1776873239176,
+        "name": "Screening",
+        "type": {
+          "id": "schedule_phone_screen",
+          "name": "Phone Screen",
+          "icon": "phone"
+        }
+      }
+    },
+    {
+      "name": "Marta Garcia",
+      "stage": {
+        "id": 1776873239176,
+        "name": "Screening",
+        "type": {
+          "id": "schedule_phone_screen",
+          "name": "Phone Screen",
+          "icon": "phone"
+        }
+      }
+    },
+    {
+      "name": "CARA DEANGELIS",
+      "stage": {
+        "id": "applied",
+        "name": "Applied",
+        "type": {
+          "id": "applied",
+          "name": "Applied",
+          "icon": "user"
+        }
+      }
+    },
+    {
+      "name": "Christina Ruiz",
+      "stage": {
+        "id": "applied",
+        "name": "Applied",
+        "type": {
+          "id": "applied",
+          "name": "Applied",
+          "icon": "user"
+        }
+      }
+    },
+    {
+      "name": "Christy Green",
+      "stage": {
+        "id": 1776873797711,
+        "name": "❌ DQ – Role Fit",
+        "type": {
+          "id": "disqualified",
+          "name": "Disqualified",
+          "icon": "user-slash"
+        }
+      }
+    },
+    {
+      "name": "Sheilyn Ingles",
+      "stage": {
+        "id": "applied",
+        "name": "Applied",
+        "type": {
+          "id": "applied",
+          "name": "Applied",
+          "icon": "user"
+        }
+      }
+    },
+    {
+      "name": "Adriana Lopez",
+      "stage": {
+        "id": 1778073398281,
+        "name": "Phone Screen",
+        "type": {
+          "id": "schedule_phone_screen",
+          "name": "Phone Screen",
+          "icon": "phone"
+        }
+      }
+    },
+    {
+      "name": "Mariela Gonzalez",
+      "stage": {
+        "id": 1778073398281,
+        "name": "Phone Screen",
+        "type": {
+          "id": "schedule_phone_screen",
+          "name": "Phone Screen",
+          "icon": "phone"
+        }
+      }
+    },
+    {
+      "name": "Letticia Timngum",
+      "stage": {
+        "id": 1776873239176,
+        "name": "Screening",
+        "type": {
+          "id": "schedule_phone_screen",
+          "name": "Phone Screen",
+          "icon": "phone"
+        }
+      }
+    },
+    {
+      "name": "VIVIANA MORALES",
+      "stage": {
+        "id": 1778073398281,
+        "name": "Phone Screen",
+        "type": {
+          "id": "schedule_phone_screen",
+          "name": "Phone Screen",
+          "icon": "phone"
+        }
+      }
+    }
+  ]
+}
