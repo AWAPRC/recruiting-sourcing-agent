@@ -1,0 +1,47 @@
+name: Audit Applied stage for one role (one-off, 2026-09-29)
+
+# Pulls every candidate currently in the Applied stage (before Phone
+# Screening) for a given position, with full profile + full stage-change
+# history, so Claude can judge who doesn't meet requirements and who's
+# already been disqualified twice. Read-only - makes no changes to Breezy.
+
+on:
+  workflow_dispatch:
+    inputs:
+      position_id:
+        description: 'Breezy position ID to audit (e.g. a6cf9ac42d96 for Mental Health Program Coordinator - Virtual)'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with: { node-version: '24' }
+
+      - name: Audit Applied stage
+        env:
+          BREEZY_EMAIL:    ${{ secrets.BREEZY_EMAIL }}
+          BREEZY_PASSWORD: ${{ secrets.BREEZY_PASSWORD }}
+        run: node scripts/audit_applied_stage.js "${{ github.event.inputs.position_id }}"
+
+      - name: Commit pulled data back
+        run: |
+          git config user.name  "recruiting-agent-bot"
+          git config user.email "recruiting-agent-bot@users.noreply.github.com"
+          git add data/ || true
+          git commit -m "Applied-stage audit $(TZ=America/New_York date +'%F %H:%M ET')" || echo "no changes"
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "Push rejected (attempt $i/5) - fetching and rebasing before retry..."
+            git fetch origin main
+            git rebase origin/main
+            sleep $((i * 3))
+          done
