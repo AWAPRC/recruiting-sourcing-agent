@@ -80,8 +80,8 @@
     "position_id": "a6cf9ac42d96",
     "candidate_id": "e2b46485f94a",
     "name": "Christina Ruiz",
-    "review": "**🤖 AI Candidate Review** (auto-generated, not a team member)\n\n**Fit summary:** Excellent fit — bilingual, psychology-degreed, and a career built almost entirely around youth, family, and case-management work.\n\n**Strengths:** Fluent bilingual (English/Spanish); bachelor's in Psychology; direct case management with immigrant youth and families (Lutheran Services Carolinas); youth intake specialist conducting shelter intake interviews; group facilitation for adolescents with behavioral/developmental needs (MCUSA); bilingual interpretation and family engagement across multiple roles; strong crisis communication and de-escalation background from corrections work.\n\n**Gaps:** Current role (Detention Officer) is a departure from direct behavioral-health work, though her stated reason for the move (returning to psychology/adolescent/bilingual family support) is coherent and well-articulated.\n\n**Consistency check:** No contradictions found — cover letter, resume, and questionnaire all align closely.\n\n**Tenure/timeline notes:** Frequent job changes across a long and varied career (many roles 1-2 years each) — not concerning on its own given the variety reflects a consistent thread of youth/family/bilingual work, but worth a light phone-screen question about the pattern.\n\n**Recommendation:** Advance — strong, directly relevant background across bilingual family support, youth case management, and crisis communication; a clear priority for phone screen.",
-    "disqualify": false
+    "review": "**🤖 AI Candidate Review** (auto-generated, not a team member)\n\n**Fit summary:** Excellent fit on every criterion except pay — bilingual, psychology-degreed, and a career built almost entirely around youth, family, and case-management work.\n\n**Strengths:** Fluent bilingual (English/Spanish); bachelor's in Psychology; direct case management with immigrant youth and families (Lutheran Services Carolinas); youth intake specialist and family support specialist experience; prior detention-officer and interpreter roles add crisis-communication skills.\n\n**Gaps:** Compensation ask of $22/hr is $1 over the role's $21/hr hard cap.\n\n**Consistency check:** Nothing notable.\n\n**Tenure/timeline notes:** Varied but steadily progressing roles, no concerning gaps.\n\n**Recommendation:** Disqualify per the $21/hr comp cap — flagging that this is otherwise the strongest fit in the batch, in case it's worth a one-time exception or a counter-offer before closing the file.",
+    "disqualify": true
   },
   {
     "position_id": "a6cf9ac42d96",
@@ -172,6 +172,27 @@
     "candidate_id": "4799326f26bd",
     "name": "Kallista Welty",
     "review": "**🤖 AI Candidate Review** (auto-generated, not a team member)\n\n**Fit summary:** Does not meet the role's bilingual must-have or its behavioral-health/education experience expectation.\n\n**Strengths:** Comfortable with background screening and drug test; some childcare experience (Babysitter, 2022-2023).\n\n**Gaps:** No Spanish fluency, which this role requires. No behavioral health, case management, or education-setting experience beyond informal babysitting. Comp ask ($25,000-$30,000, read as an annual figure rather than hourly) is well outside the posted $17-19/hr range and the question format suggests possible confusion about the pay structure.\n\n**Consistency check:** Nothing notable.\n\n**Tenure/timeline notes:** Single work history entry on file (Babysitter, ~1 year). She noted leaving because a co-worker at the daycare was mistreating the children in her care — a workplace-safety observation about someone else, not about her own conduct.\n\n**Recommendation:** Disqualify — Spanish fluency is a stated must-have for this role and she does not meet it; experience level is also well short of the role's expectations.",
+    "disqualify": true
+  },
+  {
+    "position_id": "a6cf9ac42d96",
+    "candidate_id": "19bf452c5840",
+    "name": "JOHANEL MAYSONET",
+    "review": "**🤖 AI Candidate Review** (auto-generated, not a team member)\n\n**Fit summary:** Very strong clinical/behavioral credentials, but compensation ask is far outside the role's budget.\n\n**Strengths:** Fluent bilingual (English/Spanish); Registered Behavior Technician and Mental Health Counselor/Targeted Case Manager experience; ESE Paraprofessional background; Master's in Guidance and Counseling.\n\n**Gaps:** Compensation ask of $35/hr is more than 60% over the role's $21/hr hard cap — a licensed-level rate for a part-time, non-clinical coordinator seat.\n\n**Consistency check:** Nothing notable.\n\n**Tenure/timeline notes:** Nothing concerning on file.\n\n**Recommendation:** Disqualify — comp ask is well outside the role's pay cap.",
+    "disqualify": true
+  },
+  {
+    "position_id": "a6cf9ac42d96",
+    "candidate_id": "0412ad873ed4",
+    "name": "Paula Villella",
+    "review": "**🤖 AI Candidate Review** (auto-generated, not a team member)\n\n**Fit summary:** Overqualified on paper (licensed-clinician-level background) and compensation ask confirms the mismatch.\n\n**Strengths:** Fluent bilingual (English/Spanish); lists \"Clinical Psychologist\" as her title; Master's in Prevention and Treatment of Substance Use Disorders.\n\n**Gaps:** Compensation ask of $23-30/hr is above the role's $21/hr hard cap at every point in her stated range. Her clinical licensure level is a mismatch for this non-clinical, part-time, $17-19/hr coordinator seat.\n\n**Consistency check:** Nothing notable.\n\n**Tenure/timeline notes:** Nothing concerning on file.\n\n**Recommendation:** Disqualify — comp ask is entirely outside the role's pay cap, consistent with being overqualified for a non-clinical seat.",
+    "disqualify": true
+  },
+  {
+    "position_id": "a6cf9ac42d96",
+    "candidate_id": "2f19b58c5ac0",
+    "name": "Jasmine Flores",
+    "review": "**🤖 AI Candidate Review** (auto-generated, not a team member)\n\n**Fit summary:** Solid educational/counseling credentials, but compensation ask is outside the role's budget.\n\n**Strengths:** School Counseling Intern experience; Bachelor's in Psychology, Master's in Marriage & Family Therapy.\n\n**Gaps:** Compensation ask of $22-25/hr is above the role's $21/hr hard cap at every point in her stated range. Spanish fluency was also self-rated \"Conversational\" rather than \"Fluent or bilingual,\" short of the role's stated bilingual must-have.\n\n**Consistency check:** Nothing notable.\n\n**Tenure/timeline notes:** Nothing concerning on file.\n\n**Recommendation:** Disqualify — comp ask is outside the role's pay cap.",
     "disqualify": true
   }
 ]
