@@ -1,0 +1,42 @@
+name: Debug pipeline shape (diagnostic, 2026-09-29)
+
+on:
+  workflow_dispatch:
+    inputs:
+      position_id:
+        description: 'Breezy position ID to inspect'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with: { node-version: '24' }
+
+      - name: Debug pipeline shape
+        env:
+          BREEZY_EMAIL:    ${{ secrets.BREEZY_EMAIL }}
+          BREEZY_PASSWORD: ${{ secrets.BREEZY_PASSWORD }}
+        run: node scripts/debug_pipeline_shape.js "${{ github.event.inputs.position_id }}"
+
+      - name: Commit pulled data back
+        run: |
+          git config user.name  "recruiting-agent-bot"
+          git config user.email "recruiting-agent-bot@users.noreply.github.com"
+          git add data/ || true
+          git commit -m "Debug pipeline shape $(TZ=America/New_York date +'%F %H:%M ET')" || echo "no changes"
+          for i in 1 2 3 4 5; do
+            git push && break
+            echo "Push rejected (attempt $i/5) - fetching and rebasing before retry..."
+            git fetch origin main
+            git rebase origin/main
+            sleep $((i * 3))
+          done
