@@ -18,6 +18,12 @@ const TARGET_STAGE_PATTERNS = [
   /applied/i,
   /video\s*screen/i,
   /phone\s*screen/i,
+  // Bare "Screening" stage (distinct from "Phone Screen"/"Video Screen") -
+  // discovered 2026-09-30 on Mental Health Program Coordinator - Virtual,
+  // which had 26 candidates sitting in a "Screening" stage that no pattern
+  // above matched, so they were silently excluded from every review batch.
+  // If another role uses this same bare name, this covers it too.
+  /\bscreening\b/i,
   /\bpii\b/i,
   /personal\s*impact/i,
   /a[\s-]?player/i,
