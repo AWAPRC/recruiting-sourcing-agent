@@ -5554,6 +5554,116 @@
       "stage_status": null,
       "stage_ok": null,
       "posted_date": "2026-09-30T21:50:00.499Z"
+    },
+    {
+      "candidate": "Imelda Rodriguez",
+      "candidate_id": "c68bfb23a641",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-30T22:32:13.535Z"
+    },
+    {
+      "candidate": "Sameer Eric",
+      "candidate_id": "3c889bbb06ee",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-30T22:32:13.952Z"
+    },
+    {
+      "candidate": "Melanie Nunez-Allen",
+      "candidate_id": "8e90c0b448ff",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-30T22:32:14.365Z"
+    },
+    {
+      "candidate": "JACQUELINE INGRAM-HALL",
+      "candidate_id": "f61d122a6abc",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-30T22:32:14.691Z"
+    },
+    {
+      "candidate": "Juan Plascencia",
+      "candidate_id": "10d1b0535402",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-30T22:32:15.017Z"
+    },
+    {
+      "candidate": "YEON JU KIM",
+      "candidate_id": "3b133bf32cca",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-30T22:32:15.364Z"
+    },
+    {
+      "candidate": "Donielle Taggart",
+      "candidate_id": "b069cfc1bed4",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-30T22:32:18.201Z"
+    },
+    {
+      "candidate": "Christian Alvarez",
+      "candidate_id": "e1ef968da520",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-30T22:32:18.511Z"
+    },
+    {
+      "candidate": "Emillie N. González Nieves",
+      "candidate_id": "e638f86a7237",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-30T22:32:18.865Z"
+    },
+    {
+      "candidate": "Megan Walker",
+      "candidate_id": "be7e70e964d6",
+      "position_id": "a6cf9ac42d96",
+      "comment_status": 200,
+      "comment_ok": true,
+      "disqualified": true,
+      "stage_status": 204,
+      "stage_ok": true,
+      "posted_date": "2026-09-30T22:32:19.152Z"
     }
   ]
 }
