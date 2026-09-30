@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "position_id": "a6cf9ac42d96",
+    "candidate_id": "f68d66a5e32d",
+    "name": "Rachel Thompson",
+    "review": "Disqualify reason: no Spanish fluency against this role's Required bilingual qualification, no clinical/educational/administrative/community mental-health setting experience, and not confirmed Florida-based.",
+    "disqualify": false
+  },
+  {
+    "position_id": "d9fe0ac1513b",
+    "candidate_id": "d15876853dfb",
+    "name": "Karol Pacheco",
+    "review": "Disqualify reason: no relevant professional work history against this role's 2+ years MH treatment/PHP/IOP/residential requirement - background is a 2-month student volunteer stint, an unpaid psychology club membership, and a year in retail.",
+    "disqualify": false
+  },
+  {
+    "position_id": "d9fe0ac1513b",
+    "candidate_id": "f17fc9beb8ad",
+    "name": "Kaliyah Wilson",
+    "review": "Disqualify reason: no Spanish fluency against this role's Required bilingual (English/Spanish) qualification. Direct MH-treatment experience was otherwise relevant.",
+    "disqualify": false
+  },
+  {
+    "position_id": "d9fe0ac1513b",
+    "candidate_id": "6e09e0852ace",
+    "name": "ANGELICA MOREJON",
+    "review": "Disqualify reason: no professional MH treatment or youth-care work history of any kind (only work history entry is a hostess job) against this role's 2+ years requirement, despite a relevant RBT credential.",
+    "disqualify": false
+  },
+  {
+    "position_id": "72e1265e1528",
+    "candidate_id": "f97bed1e7daa",
+    "name": "Sameer Eric",
+    "review": "Disqualify reason: no active FL LMHC/LCSW/LMFT license (RADT is a recovery/detox technician credential, not a therapy license, and the posting requires active full Florida licensure), no Spanish fluency, and background is financial brokerage/sales rather than clinical intake work.",
+    "disqualify": false
+  },
+  {
+    "position_id": "135171b76561",
+    "candidate_id": "d585ebcdf302",
+    "name": "Chris Perry",
+    "review": "Disqualify reason: no recruiting experience of any kind against this role's required 2+ years of full-cycle recruiting - entire work history is behavioral-health clinical/operations executive leadership (Director of Behavioral Health, VP Crisis Services, VP Clinical Services), not recruiting.",
+    "disqualify": false
+  },
+  {
+    "position_id": "135171b76561",
+    "candidate_id": "deae5a694c39",
+    "name": "Shamaya Rivera",
+    "review": "Disqualify reason: no recruiting, sourcing, hiring, or ATS experience in any role listed against this role's required 2+ years of full-cycle recruiting - background is direct patient care and administrative support (BHT, PCA, pharmacy tech).",
+    "disqualify": false
+  }
+]
