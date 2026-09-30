@@ -28,12 +28,30 @@ const AI_LABEL = '**🤖 AI Candidate Review** (auto-generated, not a team membe
 // that lookup fails.
 const FALLBACK_DQ_STAGE_ID = 1776873797711;
 
+// Known per-position overrides, confirmed via the "List all pipeline stages"
+// discovery workflow on 2026-09-30 after both the live-resolution lookup AND
+// the universal fallback returned wrong/500ing results for these two roles.
+// Both use stage_id 1765824096294 ("Disqualified", type.id: disqualified) -
+// the same alternate ID that 4cc04907edf2 needed previously. Add more roles
+// here if the same "no disqualified-type stage found" warning + 500 pattern
+// shows up again; re-run scripts/list_all_stages.js to confirm the real id
+// before adding one.
+const KNOWN_DQ_STAGE_OVERRIDES = {
+  '135171b76561': 1765824096294, // Behavioral Health Recruiter
+  '72e1265e1528': 1765824096294, // Licensed Clinical Intake Specialist
+};
+
 // Per-position disqualify-stage cache so we only hit the pipeline API once
 // per position even across many candidates in the same batch.
 const dqStageCache = {};
 
 async function resolveDqStageId(client, company, positionId) {
   if (dqStageCache[positionId]) return dqStageCache[positionId];
+  if (KNOWN_DQ_STAGE_OVERRIDES[positionId]) {
+    dqStageCache[positionId] = KNOWN_DQ_STAGE_OVERRIDES[positionId];
+    console.log(`Using known override disqualify stage for position ${positionId}: ${KNOWN_DQ_STAGE_OVERRIDES[positionId]}`);
+    return dqStageCache[positionId];
+  }
   try {
     const position = await client.api('GET', `/company/${company}/position/${positionId}`);
     const pipelineId = position.pipeline_id || (position.pipeline && position.pipeline._id);

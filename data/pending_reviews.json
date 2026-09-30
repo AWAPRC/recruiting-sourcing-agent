@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "position_id": "135171b76561",
+    "candidate_id": "deae5a694c39",
+    "name": "Shamaya Rivera",
+    "review": "(stage-move retry only, comment already posted)",
+    "disqualify": true,
+    "skip_comment": true
+  },
+  {
+    "position_id": "72e1265e1528",
+    "candidate_id": "f97bed1e7daa",
+    "name": "Sameer Eric",
+    "review": "(stage-move retry only, comment already posted)",
+    "disqualify": true,
+    "skip_comment": true
+  },
+  {
+    "position_id": "135171b76561",
+    "candidate_id": "d585ebcdf302",
+    "name": "Chris Perry",
+    "review": "(stage-move retry only, comment already posted)",
+    "disqualify": true,
+    "skip_comment": true
+  }
+]
