@@ -90,9 +90,15 @@ async function moveStage(token, company, positionId, candidateId, stageId) {
 
   const results = [];
   for (const item of items) {
-    console.log(`\n--- ${item.name} (${item.candidate_id}) — position ${item.position_id} ${item.disqualify ? '[DISQUALIFY]' : ''} ---`);
-    const commentRes = await postComment(token, company, item.position_id, item.candidate_id, AI_LABEL + item.review);
-    console.log('Comment status:', commentRes.status);
+    console.log(`\n--- ${item.name} (${item.candidate_id}) — position ${item.position_id} ${item.disqualify ? '[DISQUALIFY]' : ''}${item.skip_comment ? ' [SKIP-COMMENT: retry stage-move only]' : ''} ---`);
+    let commentRes;
+    if (item.skip_comment) {
+      console.log('Skipping comment post (already posted in a prior run) - retrying stage move only.');
+      commentRes = { status: 200, text: '' };
+    } else {
+      commentRes = await postComment(token, company, item.position_id, item.candidate_id, AI_LABEL + item.review);
+      console.log('Comment status:', commentRes.status);
+    }
 
     let stageRes = null;
     if (item.disqualify) {
