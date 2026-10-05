@@ -47,5 +47,33 @@
     "name": "Shamaya Rivera",
     "review": "Disqualify reason: no recruiting, sourcing, hiring, or ATS experience in any role listed against this role's required 2+ years of full-cycle recruiting - background is direct patient care and administrative support (BHT, PCA, pharmacy tech).",
     "disqualify": false
+  },
+  {
+    "position_id": "a6cf9ac42d96",
+    "candidate_id": "f294158aa334",
+    "name": "Anhia Santana",
+    "review": "Disqualify reason: based in Pennsylvania, which is not one of the approved states for this role (FL/UT/KS/AZ/TX only). Otherwise qualified - fluent Spanish, comp ask ($19/hr) in range.",
+    "disqualify": true
+  },
+  {
+    "position_id": "a6cf9ac42d96",
+    "candidate_id": "1d67a8dcbb95",
+    "name": "Mara Zenger",
+    "review": "Disqualify reason: based in Palo Alto, California, which is not one of the approved states for this role (FL/UT/KS/AZ/TX only). Otherwise qualified - fluent Spanish, comp ask ($17-19/hr) in range.",
+    "disqualify": true
+  },
+  {
+    "position_id": "a6cf9ac42d96",
+    "candidate_id": "56bb0e97a3fd",
+    "name": "Annierys Hilario Martinez",
+    "review": "Disqualify reason: based in North Carolina, which is not one of the approved states for this role (FL/UT/KS/AZ/TX only). Otherwise qualified - fluent Spanish, comp ask ($19/hr) in range.",
+    "disqualify": true
+  },
+  {
+    "position_id": "a6cf9ac42d96",
+    "candidate_id": "9c9f71374df1",
+    "name": "Diego A. Medina Vélez",
+    "review": "Disqualify reason: based in Moca, Puerto Rico, which is not one of the approved states for this role (FL/UT/KS/AZ/TX only) and is a RED/avoid jurisdiction on the company state-hiring matrix. Otherwise qualified - fluent Spanish, comp ask ($25-35/hr) in range.",
+    "disqualify": true
   }
 ]
