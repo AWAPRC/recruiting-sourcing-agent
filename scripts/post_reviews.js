@@ -139,19 +139,43 @@ async function moveStage(token, company, positionId, candidateId, stageId) {
       stage_ok: stageRes ? stageRes.status >= 200 && stageRes.status < 300 : null,
       posted_date: new Date().toISOString(),
     });
+
+    // Small delay between requests to avoid tripping Breezy's API rate limiter
+    // (a burst with no delay previously triggered a 429 cascade partway through a batch).
+    await new Promise((resolve) => setTimeout(resolve, 350));
   }
 
   const existingLog = fs.existsSync(LOG_PATH) ? JSON.parse(fs.readFileSync(LOG_PATH, 'utf8')) : { posted: [] };
   existingLog.posted = existingLog.posted.concat(results);
   fs.writeFileSync(LOG_PATH, JSON.stringify(existingLog, null, 2));
 
-  // Clear the pending queue now that it's been posted.
-  fs.writeFileSync(PENDING_PATH, JSON.stringify([], null, 2));
+  // Only clear items that fully succeeded. Anything that failed (comment and/or stage move)
+  // stays queued for the next run instead of being silently dropped - this is what previously
+  // let a partial-failure run (e.g. a 429 rate-limit cascade) clear the whole queue, including
+  // items that never actually posted, risking duplicate comments on a naive re-run.
+  const stillPending = [];
+  for (let i = 0; i < items.length; i++) {
+    const item = items[i];
+    const r = results[i];
+    const commentOk = r.comment_ok;
+    const stageOk = !item.disqualify || r.stage_ok;
+    if (commentOk && stageOk) continue; // fully succeeded - drop from queue
+    if (commentOk && !stageOk) {
+      // Comment already posted successfully - retry the stage move only next time.
+      stillPending.push({ ...item, skip_comment: true });
+    } else {
+      // Comment failed (or wasn't attempted) - retry the whole item next time.
+      const { skip_comment, ...rest } = item;
+      stillPending.push(rest);
+    }
+  }
+  fs.writeFileSync(PENDING_PATH, JSON.stringify(stillPending, null, 2) + '\n');
 
   const failed = results.filter((r) => !r.comment_ok || (r.disqualified && !r.stage_ok));
   console.log(`\nDone. ${results.length - failed.length}/${results.length} fully succeeded.`);
   if (failed.length) {
     console.log('Issues:', failed.map((f) => f.candidate).join(', '));
+    console.log(`${stillPending.length} item(s) left in pending_reviews.json for retry.`);
     process.exitCode = 1;
   }
 })();
